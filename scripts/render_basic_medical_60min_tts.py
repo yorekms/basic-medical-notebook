@@ -54,6 +54,14 @@ CLEAN_AUDIO_STEMS: Dict[str, str] = {
     "EP806": "EP806_ICU_Red_Alert_Orders_Shock_Gaps_Ventilator_Curves_and_Coma_EEG",
     "EP807": "EP807_From_Womb_to_Heel_Stick_NIPT_Tandem_MS_Sweat_Chloride_and_Trio_Exomes",
     "EP808": "EP808_The_Jeopardy_Grandmaster_Tour_Microbiology_Fluid_Taps_and_Classic_Tests",
+    "EP809": "EP809_Cardiopulmonary_Diagnostics_Hemodynamics_and_Vascular_Medicine",
+    "EP810": "EP810_Gastroenterology_Hepatology_and_Metabolic_Nutrition",
+    "EP811": "EP811_Endocrinology_Dynamic_Testing_and_Neuroendocrine_Disorders",
+    "EP812": "EP812_Preventable_Death_Longevity_and_Screening_Medicine",
+    "EP813": "EP813_The_Neurodiagnostic_Vault_EEG_EMG_Evoked_Potentials_and_CSF",
+    "EP814": "EP814_Infectious_Disease_Serology_Virology_and_Parasitology",
+    "EP815": "EP815_Blood_Banking_Immunohematology_and_Advanced_Hemostasis",
+    "EP816": "EP816_Cytogenetics_Chromosomal_Microarrays_and_Long_Read_Genomics",
 }
 
 # Zero-overlap 21-Voice Studio Roster across Cast Modes A-G
@@ -181,7 +189,7 @@ ALLOWED_INLINE_TAGS = {
     "<throat-clearing>",
 }
 
-SPEAKER_LINE_RE = re.compile(r"^\*\*\[?([^*\]:]+)\]?:\*\*\s*(.*)$")
+SPEAKER_LINE_RE = re.compile(r"^\*\*\[?([^*\]:]+?)\]?(?::\*\*|\*\*:)\s*(.*)$")
 
 
 @dataclasses.dataclass
@@ -292,7 +300,7 @@ def parse_script(markdown_path: pathlib.Path) -> List[DialogueTurn]:
             continue
 
         match = SPEAKER_LINE_RE.match(stripped)
-        if match:
+        if match and match.group(1).strip() in SPEAKER_PROFILES:
             flush()
             current_speaker = match.group(1).strip()
             remainder = match.group(2).strip()

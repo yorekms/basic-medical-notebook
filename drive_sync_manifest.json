@@ -274,6 +274,87 @@
           "VOLUME_XIII_MASTER_MEDICAL_TESTING_ENCYCLOPEDIA_TUBES_METHODS_TRAPS_AND_JEOPARDY_MATRIX.md",
           "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS.md"
         ]
+      },
+      {
+        "slug": "Bundle_09_Ep809_Cardiopulmonary_Diagnostics_Hemodynamics_and_PFT.md",
+        "title": "Bundle 09 \u2014 Ep 809: Cardiopulmonary Diagnostics, Vector Loops, hs-cTn Deltoids & Body-Box DLCO (All-In-One)",
+        "doc_id": "1Sgcl1cFTgvr57Z_z6i1ZvHBI_o7ZCd5eQ1BOywK8VMU",
+        "doc_url": "https://docs.google.com/document/d/1Sgcl1cFTgvr57Z_z6i1ZvHBI_o7ZCd5eQ1BOywK8VMU/edit",
+        "components": [
+          "VOLUME_XV_CARDIOPULMONARY_DIAGNOSTICS_ECG_VECTORS_HS_TROPONIN_HEMODYNAMICS_AND_PFT.md",
+          "LONGFORM_60MIN_PODCAST_EP809_CARDIOPULMONARY_DIAGNOSTICS_HEMODYNAMICS_AND_VASCULAR_MEDICINE.md"
+        ]
+      },
+      {
+        "slug": "Bundle_10_Ep810_Gastroenterology_Hepatology_and_Nutrition.md",
+        "title": "Bundle 10 \u2014 Ep 810: Gastroenterology, Hepatology, Paracentesis SAAG, Chicago Manometry & Breath Physics (All-In-One)",
+        "doc_id": "1uhMQOjf3Gnqt8gDrUwW7b5P2E14N7WG_3aPKI4cja4c",
+        "doc_url": "https://docs.google.com/document/d/1uhMQOjf3Gnqt8gDrUwW7b5P2E14N7WG_3aPKI4cja4c/edit",
+        "components": [
+          "VOLUME_XVI_GASTROENTEROLOGY_HEPATOLOGY_AND_NUTRITION_DIAGNOSTICS.md",
+          "LONGFORM_60MIN_PODCAST_EP810_GASTROENTEROLOGY_HEPATOLOGY_AND_METABOLIC_NUTRITION.md"
+        ]
+      },
+      {
+        "slug": "Bundle_11_Ep811_Endocrinology_Dynamic_Testing_and_Mass_Spectrometry.md",
+        "title": "Bundle 11 \u2014 Ep 811: Endocrinology Dynamic Testing, Adrenal Vein Sampling & Mass Spectrometry (All-In-One)",
+        "doc_id": "1wNeTUMMfaDUQ6mZZwZ6OZb6SZsf3Kv5_0uHWjRyk7FI",
+        "doc_url": "https://docs.google.com/document/d/1wNeTUMMfaDUQ6mZZwZ6OZb6SZsf3Kv5_0uHWjRyk7FI/edit",
+        "components": [
+          "VOLUME_XVII_ENDOCRINOLOGY_DYNAMIC_TESTING_MASS_SPECTROMETRY_AND_ADRENAL_VEIN_SAMPLING.md",
+          "LONGFORM_60MIN_PODCAST_EP811_ENDOCRINOLOGY_DYNAMIC_TESTING_AND_NEUROENDOCRINE_DISORDERS.md"
+        ]
+      },
+      {
+        "slug": "Bundle_12_Ep812_Preventable_Death_Longevity_and_Screening.md",
+        "title": "Bundle 12 \u2014 Ep 812: Preventable Death, Evidence-Based Screening Architecture & Longevity (All-In-One)",
+        "doc_id": "167EwL4KNaPINkyY4BO0qvo50P8whq9kTiKBCOL_KyHo",
+        "doc_url": "https://docs.google.com/document/d/167EwL4KNaPINkyY4BO0qvo50P8whq9kTiKBCOL_KyHo/edit",
+        "components": [
+          "VOLUME_XVIII_PREVENTABLE_DEATH_LONGEVITY_AND_EVIDENCE_BASED_SCREENING_ARCHITECTURE.md",
+          "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY.md",
+          "LONGFORM_60MIN_PODCAST_EP812_PREVENTABLE_DEATH_LONGEVITY_AND_SCREENING_MEDICINE.md"
+        ]
+      },
+      {
+        "slug": "Bundle_13_Ep813_Neurodiagnostics_EEG_EMG_and_CSF_Biomarkers.md",
+        "title": "Bundle 13 \u2014 Ep 813: The Neurodiagnostic Vault, 10-20 EEG, SFEMG Jitter & Prion RT-QuIC (All-In-One)",
+        "doc_id": "1FRXUJ2GHRV8UWYuwEVRp86zpweNxHvz8qvqvhtL0lpQ",
+        "doc_url": "https://docs.google.com/document/d/1FRXUJ2GHRV8UWYuwEVRp86zpweNxHvz8qvqvhtL0lpQ/edit",
+        "components": [
+          "VOLUME_XIX_NEURODIAGNOSTICS_EMG_NCS_EEG_AND_CSF_BIOMARKERS.md",
+          "LONGFORM_60MIN_PODCAST_EP813_THE_NEURODIAGNOSTIC_VAULT_EEG_EMG_EVOKED_POTENTIALS_AND_CSF.md"
+        ]
+      },
+      {
+        "slug": "Bundle_14_Ep814_Infectious_Disease_Serology_Virology_and_Molecular.md",
+        "title": "Bundle 14 \u2014 Ep 814: Infectious Disease Serology, Syphilis Reverse Algorithm, HBV Core Windows & Tick Panels (All-In-One)",
+        "doc_id": "1SBiOhdTftU6D6u1RVByySfAjlUPFHZtWaRjB4QOCk7Q",
+        "doc_url": "https://docs.google.com/document/d/1SBiOhdTftU6D6u1RVByySfAjlUPFHZtWaRjB4QOCk7Q/edit",
+        "components": [
+          "VOLUME_XX_INFECTIOUS_DISEASE_SEROLOGY_VIROLOGY_AND_MOLECULAR_DIAGNOSTICS.md",
+          "LONGFORM_60MIN_PODCAST_EP814_INFECTIOUS_DISEASE_SEROLOGY_VIROLOGY_AND_PARASITOLOGY.md"
+        ]
+      },
+      {
+        "slug": "Bundle_15_Ep815_Blood_Banking_Immunohematology_and_Advanced_Hemostasis.md",
+        "title": "Bundle 15 \u2014 Ep 815: Blood Banking, 11-Cell Rule-Outs, Daratumumab DTT, Rosner Index & VWD Multimers (All-In-One)",
+        "doc_id": "1scaj1O0N2ZL4ZRoecJtDatuYBMvUs09Hb7u7JZ78LLY",
+        "doc_url": "https://docs.google.com/document/d/1scaj1O0N2ZL4ZRoecJtDatuYBMvUs09Hb7u7JZ78LLY/edit",
+        "components": [
+          "VOLUME_XXI_IMMUNOHEMATOLOGY_BLOOD_BANKING_AND_ADVANCED_HEMOSTASIS.md",
+          "LONGFORM_60MIN_PODCAST_EP815_BLOOD_BANKING_IMMUNOHEMATOLOGY_AND_ADVANCED_HEMOSTASIS.md"
+        ]
+      },
+      {
+        "slug": "Bundle_16_Ep816_Cytogenetics_Chromosomal_Microarrays_and_Long_Read_Genomics.md",
+        "title": "Bundle 16 \u2014 Ep 816: Cytogenetics, 550-Band Karyotypes, Dual-Fusion FISH, SNP Arrays & Nanopore Pseudogenes (All-In-One)",
+        "doc_id": "1Tp27z6HQEWgo0kYf5sh_9lRo-jfBM4i9-Vhlp0Y7Ue8",
+        "doc_url": "https://docs.google.com/document/d/1Tp27z6HQEWgo0kYf5sh_9lRo-jfBM4i9-Vhlp0Y7Ue8/edit",
+        "components": [
+          "VOLUME_XXII_CYTOGENETICS_CHROMOSOMAL_MICROARRAYS_AND_LONG_READ_GENOMICS.md",
+          "LONGFORM_60MIN_PODCAST_EP816_CYTOGENETICS_CHROMOSOMAL_MICROARRAYS_AND_LONG_READ_GENOMICS.md"
+        ]
       }
     ]
   },
