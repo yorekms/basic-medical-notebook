@@ -52,129 +52,189 @@ BUNDLE_SPECS = [
         "slug": "Bundle_01_Ep801_Kidney_Donor_Gauntlet_mGFR_Litholink_and_Split_Scans.md",
         "title": "Bundle 01 — Ep 801: Living Kidney Donor Gauntlet, mGFR, 24h Litholink & Split Scans (All-In-One)",
         "prompt": (
-            "Create a deep, longest-format behind-the-curtain medical diagnostics podcast starting from a real dilemma: "
-            "why even a scientifically trained living kidney donor candidate is mystified by the 45 tests ordered before donating a kidney. "
-            "Walk step-by-step through WHY serum creatinine and eGFR lie (Jaffe picrate vs enzymatic creatininase, OCT2/MATE1 tubular secretion blocked by trimethoprim, muscle mass vs Cystatin C), "
-            "and what happens behind the laboratory curtain during Measured GFR (weighing the Iohexol syringe to a milligram, contralateral timed draws at 120/180/240 minutes, LC-MS/MS endo/exo peaks, and the Brochner-Mortensen quadratic correction). "
-            "Unpack the 24-hour urine jug (why void #1 is discarded, catching under-collection via 20-25 mg/kg/day creatinine, UACR vs UPCR, and Litholink EQUIL2 stone supersaturation), "
-            "milking the 99Mo/99mTc generator at 5 AM for MAG3 split renal function, 4-phase donor CT angiography (why surgeons prefer the 7-cm left renal vein unless anatomy or split function dictates keeping the better kidney), OGTT, APOL1 G1/G2 alleles, and post-donation adaptive hyperfiltration."
+            "Deep dive into the living kidney donor gauntlet: measured GFR vs estimated equations, iohexol plasma clearance HPLC, 24-hour Litholink chemistry collection traps, nuclear MAG3 split renal function, and contrast-enhanced renal CTA vascular mapping."
         ),
         "components": [
             "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION.md",
             "DOCS_ARCHIVE_01_OSMOLARITY_AND_SOLUTION_CALCULATIONS.md",
-            "LONGFORM_60MIN_PODCAST_EP801_KIDNEY_DONOR_GAUNTLET_MGFR_24HR_URINE_AND_SPLIT_SCANS.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP801_KIDNEY_DONOR_GAUNTLET_MGFR_24HR_URINE_AND_SPLIT_SCANS.md"
+],
     },
     {
         "slug": "Bundle_02_Ep802_HLA_Typing_Luminex_Prozone_and_Living_Cell_Crossmatch.md",
         "title": "Bundle 02 — Ep 802: Yellow-Top Living Lymphocytes, HLA NGS, Luminex Prozone & Crossmatch (All-In-One)",
         "prompt": (
-            "Create an exhaustive, longest-format behind-the-curtain transplant immunology and laboratory medicine podcast answering why phlebotomy draws 6 room-temperature pale-yellow ACD tubes and green sodium heparin tubes on an organ donor. "
-            "Follow those living T and B lymphocytes through Ficoll-Hypaque isolation, ABO forward/reverse typing plus Dolichos biflorus lectin A2 subtyping (enabling A2-into-O/B transplants!), and 11-locus long-range NGS HLA typing with eplet and PIRCHE-II epitope matching. "
-            "Go inside the dual-laser Luminex Single-Antigen Bead analyzer to explain Mean Fluorescence Intensity (MFI) and the life-or-death C1 Complement Prozone artifact—where a lethal 23,000 MFI donor-specific antibody reads a falsely negative 420 MFI until EDTA, DTT, or 1:16 dilution strips away C1q steric blockade! "
-            "Contrast Paul Terasaki's 1964 rabbit-complement CDC microdroplet tray against 3-color Flow Cytometric Crossmatching (and why 37C Pronase shaving of B-cell CD32 Fc receptors prevents false positives), plus window-period HIV/HBV/HCV NAT, occult HBV cccDNA, and 4-tube QuantiFERON-TB stimulation."
+            "Unpack the transplant immunology gauntlet: ACD-A yellow-top viable lymphocytes, 11-locus HLA high-resolution NGS, Luminex single-antigen bead MFI, complement C1q prozone hooks, and Pronase flow cytometric living-cell crossmatch."
         ),
         "components": [
             "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION.md",
             "DOCS_ARCHIVE_02_HLA_VARIABILITY_AND_AUTOIMMUNITY.md",
             "DOCS_ARCHIVE_03_COMPLEMENT_MEDIATED_IMMUNITY.md",
-            "LONGFORM_60MIN_PODCAST_EP802_HLA_TYPING_LUMINEX_PROZONE_AND_LIVING_CELL_CROSSMATCH.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP802_HLA_TYPING_LUMINEX_PROZONE_AND_LIVING_CELL_CROSSMATCH.md"
+],
     },
     {
         "slug": "Bundle_03_Ep803_Eight_Colored_Tubes_Core_Chemistry_and_Immunoassay_Traps.md",
-        "title": "Bundle 03 — Ep 803: Eight Colored Tubes, Core Chemistry, ISE Traps, Biotin & LC-MS/MS (All-In-One)",
+        "title": "Bundle 03 — Ep 803: Eight Colored Vacutainers, Core Lab Chemistry & Immunoassay Traps (All-In-One)",
         "prompt": (
-            "Create an enthralling, longest-format behind-the-curtain tour of everyday blood draws, Vacutainer cap chemistry, hematology lasers, Ruthenium immunoassays, and clinical LC-MS/MS. "
-            "Explain tourniquet hemoconcentration, fist-pumping pseudohyperkalemia, and the CLSI Order of Draw: SPS blood culture resins, why underfilling a 9:1 light-blue citrate tube invents a fake bleeding disorder, how Gold SST micronized silica activates Factor XII while thixotropic gel liquefies at 1,500 x g, why K2-EDTA cross-contamination creates K+ of 11, Ca2+ of 3, and zero Alkaline Phosphatase (stripping catalytic zinc!), and EDTA platelet clumping vs cold agglutinins on Coulter/Sysmex counters. "
-            "Reveal why Core-Lab Indirect ISE reports a fake Na+ of 121 in hypertriglyceridemia/myeloma while undiluted Blood-Gas Direct ISE reads 140, 340-nm NADH coupled enzyme kinetics, the Four Immunoassay Saboteurs (High-Dose Biotin faking Graves' disease and masking heart-attack Troponin, Giant Prolactinoma Hook Effect, Phantom hCG heterophile antibodies, and PEG macroprolactin), BNP vs NT-proBNP on Entresto, HbA1c traps, and why Triple-Quadrupole LC-MS/MS conquered steroids and urine drug screens."
+            "Explore the phlebotomy draw sequence, eight colored Vacutainer tube chemistries, direct vs indirect ISE pseudohyponatremia, high-dose hook effects, streptavidin-biotin sandwich sabotage, and gold-standard LC-MS/MS."
         ),
         "components": [
             "VOLUME_II_PHLEBOTOMY_VACUTAINER_CHEMISTRY_AND_AUTOMATED_CORE_LAB_ANALYZERS.md",
             "VOLUME_III_COMPLETE_BLOOD_COUNT_FLOW_CYTOMETRY_COAGULATION_AND_BLOOD_BANKING.md",
             "VOLUME_IV_IMMUNOASSAYS_ENDOCRINE_DYNAMICS_CARDIAC_BIOMARKERS_AND_LC_MS_MS.md",
-            "LONGFORM_60MIN_PODCAST_EP803_EIGHT_COLORED_TUBES_CORE_CHEMISTRY_AND_IMMUNOASSAY_TRAPS.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP803_EIGHT_COLORED_TUBES_CORE_CHEMISTRY_AND_IMMUNOASSAY_TRAPS.md"
+],
     },
     {
-        "slug": "Bundle_04_Ep804_Behind_the_Lead_Glass_and_the_Frozen_Section_Cryostat.md",
-        "title": "Bundle 04 — Ep 804: Radiology CT/MRI/PET Physics, 5-Day Biopsies, Cryostat & Procedures (All-In-One)",
+        "slug": "Bundle_04_Ep804_Behind_the_Lead_Glass_and_the_Cryostat.md",
+        "title": "Bundle 04 — Ep 804: Behind the Lead Glass & The Cryostat (All-In-One)",
         "prompt": (
-            "Create a riveting, longest-format behind-the-curtain exploration of diagnostic radiology, nuclear PET, surgical pathology biopsies, and bedside physiological procedures. "
-            "Step behind the CT lead glass to unpack spinning tungsten anodes, Hounsfield linear attenuation units (-1000 air, -70 fat proving benign adrenal adenomas, +70 acute blood, +1000 bone), iodine 33.2-keV K-edge dual-energy CT, bolus-tracking ROI timing (and Valsalva fake pulmonary embolisms), and busting the contrast-nephropathy myth when eGFR >= 30. "
-            "Demystify Doppler <=60-degree angle physics, Zone IV 4.2-Kelvin superconducting 3T MRI magnets (T1, T2, FLAIR CSF-nulling, and 6-minute acute stroke DWI/ADC Brownian water trapping), and 511-keV positron coincidence FDG-PET. "
-            "Then answer why routine biopsies take 5 days (grossing ink -> 10% formalin -> ethanol -> xylene clearing -> 60C paraffin -> 4-um microtome -> H&E + 98C HIER DAB immunohistochemistry, and which specimens formalin ruins!) vs 15-minute intraoperative -22C cryostat frozen sections, plus Cath-Lab FFR, PFT Body-Box/DLCO, NBI colonoscopy, and EMG/NCS."
+            "Go behind the lead glass and into the pathology lab: CT Hounsfield physics, 3T MRI superconducting gradient coils, 511-keV coincidence PET detectors, 20-minute OR cryostat frozen sections vs 5-day FFPE tissue processing."
         ),
         "components": [
             "VOLUME_VII_RADIOLOGY_CT_MRI_ULTRASOUND_AND_NUCLEAR_PET_PHYSICS_BEHIND_THE_GLASS.md",
             "VOLUME_VIII_ANATOMIC_PATHOLOGY_BIOPSY_FROZEN_SECTION_IHC_NGS_AND_ENDOSCOPIC_CARDIAC_PROCEDURES.md",
-            "LONGFORM_60MIN_PODCAST_EP804_BEHIND_THE_LEAD_GLASS_AND_THE_FROZEN_SECTION_CRYOSTAT.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP804_BEHIND_THE_LEAD_GLASS_AND_THE_FROZEN_SECTION_CRYOSTAT.md"
+],
     },
     {
-        "slug": "Bundle_05_Ep805_The_Oncology_Workup_Tumor_Markers_Liquid_Biopsy_and_Theranostics.md",
-        "title": "Bundle 05 — Ep 805: The Cancer Order Sheet — Tumor Markers, Marrow Flow, NGS, ctDNA & Theranostic PET (All-In-One)",
+        "slug": "Bundle_05_Ep805_The_Oncology_Workup_Tumor_Markers_and_Liquid_Biopsy.md",
+        "title": "Bundle 05 — Ep 805: The Cancer Order Sheet, Tumor Markers, Liquid Biopsy & Theranostics (All-In-One)",
         "prompt": (
-            "Create an authoritative, longest-format behind-the-curtain podcast covering every diagnostic test ordered in modern oncology and hematology. "
-            "Explain why serum tumor markers rarely work for population screening yet guide cancer kinetics—unpacking Total vs %Free PSA (finasteride halving rule + PI-RADS fusion biopsy), why 7% of humans are genetically Lewis-negative (FUT3) and read zero CA 19-9 even with metastatic pancreatic cancer while gallstones spike it to 5,000, AFP/hCG post-orchiectomy half-life clocks, anti-thyroglobulin interference solved by LC-MS/MS, and why Rasburicase tumor-lysis blood must travel on ice. "
-            "Walk through posterior iliac crest Bone Marrow Aspirate + Core ('dry tap' myelofibrosis), 10-color flow cytometry (2-hour APL Auer-rod emergency & kappa/lambda B-cell clonality), FISH, and 10^-6 clonoSEQ MRD. "
-            "Then go inside solid-tumor DNA + anchored-multiplex RNA fusion NGS (MSI-High, TMB, HRD scars, VAF ~50% germline clues), Streck-tube UMI Liquid Biopsy ctDNA (and the aging-blood CHIP impostor!), stereotactic BI-RADS mammography, dual-tracer sentinel nodes, and Ga-68/Lu-177 PSMA & DOTATATE theranostics."
+            "Follow the complete cancer diagnostic workup: tumor markers CEA, PSA, CA-125, bone marrow 12-color flow cytometry for MRD, comprehensive solid tumor NGS panels, ctDNA liquid biopsies distinguishing tumor from CHIP, and theranostic radioligand PET."
         ),
         "components": [
             "VOLUME_IX_ONCOLOGY_DIAGNOSTICS_TUMOR_MARKERS_MARROW_FLOW_LIQUID_BIOPSY_AND_MOLECULAR_STAGING.md",
-            "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY.md",
-            "LONGFORM_60MIN_PODCAST_EP805_THE_ONCOLOGY_WORKUP_TUMOR_MARKERS_LIQUID_BIOPSY_MARROW_FLOW_AND_THERANOSTIC_PET.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP805_THE_ONCOLOGY_WORKUP_TUMOR_MARKERS_LIQUID_BIOPSY_MARROW_FLOW_AND_THERANOSTIC_PET.md"
+],
     },
     {
-        "slug": "Bundle_06_Ep806_ICU_Red_Alert_Orders_Shock_Gaps_Ventilator_Curves_and_Coma_EEG.md",
-        "title": "Bundle 06 — Ep 806: ICU Red-Alert Orders — Shock Gaps, Stewart Ions, Ventilators, TEG & Coma EEG (All-In-One)",
+        "slug": "Bundle_06_Ep806_ICU_Red_Alert_Orders_Shock_Ventilator_Curves_and_Coma_EEG.md",
+        "title": "Bundle 06 — Ep 806: ICU Red-Alert Orders, Shock Gaps, Ventilator Curves & TEG (All-In-One)",
         "prompt": (
-            "Create a high-stakes, longest-format behind-the-curtain podcast decoding every STAT order in the Shock-Trauma ICU and Emergency Department. "
-            "Start at 3 AM with Arterial Blood Gases and 128-wavelength Co-Oximetry (why finger pulse oximeters read 99% in lethal carbon monoxide poisoning), Winters' formula, the Delta-Delta ratio catching triple acid-base disorders, and Peter Stewart's Strong Ion Difference proving why 4 liters of 0.9% 'Normal' Saline (SID = 0) chemically forces hyperchloremic acidosis—plus the Osmolal Gap and Point-of-Care vs Core-Lab Lactate Gap unmasking antifreeze poisoning! "
-            "Unpack Type A vs epinephrine Type B lactate, Fick SvO2/ScvO2 (why SvO2 of 85% in sepsis or cyanide is terrifying), and the Pv-aCO2 > 6 mmHg microvascular stagnation gap. "
-            "Treat the ICU ventilator as a biophysics analyzer: 0.5-sec End-Inspiratory Hold (PIP vs Pplat & Driving Pressure < 15), End-Expiratory Hold Auto-PEEP, capnography, and RSBI < 105. "
-            "Finish with whole-blood TEG/ROTEM trauma resuscitation, HIT 14C-SRA, eFAST/RUSH/VExUS venous congestion Doppler, ICP P2>P1 herniation waves, continuous coma cEEG, and 72-hour SSEP N20 post-arrest prognostication."
+            "ICU red-alert diagnostic orders: Stewart strong ion difference, mixed venous oxygen and venoarterial pCO2 gap in shock, mechanical ventilator flow-volume curves, rotational thromboelastography (TEG), VExUS ultrasound, and continuous coma EEG."
         ),
         "components": [
             "VOLUME_X_ICU_TRAUMA_AND_EMERGENCY_CRITICAL_CARE_DIAGNOSTIC_ORDERS.md",
-            "LONGFORM_60MIN_PODCAST_EP806_ICU_RED_ALERT_ORDERS_SHOCK_GAPS_VENTILATOR_CURVES_TEG_POCUS_AND_COMA_EEG.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP806_ICU_RED_ALERT_ORDERS_SHOCK_GAPS_VENTILATOR_CURVES_TEG_POCUS_AND_COMA_EEG.md"
+],
     },
     {
-        "slug": "Bundle_07_Ep807_From_Womb_to_Heel_Stick_NIPT_Tandem_MS_Sweat_Chloride_and_Trio_Exomes.md",
-        "title": "Bundle 07 — Ep 807: Prenatal cfDNA, Newborn Heel-Stick MS/MS, Sweat Chloride & NICU Trio Genomes (All-In-One)",
+        "slug": "Bundle_07_Ep807_From_Womb_to_Heel_Stick_Prenatal_cfDNA_and_Trio_Exomes.md",
+        "title": "Bundle 07 — Ep 807: From Womb to Heel-Stick, Prenatal cfDNA, 5-Punch Heel-Stick & Trio Exomes (All-In-One)",
         "prompt": (
-            "Create a deeply illuminating, longest-format behind-the-curtain podcast tracing every diagnostic test from pregnancy through newborn nursery, pediatrics, and rapid clinical genomics. "
-            "Start before birth with Dennis Lo's prenatal cfDNA (NIPT): why 'fetal' cfDNA is actually 143-bp placental trophoblast DNA, why maternal obesity drops Fetal Fraction below 4%, and why Confined Placental Mosaicism means positive NIPT MUST be confirmed by amniocentesis—plus noninvasive MCA Doppler for fetal anemia and Kleihauer-Betke rose-pink HbF cells vs flow cytometry for RhoGAM dosing. "
-            "Go inside the 2 AM State Newborn Screening Lab to watch five 3.2-mm paper punches from a 24-48 hour lateral heel-stick run through Electrospray Tandem Mass Spectrometry in 90 seconds (PKU, Maple Syrup Urine Disease, C8 Octanoylcarnitine MCAD deficiency), qPCR for TREC = 0 'Bubble Boy' SCID and SMN1 SMA (enabling week-1 Zolgensma gene therapy!), "
-            "CCHD right-hand/foot oximetry, OAE vs NICU AABR hearing, Pilocarpine Iontophoresis Sweat Chloride for Cystic Fibrosis, capillary-vs-venous Lead, pyloric/intussusception ultrasound, SNP Microarray UPD, and 48-hour NICU Rapid Trio Whole-Genome Sequencing."
+            "From prenatal cell-free DNA maternal plasma screening and fetal fraction traps through the 5-punch newborn heel-stick Guthrie card tandem mass spec (MS/MS), sweat chloride pilocarpine iontophoresis, and rapid NICU trio whole exomes."
         ),
         "components": [
             "VOLUME_XI_PEDIATRICS_NEONATAL_HEEL_STICK_PRENATAL_CFDNA_AND_GENOMIC_DIAGNOSTICS.md",
-            "LONGFORM_60MIN_PODCAST_EP807_FROM_WOMB_TO_HEEL_STICK_NIPT_TANDEM_MS_SWEAT_CHLORIDE_AND_TRIO_EXOMES.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP807_FROM_WOMB_TO_HEEL_STICK_NIPT_TANDEM_MS_SWEAT_CHLORIDE_AND_TRIO_EXOMES.md"
+],
     },
     {
-        "slug": "Bundle_08_Ep808_Jeopardy_Grandmaster_Tour_Microbiology_Fluid_Taps_and_Classic_Tests.md",
-        "title": "Bundle 08 — Ep 808: Jeopardy! Grandmaster Tour — MALDI-TOF, Fluid Taps, Autoimmunity & Classic Named Tests (All-In-One)",
+        "slug": "Bundle_08_Ep808_The_Jeopardy_Grandmaster_Diagnostic_Tour.md",
+        "title": "Bundle 08 — Ep 808: The Jeopardy! Grandmaster Diagnostic Tour (All-In-One)",
         "prompt": (
-            "Create an exhilarating, longest-format championship tour through microbiology, urinalysis, sterile body-fluid taps, rheumatology, subspecialty testing, and classic 'Jeopardy! $2,000 Clue' named medical tests! "
-            "Open behind the microbiology biosafety cabinet: why 40-60 mL blood volume and antibiotic-binding resins matter in sepsis, why Chocolate Agar heats sheep blood to 80C to kill NADase, how 337-nm MALDI-TOF lasers weigh ribosomal proteins in 90 seconds (yet confuse Shigella with E. coli!), busting the raw MIC comparison fallacy, inducible D-zone clindamycin resistance, and 3.32-cycle TaqMan qPCR math. "
-            "Expose the 3 famous urine dipstick blindspots (Bence Jones myeloma light chains, beta-hydroxybutyrate in early DKA, and Vitamin C false negatives), CSF Tube 1-vs-4 spectrophotometric 450-nm xanthochromia, Light's Criteria, ascitic SAAG >= 1.1, and 530-nm red-plate polarized crystal physics (Gout yellow parallel vs Pseudogout blue parallel!). "
-            "Tour HEp-2 ANA (benign DFS70 vs Centromere), Crithidia kinetoplast dsDNA, 13C-urea breath, SFEMG jitter, RT-QuIC prions, Michel's skin DIF, Ara h 2 peanut IgE, FLAER/EMA/DHR flow tests, and a rapid-fire Jeopardy! Named-Test Lightning Finale!"
+            "The ultimate Jeopardy! grandmaster clinical diagnostic tour: 90-second MALDI-TOF mass spec, continuous blood culture optical monitoring, urine dipstick falsehoods, polarized crystal microscopy for gout vs pseudogout, Crithidia luciliae immunofluorescence, and classic named tests."
         ),
         "components": [
             "VOLUME_V_MICROBIOLOGY_BLOOD_CULTURES_MALDI_TOF_PCR_CT_VALUES_AND_SEROLOGY.md",
             "VOLUME_VI_URINALYSIS_BODY_FLUID_TAP_MICROSCOPY_AND_AUTOIMMUNE_RHEUMATOLOGY_PANELS.md",
             "VOLUME_XII_SPECIALTY_CLINICAL_TESTS_NEURO_GI_DERM_ALLERGY_OPHTHO_AND_JEOPARDY_COMPENDIUM.md",
             "VOLUME_XIII_MASTER_MEDICAL_TESTING_ENCYCLOPEDIA_TUBES_METHODS_TRAPS_AND_JEOPARDY_MATRIX.md",
-            "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS.md",
-        ],
+            "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS.md"
+],
+    },
+    {
+        "slug": "Bundle_09_Ep809_Cardiopulmonary_Diagnostics_Hemodynamics_and_PFT.md",
+        "title": "Bundle 09 — Ep 809: Cardiopulmonary Diagnostics, Vector Loops, hs-cTn Deltoids & Body-Box DLCO (All-In-One)",
+        "prompt": (
+            "Deep dive into cardiopulmonary diagnostics: 12-lead ECG vector loops and limb lead reversal traps, high-sensitivity troponin rapid 0/1h ESC algorithms and 99th percentile URL sex cutoffs, SPECT myocardial perfusion coronary steal vs dobutamine, Cath-Lab pressure wire FFR and iFR, and PFT body plethysmography Boyle's law thoracic gas volume and single-breath DLCO Krogh equations."
+        ),
+        "components": [
+            "VOLUME_XV_CARDIOPULMONARY_DIAGNOSTICS_ECG_VECTORS_HS_TROPONIN_HEMODYNAMICS_AND_PFT.md",
+            "LONGFORM_60MIN_PODCAST_EP809_CARDIOPULMONARY_DIAGNOSTICS_HEMODYNAMICS_AND_VASCULAR_MEDICINE.md"
+],
+    },
+    {
+        "slug": "Bundle_10_Ep810_Gastroenterology_Hepatology_and_Nutrition.md",
+        "title": "Bundle 10 — Ep 810: Gastroenterology, Hepatology, Paracentesis SAAG, Chicago Manometry & Breath Physics (All-In-One)",
+        "prompt": (
+            "Comprehensive masterclass on gastroenterology, hepatology, and nutrition testing: the R-factor equation [(ALT/ULN)/(ALP/ULN)] classifying hepatocellular vs cholestatic injury, De Ritis AST/ALT ratio and P5P deficiency, the acute Wilson disease crisis with Bilirubin/ALP > 2 and Coombs-negative hemolysis, FibroScan shear wave kPa elastography, paracentesis SAAG >= 1.1 portal hypertension, 13C-urea and H2/CH4 breath testing, celiac total IgA/tTG cascade, fecal calprotectin and elastase, stool osmotic gap, and Chicago Classification v4.0 high-resolution manometry."
+        ),
+        "components": [
+            "VOLUME_XVI_GASTROENTEROLOGY_HEPATOLOGY_AND_NUTRITION_DIAGNOSTICS.md",
+            "LONGFORM_60MIN_PODCAST_EP810_GASTROENTEROLOGY_HEPATOLOGY_AND_METABOLIC_NUTRITION.md"
+],
+    },
+    {
+        "slug": "Bundle_11_Ep811_Endocrinology_Dynamic_Testing_and_Mass_Spectrometry.md",
+        "title": "Bundle 11 — Ep 811: Endocrinology Dynamic Testing, Adrenal Vein Sampling & Mass Spectrometry (All-In-One)",
+        "prompt": (
+            "Deep exploration of dynamic endocrine testing and steroid mass spectrometry: why static hormone levels lie in pulsatile axes, Cushing's 3-step screening (1-mg dexamethasone suppression with LC-MS/MS serum dex check > 140-200 ng/dL, 24-hr UFC, late-night salivary cortisol), Adrenal Vein Sampling (AVS) Cortisol Selectivity Index and Lateralization Index >= 4.0 for primary aldosteronism, seated ARR drug washouts, Cosyntropin stim test and 17-OHP, supine resting plasma free metanephrines for pheochromocytoma, and hypertonic saline copeptin infusion for diabetes insipidus."
+        ),
+        "components": [
+            "VOLUME_XVII_ENDOCRINOLOGY_DYNAMIC_TESTING_MASS_SPECTROMETRY_AND_ADRENAL_VEIN_SAMPLING.md",
+            "LONGFORM_60MIN_PODCAST_EP811_ENDOCRINOLOGY_DYNAMIC_TESTING_AND_NEUROENDOCRINE_DISORDERS.md"
+],
+    },
+    {
+        "slug": "Bundle_12_Ep812_Preventable_Death_Longevity_and_Screening.md",
+        "title": "Bundle 12 — Ep 812: Preventable Death, Evidence-Based Screening Architecture & Longevity (All-In-One)",
+        "prompt": (
+            "Masterclass on evidence-based screening mathematics and longevity diagnostics: Bayes' theorem in clinical practice, lead-time bias, length-time bias, overdiagnosis, and number needed to screen (NNS); Apolipoprotein B (ApoB) total atherogenic particle burden vs calculated LDL-C, once-in-a-lifetime molar Lp(a) nmol/L assays, and hs-CRP residual inflammation; non-contrast ECG-gated Coronary Artery Calcium (CAC) Agatston scoring (density factor 1-4 and the power of zero); Low-Dose CT lung cancer screening (USPSTF 20 pack-year criteria, Lung-RADS); screening colonoscopy vs Cologuard mt-sDNA vs annual FIT; cervical high-risk HPV 16/18 PCR; DEXA T-score vs Z-score and Trabecular Bone Score; and debunking the whole-body executive scan fallacy."
+        ),
+        "components": [
+            "VOLUME_XVIII_PREVENTABLE_DEATH_LONGEVITY_AND_EVIDENCE_BASED_SCREENING_ARCHITECTURE.md",
+            "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY.md",
+            "LONGFORM_60MIN_PODCAST_EP812_PREVENTABLE_DEATH_LONGEVITY_AND_SCREENING_MEDICINE.md"
+],
+    },
+    {
+        "slug": "Bundle_13_Ep813_Neurodiagnostics_EEG_EMG_and_CSF_Biomarkers.md",
+        "title": "Bundle 13 — Ep 813: The Neurodiagnostic Vault, 10-20 EEG, SFEMG Jitter & Prion RT-QuIC (All-In-One)",
+        "prompt": (
+            "Behind the scenes in clinical neurophysiology and the neurodiagnostic vault: 10-20 EEG electrode physics, bipolar vs referential montages, normal alpha/beta/theta/delta rhythms, epileptiform spikes and 3-Hz spike-and-wave discharges, continuous ICU EEG in non-convulsive status; Motor and Sensory NCS (CMAP, SNAP, conduction velocity and conduction block in demyelination), late responses F-wave and H-reflex; Needle EMG insertional and spontaneous rest activity (fibrillations, positive sharp waves), neurogenic vs myopathic MUAPs; Single-Fiber EMG (SFEMG) mean consecutive difference (MCD) jitter and impulse blocking in Myasthenia Gravis; Evoked potentials VEP P100 delay in optic neuritis, BAEP waves I-V, SSEP median nerve N20 bilateral absence at 72h post-arrest; and CSF diagnostics: albuminocytologic dissociation, oligoclonal bands (OCB isoelectric focusing with IgG immunoblotting), IgG index > 0.70, autoimmune encephalitis panels, and Prion disease RT-QuIC 90.3% sensitivity / 99.5-100% specificity."
+        ),
+        "components": [
+            "VOLUME_XIX_NEURODIAGNOSTICS_EMG_NCS_EEG_AND_CSF_BIOMARKERS.md",
+            "LONGFORM_60MIN_PODCAST_EP813_THE_NEURODIAGNOSTIC_VAULT_EEG_EMG_EVOKED_POTENTIALS_AND_CSF.md"
+],
+    },
+    {
+        "slug": "Bundle_14_Ep814_Infectious_Disease_Serology_Virology_and_Molecular.md",
+        "title": "Bundle 14 — Ep 814: Infectious Disease Serology, Syphilis Reverse Algorithm, HBV Core Windows & Tick Panels (All-In-One)",
+        "prompt": (
+            "Comprehensive masterclass on infectious disease serology, virology, and molecular diagnostics: Syphilis Traditional vs CDC Reverse Sequence Algorithm (treponemal EIA/CIA screen, reflex quantitative RPR, second treponemal TP-PA/FTA-ABS resolution), biological false positives, and the RPR prozone effect in secondary syphilis; Hepatitis B 6-marker serology matrix and the diagnostic Core Window where IgM Anti-HBc is the sole marker; Modern HIV testing algorithm (4th/5th gen Ag/Ab combo screen with p24 antigen, reflex Geenius differentiation, reflex HIV RNA NAT for acute window); Vector-borne Lyme disease modified two-tiered testing (MTTT), strict Western blot band criteria (IgM 2 of 3 within 30 days vs IgG 5 of 10), Babesia Maltese cross tetrads, Anaplasma/Ehrlichia morulae; and Multiplex syndromic PCR panels (BioFire FilmArray respiratory, GI, and meningitis/encephalitis panels), cycle threshold (Ct value) interpretation, and avoiding the asymptomatic shedding trap."
+        ),
+        "components": [
+            "VOLUME_XX_INFECTIOUS_DISEASE_SEROLOGY_VIROLOGY_AND_MOLECULAR_DIAGNOSTICS.md",
+            "LONGFORM_60MIN_PODCAST_EP814_INFECTIOUS_DISEASE_SEROLOGY_VIROLOGY_AND_PARASITOLOGY.md"
+],
+    },
+    {
+        "slug": "Bundle_15_Ep815_Blood_Banking_Immunohematology_and_Advanced_Hemostasis.md",
+        "title": "Bundle 15 — Ep 815: Blood Banking, 11-Cell Rule-Outs, Daratumumab DTT, Rosner Index & VWD Multimers (All-In-One)",
+        "prompt": (
+            "Behind the curtain of the blood bank and advanced hemostasis lab: Type & Screen vs Type & Crossmatch (immediate-spin vs AHG vs electronic crossmatch); ABO discrepancies (Group I cold agglutinins, Group II A2 with anti-A1, Group III rouleaux, Bombay Oh phenotype); Rh D typing, weak D vs partial D RHD genotyping, RhIG prophylaxis and Kleihauer-Betke acid elution dosing calculation; 11-cell antibody rule-out panels (the 3x3 p=0.05 rule, dosage effects, and Ficin/Papain enzyme cleavage); Daratumumab (anti-CD38) panreactivity neutralized via 0.2 M Dithiothreitol (DTT) treatment of reagent RBCs (and Kell antigen destruction requiring K-negative blood); DAT/Coombs polyspecific vs monospecific (anti-IgG vs anti-C3d) and acid elution; aPTT mixing studies and the Rosner Index [(mix - normal) / patient * 100] with >12-15% inhibitor cutoff; Lupus Anticoagulant 3-step testing (dRVVT screen, mix, confirm ratio > 1.20); von Willebrand Disease (VWD) complete subtyping cascade (VWF:Ag, VWF:RCo or GP1bM, ratio < 0.7 for Type 2, Factor VIII binding, low-dose RIPA for 2B, and SDS-agarose multimer electrophoresis); HIT 4T score, PF4 ELISA, and 14C-Serotonin Release Assay SRA; and viscoelastic TEG/ROTEM parameters (R/CT, K/CFT, alpha angle, MA/MCF, LY30/ML, citrated kaolin vs heparinase, FIBTEM) guiding massive transfusion protocols."
+        ),
+        "components": [
+            "VOLUME_XXI_IMMUNOHEMATOLOGY_BLOOD_BANKING_AND_ADVANCED_HEMOSTASIS.md",
+            "LONGFORM_60MIN_PODCAST_EP815_BLOOD_BANKING_IMMUNOHEMATOLOGY_AND_ADVANCED_HEMOSTASIS.md"
+],
+    },
+    {
+        "slug": "Bundle_16_Ep816_Cytogenetics_Chromosomal_Microarrays_and_Long_Read_Genomics.md",
+        "title": "Bundle 16 — Ep 816: Cytogenetics, 550-Band Karyotypes, Dual-Fusion FISH, SNP Arrays & Nanopore Pseudogenes (All-In-One)",
+        "prompt": (
+            "Behind the scenes of cytogenetics, chromosomal microarrays, and next-generation sequencing: specimen requirements (sodium heparin green top for viable cells, never EDTA or formalin), PHA T-cell stimulation, Colcemid mitotic arrest, hypotonic KCl swelling, Carnoy's fixative, G-banding (GTG) 400-550 band routine vs 700-850 prometaphase high-res, ISCN 2024 nomenclature rules (translocations, inversions, deletions); FISH probe architectures: dual-color dual-fusion (BCR-ABL1, PML-RARA), break-apart split probes (ALK, ROS1, EWSR1, MYC), locus-specific enumerators (HER2/ERBB2 with CEP17 ratio >= 2.0), centromeric CEP probes; MLPA and MS-MLPA methylation quantification for Prader-Willi/Angelman (15q11-q13 SNRPN) and Beckwith-Wiedemann (11p15 H19/IGF2); Chromosomal Microarray (aCGH vs SNP array) Log2 ratios and B-allele frequency (BAF) detecting CN-LOH, UPD, and consanguinity, plus microarray blind spots; Illumina NovaSeq X SBS sequencing-by-synthesis, library prep, target read depth (100x germline vs 500-1000x somatic), Phred Q30 accuracy, VAF, and ACMG/AMP 5-tier classification; and Long-Read Third-Generation Sequencing (Oxford Nanopore R10.4.1 flow cells and PacBio HiFi SMRT CCS) resolving clinical blind spots: homologous pseudogenes (CYP21A2 in CAH, SMN1 in SMA, PMS2 in Lynch), repeat expansions (C9orf72 in ALS, DMPK in DM1, FXN, FMR1), direct native 5mC and 5hmC profiling, and chromosome phasing."
+        ),
+        "components": [
+            "VOLUME_XXII_CYTOGENETICS_CHROMOSOMAL_MICROARRAYS_AND_LONG_READ_GENOMICS.md",
+            "LONGFORM_60MIN_PODCAST_EP816_CYTOGENETICS_CHROMOSOMAL_MICROARRAYS_AND_LONG_READ_GENOMICS.md"
+],
     },
 ]
-
-UPLOAD_ID_RE = re.compile(r"\(ID:\s*([A-Za-z0-9_-]+)\)")
 
 
 def run_gdrive(args: List[str]) -> str:

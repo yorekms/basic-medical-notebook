@@ -1,14 +1,14 @@
-# Bundle 03 — Ep 803: Eight Colored Tubes, Core Chemistry, ISE Traps, Biotin & LC-MS/MS (All-In-One)
+# Bundle 03 — Ep 803: Eight Colored Vacutainers, Core Lab Chemistry & Immunoassay Traps (All-In-One)
 
 ## ZERO-MIXUP SINGLE-SOURCE BUNDLE FOR GOOGLE NOTEBOOKLM
 
 **How to use in NotebookLM (`notebook.google.com`):**
 
-1. Check **ONLY THIS ONE DOCUMENT** in your NotebookLM Sources sidebar (uncheck all others—every reference treatise and script needed for this episode is merged right inside this single file!).
+1. Check **ONLY THIS ONE DOCUMENT** in your NotebookLM Sources sidebar (uncheck all others — every reference treatise and script needed for this episode is merged right inside this single file!).
 2. Click **Customize** on **Audio Overview**, choose **Longer**, and paste this exact prompt:
 
 ```text
-Create an enthralling, longest-format behind-the-curtain tour of everyday blood draws, Vacutainer cap chemistry, hematology lasers, Ruthenium immunoassays, and clinical LC-MS/MS. Explain tourniquet hemoconcentration, fist-pumping pseudohyperkalemia, and the CLSI Order of Draw: SPS blood culture resins, why underfilling a 9:1 light-blue citrate tube invents a fake bleeding disorder, how Gold SST micronized silica activates Factor XII while thixotropic gel liquefies at 1,500 x g, why K2-EDTA cross-contamination creates K+ of 11, Ca2+ of 3, and zero Alkaline Phosphatase (stripping catalytic zinc!), and EDTA platelet clumping vs cold agglutinins on Coulter/Sysmex counters. Reveal why Core-Lab Indirect ISE reports a fake Na+ of 121 in hypertriglyceridemia/myeloma while undiluted Blood-Gas Direct ISE reads 140, 340-nm NADH coupled enzyme kinetics, the Four Immunoassay Saboteurs (High-Dose Biotin faking Graves' disease and masking heart-attack Troponin, Giant Prolactinoma Hook Effect, Phantom hCG heterophile antibodies, and PEG macroprolactin), BNP vs NT-proBNP on Entresto, HbA1c traps, and why Triple-Quadrupole LC-MS/MS conquered steroids and urine drug screens.
+Explore the phlebotomy draw sequence, eight colored Vacutainer tube chemistries, direct vs indirect ISE pseudohyponatremia, high-dose hook effects, streptavidin-biotin sandwich sabotage, and gold-standard LC-MS/MS.
 ```
 
 ---

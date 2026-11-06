@@ -4,11 +4,11 @@
 
 **How to use in NotebookLM (`notebook.google.com`):**
 
-1. Check **ONLY THIS ONE DOCUMENT** in your NotebookLM Sources sidebar (uncheck all others—every reference treatise and script needed for this episode is merged right inside this single file!).
+1. Check **ONLY THIS ONE DOCUMENT** in your NotebookLM Sources sidebar (uncheck all others — every reference treatise and script needed for this episode is merged right inside this single file!).
 2. Click **Customize** on **Audio Overview**, choose **Longer**, and paste this exact prompt:
 
 ```text
-Create an exhaustive, longest-format behind-the-curtain transplant immunology and laboratory medicine podcast answering why phlebotomy draws 6 room-temperature pale-yellow ACD tubes and green sodium heparin tubes on an organ donor. Follow those living T and B lymphocytes through Ficoll-Hypaque isolation, ABO forward/reverse typing plus Dolichos biflorus lectin A2 subtyping (enabling A2-into-O/B transplants!), and 11-locus long-range NGS HLA typing with eplet and PIRCHE-II epitope matching. Go inside the dual-laser Luminex Single-Antigen Bead analyzer to explain Mean Fluorescence Intensity (MFI) and the life-or-death C1 Complement Prozone artifact—where a lethal 23,000 MFI donor-specific antibody reads a falsely negative 420 MFI until EDTA, DTT, or 1:16 dilution strips away C1q steric blockade! Contrast Paul Terasaki's 1964 rabbit-complement CDC microdroplet tray against 3-color Flow Cytometric Crossmatching (and why 37C Pronase shaving of B-cell CD32 Fc receptors prevents false positives), plus window-period HIV/HBV/HCV NAT, occult HBV cccDNA, and 4-tube QuantiFERON-TB stimulation.
+Unpack the transplant immunology gauntlet: ACD-A yellow-top viable lymphocytes, 11-locus HLA high-resolution NGS, Luminex single-antigen bead MFI, complement C1q prozone hooks, and Pronase flow cytometric living-cell crossmatch.
 ```
 
 ---

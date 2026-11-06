@@ -4,11 +4,11 @@
 
 **How to use in NotebookLM (`notebook.google.com`):**
 
-1. Check **ONLY THIS ONE DOCUMENT** in your NotebookLM Sources sidebar (uncheck all others—every reference treatise and script needed for this episode is merged right inside this single file!).
+1. Check **ONLY THIS ONE DOCUMENT** in your NotebookLM Sources sidebar (uncheck all others — every reference treatise and script needed for this episode is merged right inside this single file!).
 2. Click **Customize** on **Audio Overview**, choose **Longer**, and paste this exact prompt:
 
 ```text
-Create a deep, longest-format behind-the-curtain medical diagnostics podcast starting from a real dilemma: why even a scientifically trained living kidney donor candidate is mystified by the 45 tests ordered before donating a kidney. Walk step-by-step through WHY serum creatinine and eGFR lie (Jaffe picrate vs enzymatic creatininase, OCT2/MATE1 tubular secretion blocked by trimethoprim, muscle mass vs Cystatin C), and what happens behind the laboratory curtain during Measured GFR (weighing the Iohexol syringe to a milligram, contralateral timed draws at 120/180/240 minutes, LC-MS/MS endo/exo peaks, and the Brochner-Mortensen quadratic correction). Unpack the 24-hour urine jug (why void #1 is discarded, catching under-collection via 20-25 mg/kg/day creatinine, UACR vs UPCR, and Litholink EQUIL2 stone supersaturation), milking the 99Mo/99mTc generator at 5 AM for MAG3 split renal function, 4-phase donor CT angiography (why surgeons prefer the 7-cm left renal vein unless anatomy or split function dictates keeping the better kidney), OGTT, APOL1 G1/G2 alleles, and post-donation adaptive hyperfiltration.
+Deep dive into the living kidney donor gauntlet: measured GFR vs estimated equations, iohexol plasma clearance HPLC, 24-hour Litholink chemistry collection traps, nuclear MAG3 split renal function, and contrast-enhanced renal CTA vascular mapping.
 ```
 
 ---
