@@ -1,0 +1,454 @@
+{
+  "notebook_title": "Basic Medical \u2014 Behind the Curtain Clinical Diagnostics & Jeopardy! Grandmaster Suite",
+  "root_folder": {
+    "name": "Basic Medical - Behind the Curtain Diagnostics Notebook",
+    "id": "1KmlsWV495OKHpvhCqoG0nMH_zkH9k0rS",
+    "url": "https://drive.google.com/drive/folders/1KmlsWV495OKHpvhCqoG0nMH_zkH9k0rS"
+  },
+  "gdocs_picker_folder": {
+    "name": "Google_Docs_For_NotebookLM_Picker",
+    "id": "1WAj6DP_C8wlB3xnfrKa9VuGdnBMLOabi",
+    "url": "https://drive.google.com/drive/folders/1WAj6DP_C8wlB3xnfrKa9VuGdnBMLOabi",
+    "docs": [
+      {
+        "filename": "00_BASIC_MEDICAL_NOTEBOOK_INDEX_AND_SHOW_BIBLE.md",
+        "title": "00_BASIC_MEDICAL_NOTEBOOK_INDEX_AND_SHOW_BIBLE",
+        "doc_id": "1V5jsPNLKfQ6lfBLeoo-yNzz_AS2I1ChJ8TmWl8kupfw",
+        "doc_url": "https://docs.google.com/document/d/1V5jsPNLKfQ6lfBLeoo-yNzz_AS2I1ChJ8TmWl8kupfw/edit"
+      },
+      {
+        "filename": "DOCS_ARCHIVE_01_OSMOLARITY_AND_SOLUTION_CALCULATIONS.md",
+        "title": "DOCS_ARCHIVE_01_OSMOLARITY_AND_SOLUTION_CALCULATIONS",
+        "doc_id": "1NL86bI08VfRu2k6vuI73GBTdJxn-o5VsbZI6cX3WO6U",
+        "doc_url": "https://docs.google.com/document/d/1NL86bI08VfRu2k6vuI73GBTdJxn-o5VsbZI6cX3WO6U/edit"
+      },
+      {
+        "filename": "DOCS_ARCHIVE_02_HLA_VARIABILITY_AND_AUTOIMMUNITY.md",
+        "title": "DOCS_ARCHIVE_02_HLA_VARIABILITY_AND_AUTOIMMUNITY",
+        "doc_id": "1bSGgpOiYU11HHtADB37fZ6DtQNFp8N8-dBNIOoEPrxc",
+        "doc_url": "https://docs.google.com/document/d/1bSGgpOiYU11HHtADB37fZ6DtQNFp8N8-dBNIOoEPrxc/edit"
+      },
+      {
+        "filename": "DOCS_ARCHIVE_03_COMPLEMENT_MEDIATED_IMMUNITY.md",
+        "title": "DOCS_ARCHIVE_03_COMPLEMENT_MEDIATED_IMMUNITY",
+        "doc_id": "137a3UNeUYu0fH_o9uwidrsymh8XbC0wI2znCJ9G43ys",
+        "doc_url": "https://docs.google.com/document/d/137a3UNeUYu0fH_o9uwidrsymh8XbC0wI2znCJ9G43ys/edit"
+      },
+      {
+        "filename": "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY.md",
+        "title": "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY",
+        "doc_id": "1bbKBTxNugZDgnAOy1lBOgLYFC4IlwN-wC3He09lDzWw",
+        "doc_url": "https://docs.google.com/document/d/1bbKBTxNugZDgnAOy1lBOgLYFC4IlwN-wC3He09lDzWw/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP801_KIDNEY_DONOR_GAUNTLET_MGFR_24HR_URINE_AND_SPLIT_SCANS.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP801_KIDNEY_DONOR_GAUNTLET_MGFR_24HR_URINE_AND_SPLIT_SCANS",
+        "doc_id": "1zoTNZqJu3zalB1z0ykEytxhDzGjjMpGzFUVuuw4Qh54",
+        "doc_url": "https://docs.google.com/document/d/1zoTNZqJu3zalB1z0ykEytxhDzGjjMpGzFUVuuw4Qh54/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP802_HLA_TYPING_LUMINEX_PROZONE_AND_LIVING_CELL_CROSSMATCH.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP802_HLA_TYPING_LUMINEX_PROZONE_AND_LIVING_CELL_CROSSMATCH",
+        "doc_id": "14X12U8veZzP2ADf17_LgnAoq1fJZ2-BqTeLSvydmHs4",
+        "doc_url": "https://docs.google.com/document/d/14X12U8veZzP2ADf17_LgnAoq1fJZ2-BqTeLSvydmHs4/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP803_EIGHT_COLORED_TUBES_CORE_CHEMISTRY_AND_IMMUNOASSAY_TRAPS.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP803_EIGHT_COLORED_TUBES_CORE_CHEMISTRY_AND_IMMUNOASSAY_TRAPS",
+        "doc_id": "1sSsS3SCX0MfnhOXk-qFQzbjkpkzfE-fgO_eC6jadBl8",
+        "doc_url": "https://docs.google.com/document/d/1sSsS3SCX0MfnhOXk-qFQzbjkpkzfE-fgO_eC6jadBl8/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP804_BEHIND_THE_LEAD_GLASS_AND_THE_FROZEN_SECTION_CRYOSTAT.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP804_BEHIND_THE_LEAD_GLASS_AND_THE_FROZEN_SECTION_CRYOSTAT",
+        "doc_id": "1L5MZRAENhSsKI80P6f-3OMHm6SL9kDJRL-wJwVT3wWg",
+        "doc_url": "https://docs.google.com/document/d/1L5MZRAENhSsKI80P6f-3OMHm6SL9kDJRL-wJwVT3wWg/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP805_THE_ONCOLOGY_WORKUP_TUMOR_MARKERS_LIQUID_BIOPSY_MARROW_FLOW_AND_THERANOSTIC_PET.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP805_THE_ONCOLOGY_WORKUP_TUMOR_MARKERS_LIQUID_BIOPSY_MARROW_FLOW_AND_THERANOSTIC_PET",
+        "doc_id": "1Ftf6y76Vg12dKn5-in-EaOXEprmRtEniG0zdCi_Z5no",
+        "doc_url": "https://docs.google.com/document/d/1Ftf6y76Vg12dKn5-in-EaOXEprmRtEniG0zdCi_Z5no/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP806_ICU_RED_ALERT_ORDERS_SHOCK_GAPS_VENTILATOR_CURVES_TEG_POCUS_AND_COMA_EEG.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP806_ICU_RED_ALERT_ORDERS_SHOCK_GAPS_VENTILATOR_CURVES_TEG_POCUS_AND_COMA_EEG",
+        "doc_id": "1KZKaGaiSR1-HGvdE5Le3utOGU8cSqErPQVO4M1uB8uA",
+        "doc_url": "https://docs.google.com/document/d/1KZKaGaiSR1-HGvdE5Le3utOGU8cSqErPQVO4M1uB8uA/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP807_FROM_WOMB_TO_HEEL_STICK_NIPT_TANDEM_MS_SWEAT_CHLORIDE_AND_TRIO_EXOMES.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP807_FROM_WOMB_TO_HEEL_STICK_NIPT_TANDEM_MS_SWEAT_CHLORIDE_AND_TRIO_EXOMES",
+        "doc_id": "1ddr8wzml5rU941hRgvqBIJ_UuqrDn_VNNjsw4qKuJ9Y",
+        "doc_url": "https://docs.google.com/document/d/1ddr8wzml5rU941hRgvqBIJ_UuqrDn_VNNjsw4qKuJ9Y/edit"
+      },
+      {
+        "filename": "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS.md",
+        "title": "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS",
+        "doc_id": "1kVdDSwTgeLyyF2MTSeln5e3fHg0o2zTV3j4WbhiJCq0",
+        "doc_url": "https://docs.google.com/document/d/1kVdDSwTgeLyyF2MTSeln5e3fHg0o2zTV3j4WbhiJCq0/edit"
+      },
+      {
+        "filename": "README.md",
+        "title": "README",
+        "doc_id": "1XyksRzxwHlbE8q-MdCXU7DC4RmeHZu2uRdGw5u8qaeQ",
+        "doc_url": "https://docs.google.com/document/d/1XyksRzxwHlbE8q-MdCXU7DC4RmeHZu2uRdGw5u8qaeQ/edit"
+      },
+      {
+        "filename": "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION.md",
+        "title": "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION",
+        "doc_id": "1CJNEbgpCj_Pk4gEDXTaevTA1rRZAkn26EtJDEdNv5eA",
+        "doc_url": "https://docs.google.com/document/d/1CJNEbgpCj_Pk4gEDXTaevTA1rRZAkn26EtJDEdNv5eA/edit"
+      },
+      {
+        "filename": "VOLUME_II_PHLEBOTOMY_VACUTAINER_CHEMISTRY_AND_AUTOMATED_CORE_LAB_ANALYZERS.md",
+        "title": "VOLUME_II_PHLEBOTOMY_VACUTAINER_CHEMISTRY_AND_AUTOMATED_CORE_LAB_ANALYZERS",
+        "doc_id": "1uzinDsDT5bd97jcnkPHppNpk3jOd-KhZ4AtuwSXX5mY",
+        "doc_url": "https://docs.google.com/document/d/1uzinDsDT5bd97jcnkPHppNpk3jOd-KhZ4AtuwSXX5mY/edit"
+      },
+      {
+        "filename": "VOLUME_III_COMPLETE_BLOOD_COUNT_FLOW_CYTOMETRY_COAGULATION_AND_BLOOD_BANKING.md",
+        "title": "VOLUME_III_COMPLETE_BLOOD_COUNT_FLOW_CYTOMETRY_COAGULATION_AND_BLOOD_BANKING",
+        "doc_id": "1UuRIh8NYNyUC986SIpNioFWYCc8YEy4zxe3C146V_Kw",
+        "doc_url": "https://docs.google.com/document/d/1UuRIh8NYNyUC986SIpNioFWYCc8YEy4zxe3C146V_Kw/edit"
+      },
+      {
+        "filename": "VOLUME_IV_IMMUNOASSAYS_ENDOCRINE_DYNAMICS_CARDIAC_BIOMARKERS_AND_LC_MS_MS.md",
+        "title": "VOLUME_IV_IMMUNOASSAYS_ENDOCRINE_DYNAMICS_CARDIAC_BIOMARKERS_AND_LC_MS_MS",
+        "doc_id": "1Dq0xpb0RoVH0uW5JbAunWVDKdOqmTjjTjW7EywKUHpg",
+        "doc_url": "https://docs.google.com/document/d/1Dq0xpb0RoVH0uW5JbAunWVDKdOqmTjjTjW7EywKUHpg/edit"
+      },
+      {
+        "filename": "VOLUME_IX_ONCOLOGY_DIAGNOSTICS_TUMOR_MARKERS_MARROW_FLOW_LIQUID_BIOPSY_AND_MOLECULAR_STAGING.md",
+        "title": "VOLUME_IX_ONCOLOGY_DIAGNOSTICS_TUMOR_MARKERS_MARROW_FLOW_LIQUID_BIOPSY_AND_MOLECULAR_STAGING",
+        "doc_id": "1rs30jkp7dgfUyWk9W7pckrll_DJTsdFz7O9VdiUPBuw",
+        "doc_url": "https://docs.google.com/document/d/1rs30jkp7dgfUyWk9W7pckrll_DJTsdFz7O9VdiUPBuw/edit"
+      },
+      {
+        "filename": "VOLUME_V_MICROBIOLOGY_BLOOD_CULTURES_MALDI_TOF_PCR_CT_VALUES_AND_SEROLOGY.md",
+        "title": "VOLUME_V_MICROBIOLOGY_BLOOD_CULTURES_MALDI_TOF_PCR_CT_VALUES_AND_SEROLOGY",
+        "doc_id": "17IssTuCYb1c5DG4pQmXFgl3BkO5VIQWz1j9-PVjO_-A",
+        "doc_url": "https://docs.google.com/document/d/17IssTuCYb1c5DG4pQmXFgl3BkO5VIQWz1j9-PVjO_-A/edit"
+      },
+      {
+        "filename": "VOLUME_VI_URINALYSIS_BODY_FLUID_TAP_MICROSCOPY_AND_AUTOIMMUNE_RHEUMATOLOGY_PANELS.md",
+        "title": "VOLUME_VI_URINALYSIS_BODY_FLUID_TAP_MICROSCOPY_AND_AUTOIMMUNE_RHEUMATOLOGY_PANELS",
+        "doc_id": "1RV_IoiZm6FWcXhw8qnXCkfk_BIkBlUh7b55BfTPP7IA",
+        "doc_url": "https://docs.google.com/document/d/1RV_IoiZm6FWcXhw8qnXCkfk_BIkBlUh7b55BfTPP7IA/edit"
+      },
+      {
+        "filename": "VOLUME_VII_RADIOLOGY_CT_MRI_ULTRASOUND_AND_NUCLEAR_PET_PHYSICS_BEHIND_THE_GLASS.md",
+        "title": "VOLUME_VII_RADIOLOGY_CT_MRI_ULTRASOUND_AND_NUCLEAR_PET_PHYSICS_BEHIND_THE_GLASS",
+        "doc_id": "1lnimxQyNUMldfp4Icut-0QBiZaUF-oWZogKVA8hbKrQ",
+        "doc_url": "https://docs.google.com/document/d/1lnimxQyNUMldfp4Icut-0QBiZaUF-oWZogKVA8hbKrQ/edit"
+      },
+      {
+        "filename": "VOLUME_VIII_ANATOMIC_PATHOLOGY_BIOPSY_FROZEN_SECTION_IHC_NGS_AND_ENDOSCOPIC_CARDIAC_PROCEDURES.md",
+        "title": "VOLUME_VIII_ANATOMIC_PATHOLOGY_BIOPSY_FROZEN_SECTION_IHC_NGS_AND_ENDOSCOPIC_CARDIAC_PROCEDURES",
+        "doc_id": "18NoSzKrd9NRIlfM0hd6aUK8WKQx8OY2h-OGDLOyvKdA",
+        "doc_url": "https://docs.google.com/document/d/18NoSzKrd9NRIlfM0hd6aUK8WKQx8OY2h-OGDLOyvKdA/edit"
+      },
+      {
+        "filename": "VOLUME_X_ICU_TRAUMA_AND_EMERGENCY_CRITICAL_CARE_DIAGNOSTIC_ORDERS.md",
+        "title": "VOLUME_X_ICU_TRAUMA_AND_EMERGENCY_CRITICAL_CARE_DIAGNOSTIC_ORDERS",
+        "doc_id": "1ty7NpQMVfdCL0LMeAS7B3e6jUUX7I-tTPUBlYRHlBV8",
+        "doc_url": "https://docs.google.com/document/d/1ty7NpQMVfdCL0LMeAS7B3e6jUUX7I-tTPUBlYRHlBV8/edit"
+      },
+      {
+        "filename": "VOLUME_XI_PEDIATRICS_NEONATAL_HEEL_STICK_PRENATAL_CFDNA_AND_GENOMIC_DIAGNOSTICS.md",
+        "title": "VOLUME_XI_PEDIATRICS_NEONATAL_HEEL_STICK_PRENATAL_CFDNA_AND_GENOMIC_DIAGNOSTICS",
+        "doc_id": "14WpOqG-GMfo5bzcrp-Ve4ag7CtyBomGnRvjHr4apiFY",
+        "doc_url": "https://docs.google.com/document/d/14WpOqG-GMfo5bzcrp-Ve4ag7CtyBomGnRvjHr4apiFY/edit"
+      },
+      {
+        "filename": "VOLUME_XII_SPECIALTY_CLINICAL_TESTS_NEURO_GI_DERM_ALLERGY_OPHTHO_AND_JEOPARDY_COMPENDIUM.md",
+        "title": "VOLUME_XII_SPECIALTY_CLINICAL_TESTS_NEURO_GI_DERM_ALLERGY_OPHTHO_AND_JEOPARDY_COMPENDIUM",
+        "doc_id": "1XiRr2hPlfDVb4wskIr53PyLztcZWcQsx7oWg1njeTqo",
+        "doc_url": "https://docs.google.com/document/d/1XiRr2hPlfDVb4wskIr53PyLztcZWcQsx7oWg1njeTqo/edit"
+      },
+      {
+        "filename": "VOLUME_XIII_MASTER_MEDICAL_TESTING_ENCYCLOPEDIA_TUBES_METHODS_TRAPS_AND_JEOPARDY_MATRIX.md",
+        "title": "VOLUME_XIII_MASTER_MEDICAL_TESTING_ENCYCLOPEDIA_TUBES_METHODS_TRAPS_AND_JEOPARDY_MATRIX",
+        "doc_id": "1Ww9LWa83CKQZcDSfp7RBxLqW5VfmsUZ8saEJyS-MUWs",
+        "doc_url": "https://docs.google.com/document/d/1Ww9LWa83CKQZcDSfp7RBxLqW5VfmsUZ8saEJyS-MUWs/edit"
+      },
+      {
+        "filename": "VOLUME_XIV_MULTI_VOICE_CASTING_BIBLE_12_EPISODE_SEASON_AND_NOTEBOOKLM_PROMPTS.md",
+        "title": "VOLUME_XIV_MULTI_VOICE_CASTING_BIBLE_12_EPISODE_SEASON_AND_NOTEBOOKLM_PROMPTS",
+        "doc_id": "1WhpX-25oSns-yILS79Ijbms802h1_nvn23fOBJ6QLIc",
+        "doc_url": "https://docs.google.com/document/d/1WhpX-25oSns-yILS79Ijbms802h1_nvn23fOBJ6QLIc/edit"
+      }
+    ]
+  },
+  "one_click_episode_bundles_folder": {
+    "name": "One_Click_Episode_Bundles_For_NotebookLM",
+    "id": "1FLCOLKL2hPj6VIwfsCV6IKOjS-ewLBd9",
+    "url": "https://drive.google.com/drive/folders/1FLCOLKL2hPj6VIwfsCV6IKOjS-ewLBd9",
+    "bundles": [
+      {
+        "slug": "Bundle_01_Ep801_Kidney_Donor_Gauntlet_mGFR_Litholink_and_Split_Scans.md",
+        "title": "Bundle 01 \u2014 Ep 801: Living Kidney Donor Gauntlet, mGFR, 24h Litholink & Split Scans (All-In-One)",
+        "doc_id": "1KHTzxK4YTR9ecplhchyHnDto9tgR_ikfPwYCjthyvY0",
+        "doc_url": "https://docs.google.com/document/d/1KHTzxK4YTR9ecplhchyHnDto9tgR_ikfPwYCjthyvY0/edit",
+        "components": [
+          "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION.md",
+          "DOCS_ARCHIVE_01_OSMOLARITY_AND_SOLUTION_CALCULATIONS.md",
+          "LONGFORM_60MIN_PODCAST_EP801_KIDNEY_DONOR_GAUNTLET_MGFR_24HR_URINE_AND_SPLIT_SCANS.md"
+        ]
+      },
+      {
+        "slug": "Bundle_02_Ep802_HLA_Typing_Luminex_Prozone_and_Living_Cell_Crossmatch.md",
+        "title": "Bundle 02 \u2014 Ep 802: Yellow-Top Living Lymphocytes, HLA NGS, Luminex Prozone & Crossmatch (All-In-One)",
+        "doc_id": "1-AFTOWVzwP-OvDBY8yy0A-TUff2GJQw2sq-jFANfoCk",
+        "doc_url": "https://docs.google.com/document/d/1-AFTOWVzwP-OvDBY8yy0A-TUff2GJQw2sq-jFANfoCk/edit",
+        "components": [
+          "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION.md",
+          "DOCS_ARCHIVE_02_HLA_VARIABILITY_AND_AUTOIMMUNITY.md",
+          "DOCS_ARCHIVE_03_COMPLEMENT_MEDIATED_IMMUNITY.md",
+          "LONGFORM_60MIN_PODCAST_EP802_HLA_TYPING_LUMINEX_PROZONE_AND_LIVING_CELL_CROSSMATCH.md"
+        ]
+      },
+      {
+        "slug": "Bundle_03_Ep803_Eight_Colored_Tubes_Core_Chemistry_and_Immunoassay_Traps.md",
+        "title": "Bundle 03 \u2014 Ep 803: Eight Colored Tubes, Core Chemistry, ISE Traps, Biotin & LC-MS/MS (All-In-One)",
+        "doc_id": "1ShGccj88B9az0I5BSvBdLCrQEKfg4VJm8RNxbbTR08c",
+        "doc_url": "https://docs.google.com/document/d/1ShGccj88B9az0I5BSvBdLCrQEKfg4VJm8RNxbbTR08c/edit",
+        "components": [
+          "VOLUME_II_PHLEBOTOMY_VACUTAINER_CHEMISTRY_AND_AUTOMATED_CORE_LAB_ANALYZERS.md",
+          "VOLUME_III_COMPLETE_BLOOD_COUNT_FLOW_CYTOMETRY_COAGULATION_AND_BLOOD_BANKING.md",
+          "VOLUME_IV_IMMUNOASSAYS_ENDOCRINE_DYNAMICS_CARDIAC_BIOMARKERS_AND_LC_MS_MS.md",
+          "LONGFORM_60MIN_PODCAST_EP803_EIGHT_COLORED_TUBES_CORE_CHEMISTRY_AND_IMMUNOASSAY_TRAPS.md"
+        ]
+      },
+      {
+        "slug": "Bundle_04_Ep804_Behind_the_Lead_Glass_and_the_Frozen_Section_Cryostat.md",
+        "title": "Bundle 04 \u2014 Ep 804: Radiology CT/MRI/PET Physics, 5-Day Biopsies, Cryostat & Procedures (All-In-One)",
+        "doc_id": "1khnz1M7KF9BEDYbZ95sdEO4OHoc6E2TbKhVHeQVhvR0",
+        "doc_url": "https://docs.google.com/document/d/1khnz1M7KF9BEDYbZ95sdEO4OHoc6E2TbKhVHeQVhvR0/edit",
+        "components": [
+          "VOLUME_VII_RADIOLOGY_CT_MRI_ULTRASOUND_AND_NUCLEAR_PET_PHYSICS_BEHIND_THE_GLASS.md",
+          "VOLUME_VIII_ANATOMIC_PATHOLOGY_BIOPSY_FROZEN_SECTION_IHC_NGS_AND_ENDOSCOPIC_CARDIAC_PROCEDURES.md",
+          "LONGFORM_60MIN_PODCAST_EP804_BEHIND_THE_LEAD_GLASS_AND_THE_FROZEN_SECTION_CRYOSTAT.md"
+        ]
+      },
+      {
+        "slug": "Bundle_05_Ep805_The_Oncology_Workup_Tumor_Markers_Liquid_Biopsy_and_Theranostics.md",
+        "title": "Bundle 05 \u2014 Ep 805: The Cancer Order Sheet \u2014 Tumor Markers, Marrow Flow, NGS, ctDNA & Theranostic PET (All-In-One)",
+        "doc_id": "1bMVtedf7w6ATjtjf6hJHEfsKTDp2T32J_x3upAEEHHQ",
+        "doc_url": "https://docs.google.com/document/d/1bMVtedf7w6ATjtjf6hJHEfsKTDp2T32J_x3upAEEHHQ/edit",
+        "components": [
+          "VOLUME_IX_ONCOLOGY_DIAGNOSTICS_TUMOR_MARKERS_MARROW_FLOW_LIQUID_BIOPSY_AND_MOLECULAR_STAGING.md",
+          "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY.md",
+          "LONGFORM_60MIN_PODCAST_EP805_THE_ONCOLOGY_WORKUP_TUMOR_MARKERS_LIQUID_BIOPSY_MARROW_FLOW_AND_THERANOSTIC_PET.md"
+        ]
+      },
+      {
+        "slug": "Bundle_06_Ep806_ICU_Red_Alert_Orders_Shock_Gaps_Ventilator_Curves_and_Coma_EEG.md",
+        "title": "Bundle 06 \u2014 Ep 806: ICU Red-Alert Orders \u2014 Shock Gaps, Stewart Ions, Ventilators, TEG & Coma EEG (All-In-One)",
+        "doc_id": "1alQ5aCAjVmfGJoJnyoCGxTZt92qt1p1Isdg8N96B7y8",
+        "doc_url": "https://docs.google.com/document/d/1alQ5aCAjVmfGJoJnyoCGxTZt92qt1p1Isdg8N96B7y8/edit",
+        "components": [
+          "VOLUME_X_ICU_TRAUMA_AND_EMERGENCY_CRITICAL_CARE_DIAGNOSTIC_ORDERS.md",
+          "LONGFORM_60MIN_PODCAST_EP806_ICU_RED_ALERT_ORDERS_SHOCK_GAPS_VENTILATOR_CURVES_TEG_POCUS_AND_COMA_EEG.md"
+        ]
+      },
+      {
+        "slug": "Bundle_07_Ep807_From_Womb_to_Heel_Stick_NIPT_Tandem_MS_Sweat_Chloride_and_Trio_Exomes.md",
+        "title": "Bundle 07 \u2014 Ep 807: Prenatal cfDNA, Newborn Heel-Stick MS/MS, Sweat Chloride & NICU Trio Genomes (All-In-One)",
+        "doc_id": "1jtvO3xDsTOsMfyvX2gsYFXtkgSAb1RE3lnDN4EMYMDY",
+        "doc_url": "https://docs.google.com/document/d/1jtvO3xDsTOsMfyvX2gsYFXtkgSAb1RE3lnDN4EMYMDY/edit",
+        "components": [
+          "VOLUME_XI_PEDIATRICS_NEONATAL_HEEL_STICK_PRENATAL_CFDNA_AND_GENOMIC_DIAGNOSTICS.md",
+          "LONGFORM_60MIN_PODCAST_EP807_FROM_WOMB_TO_HEEL_STICK_NIPT_TANDEM_MS_SWEAT_CHLORIDE_AND_TRIO_EXOMES.md"
+        ]
+      },
+      {
+        "slug": "Bundle_08_Ep808_Jeopardy_Grandmaster_Tour_Microbiology_Fluid_Taps_and_Classic_Tests.md",
+        "title": "Bundle 08 \u2014 Ep 808: Jeopardy! Grandmaster Tour \u2014 MALDI-TOF, Fluid Taps, Autoimmunity & Classic Named Tests (All-In-One)",
+        "doc_id": "1tXrlYnSNcz6z2mJVXgeS29huBXhiNTnj0AInOFVof6o",
+        "doc_url": "https://docs.google.com/document/d/1tXrlYnSNcz6z2mJVXgeS29huBXhiNTnj0AInOFVof6o/edit",
+        "components": [
+          "VOLUME_V_MICROBIOLOGY_BLOOD_CULTURES_MALDI_TOF_PCR_CT_VALUES_AND_SEROLOGY.md",
+          "VOLUME_VI_URINALYSIS_BODY_FLUID_TAP_MICROSCOPY_AND_AUTOIMMUNE_RHEUMATOLOGY_PANELS.md",
+          "VOLUME_XII_SPECIALTY_CLINICAL_TESTS_NEURO_GI_DERM_ALLERGY_OPHTHO_AND_JEOPARDY_COMPENDIUM.md",
+          "VOLUME_XIII_MASTER_MEDICAL_TESTING_ENCYCLOPEDIA_TUBES_METHODS_TRAPS_AND_JEOPARDY_MATRIX.md",
+          "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS.md"
+        ]
+      }
+    ]
+  },
+  "shortcuts_folder": {
+    "name": "Original_Clinical_Diagnostics_And_Immunology_Docs_Shortcuts",
+    "id": "1J3Z25T0FD76GzWcOFUDz0jhS_FYKb-oS",
+    "url": "https://drive.google.com/drive/folders/1J3Z25T0FD76GzWcOFUDz0jhS_FYKb-oS",
+    "shortcuts": [
+      {
+        "target_id": "1E233Pp0QDdEAYOjrrbSwj3AD_Aa1nCwgU-iBSS6Lq9o",
+        "label": "Osmolarity Adjustment Calculation Methods",
+        "shortcut_id": "1XlfjY6VB7ADXhS2B0zo2OQpu_EVKGCsS"
+      },
+      {
+        "target_id": "1hrZ44KpO0FKTbiwgsI5x5TFiuyYIBC6cJK7ElFcBTiE",
+        "label": "HLA Variability and HERV Autoimmunity",
+        "shortcut_id": "1NRHzxn5_rpl9k2o03Vr33WaOKDCyHXuV"
+      },
+      {
+        "target_id": "12LRERzdsxUdPVGKxiAiSucH87-6SP2_681mLOBHfXns",
+        "label": "Viral Therapy and Complement-Mediated Injury",
+        "shortcut_id": "1Nqh4zeCgun75pDQaDow0g9QA9zwyyVYm"
+      },
+      {
+        "target_id": "1OTC332XWBCT0xuU227AQd_mzY7p49-BRGr2e_oPoQzo",
+        "label": "Preventable Death, Treatment, and Longevity",
+        "shortcut_id": "14iEf6F8qOEXgIX0A-aNOni6ziNa3dk6c"
+      }
+    ]
+  },
+  "raw_uploads": [
+    {
+      "filename": "00_BASIC_MEDICAL_NOTEBOOK_INDEX_AND_SHOW_BIBLE.md",
+      "mime_type": "text/markdown",
+      "file_id": "1BATFr-Pc7MGiv_tri17NL3-F9m-TKRJK"
+    },
+    {
+      "filename": "DOCS_ARCHIVE_01_OSMOLARITY_AND_SOLUTION_CALCULATIONS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1TF3-VP29BXsnwYCVTFi8KS4k8tx3GXyD"
+    },
+    {
+      "filename": "DOCS_ARCHIVE_02_HLA_VARIABILITY_AND_AUTOIMMUNITY.md",
+      "mime_type": "text/markdown",
+      "file_id": "1ursXQKmENnDTlzJCcUjRac2wj9xcrrwD"
+    },
+    {
+      "filename": "DOCS_ARCHIVE_03_COMPLEMENT_MEDIATED_IMMUNITY.md",
+      "mime_type": "text/markdown",
+      "file_id": "1yi2s1L4-wmuHCvK6b9TFKT1zuyHhn7aj"
+    },
+    {
+      "filename": "DOCS_ARCHIVE_04_PREVENTABLE_DEATH_SCREENING_AND_LONGEVITY.md",
+      "mime_type": "text/markdown",
+      "file_id": "15tBVuU5gfBjgI2I4HFvn-z_ToJxpyKUz"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP801_KIDNEY_DONOR_GAUNTLET_MGFR_24HR_URINE_AND_SPLIT_SCANS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1L096I3vNFTWGXL172VgTGIUgGens3YkX"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP802_HLA_TYPING_LUMINEX_PROZONE_AND_LIVING_CELL_CROSSMATCH.md",
+      "mime_type": "text/markdown",
+      "file_id": "1_b_ArchDCULbk5446PYRCf4w1YIRtD9T"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP803_EIGHT_COLORED_TUBES_CORE_CHEMISTRY_AND_IMMUNOASSAY_TRAPS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1L2iAoXTRg5G0KNoJBSJ9hG0KWtGUcTgD"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP804_BEHIND_THE_LEAD_GLASS_AND_THE_FROZEN_SECTION_CRYOSTAT.md",
+      "mime_type": "text/markdown",
+      "file_id": "1XTe-FDmYIWMErVaXJyBYOIDbkVXnNzmt"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP805_THE_ONCOLOGY_WORKUP_TUMOR_MARKERS_LIQUID_BIOPSY_MARROW_FLOW_AND_THERANOSTIC_PET.md",
+      "mime_type": "text/markdown",
+      "file_id": "1nQbMrjbcYopm2YYeF-1muL3ckOX9ijbx"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP806_ICU_RED_ALERT_ORDERS_SHOCK_GAPS_VENTILATOR_CURVES_TEG_POCUS_AND_COMA_EEG.md",
+      "mime_type": "text/markdown",
+      "file_id": "1uk-TFddh3HtBUMhkhf2akAhhYf1b-8vL"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP807_FROM_WOMB_TO_HEEL_STICK_NIPT_TANDEM_MS_SWEAT_CHLORIDE_AND_TRIO_EXOMES.md",
+      "mime_type": "text/markdown",
+      "file_id": "1fnHchTAHs1Q4yKB-sxz1ZsUhp4ZA7le9"
+    },
+    {
+      "filename": "LONGFORM_60MIN_PODCAST_EP808_THE_JEOPARDY_GRANDMASTER_TOUR_MICROBIOLOGY_FLUID_TAPS_AUTOIMMUNITY_AND_CLASSIC_TESTS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1AaBliTXNrwPQN1JO-PPUgNOjEQyfWFPS"
+    },
+    {
+      "filename": "README.md",
+      "mime_type": "text/markdown",
+      "file_id": "1vjwzUJZCzOANkewbYcQjsiytXbsdsOEb"
+    },
+    {
+      "filename": "VOLUME_I_THE_LIVING_KIDNEY_DONOR_GAUNTLET_MGFR_HLA_CROSSMATCH_AND_SPLIT_FUNCTION.md",
+      "mime_type": "text/markdown",
+      "file_id": "1tW47o7aAMwYHLnUDCPSVy2NohuT__R7B"
+    },
+    {
+      "filename": "VOLUME_II_PHLEBOTOMY_VACUTAINER_CHEMISTRY_AND_AUTOMATED_CORE_LAB_ANALYZERS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1uWbwGpAAWBv-hSnPTjgGe-xMiQYtbJ6n"
+    },
+    {
+      "filename": "VOLUME_III_COMPLETE_BLOOD_COUNT_FLOW_CYTOMETRY_COAGULATION_AND_BLOOD_BANKING.md",
+      "mime_type": "text/markdown",
+      "file_id": "1H-nhlXLfWDdgtOb7c9uc0ZRkfo5X6qPH"
+    },
+    {
+      "filename": "VOLUME_IV_IMMUNOASSAYS_ENDOCRINE_DYNAMICS_CARDIAC_BIOMARKERS_AND_LC_MS_MS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1jmXe3-mDr_ig9nSz7M2CBKVaI7upFIM5"
+    },
+    {
+      "filename": "VOLUME_IX_ONCOLOGY_DIAGNOSTICS_TUMOR_MARKERS_MARROW_FLOW_LIQUID_BIOPSY_AND_MOLECULAR_STAGING.md",
+      "mime_type": "text/markdown",
+      "file_id": "1VdZMxRfOPbqN2_BXave7bPwwy16NHhGo"
+    },
+    {
+      "filename": "VOLUME_V_MICROBIOLOGY_BLOOD_CULTURES_MALDI_TOF_PCR_CT_VALUES_AND_SEROLOGY.md",
+      "mime_type": "text/markdown",
+      "file_id": "17_Svvsj_c3EGCkUpTg8x3OmNCC1TlnGJ"
+    },
+    {
+      "filename": "VOLUME_VI_URINALYSIS_BODY_FLUID_TAP_MICROSCOPY_AND_AUTOIMMUNE_RHEUMATOLOGY_PANELS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1bijZY42aL78xYwyWUP0VBUJAh1LQ6aFv"
+    },
+    {
+      "filename": "VOLUME_VII_RADIOLOGY_CT_MRI_ULTRASOUND_AND_NUCLEAR_PET_PHYSICS_BEHIND_THE_GLASS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1qRfJSeQzVB8fzQrRVM7j3UBO0PFSp-kU"
+    },
+    {
+      "filename": "VOLUME_VIII_ANATOMIC_PATHOLOGY_BIOPSY_FROZEN_SECTION_IHC_NGS_AND_ENDOSCOPIC_CARDIAC_PROCEDURES.md",
+      "mime_type": "text/markdown",
+      "file_id": "1LF1RyAGjtlh92fPZx577ThIV3lCELmiu"
+    },
+    {
+      "filename": "VOLUME_X_ICU_TRAUMA_AND_EMERGENCY_CRITICAL_CARE_DIAGNOSTIC_ORDERS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1bkyPreTxoiq51hZoms2zwv3Ufonpj8Dq"
+    },
+    {
+      "filename": "VOLUME_XI_PEDIATRICS_NEONATAL_HEEL_STICK_PRENATAL_CFDNA_AND_GENOMIC_DIAGNOSTICS.md",
+      "mime_type": "text/markdown",
+      "file_id": "17uhEnW34-0ii8AlGyS1jAu0yEUE_3ulJ"
+    },
+    {
+      "filename": "VOLUME_XII_SPECIALTY_CLINICAL_TESTS_NEURO_GI_DERM_ALLERGY_OPHTHO_AND_JEOPARDY_COMPENDIUM.md",
+      "mime_type": "text/markdown",
+      "file_id": "1kX96pVrudiTXfml34NkX6e2H78mJFJpA"
+    },
+    {
+      "filename": "VOLUME_XIII_MASTER_MEDICAL_TESTING_ENCYCLOPEDIA_TUBES_METHODS_TRAPS_AND_JEOPARDY_MATRIX.md",
+      "mime_type": "text/markdown",
+      "file_id": "19G6NKAbiIS-6hmpefBo1oHk7Cwjefh-P"
+    },
+    {
+      "filename": "VOLUME_XIV_MULTI_VOICE_CASTING_BIBLE_12_EPISODE_SEASON_AND_NOTEBOOKLM_PROMPTS.md",
+      "mime_type": "text/markdown",
+      "file_id": "1-gGRIUw6pgHEUiGzRyMOx2cU063OZhO-"
+    },
+    {
+      "filename": "render_basic_medical_60min_tts.py",
+      "mime_type": "text/x-python",
+      "file_id": "1VqI5oGN-lRzD7rw03Ukfwz0Syb92gwpM"
+    }
+  ]
+}
