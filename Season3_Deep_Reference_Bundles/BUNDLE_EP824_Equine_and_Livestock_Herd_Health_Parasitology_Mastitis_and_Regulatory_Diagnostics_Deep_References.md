@@ -329,7 +329,7 @@ A later Scandinavian surgical review found fourteen Parascaris impactions among 
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'When milk looks abnormal or its cell count rises, which tests show inflammation, which find a possible cause, and which actually help a cow recover?', 'sources': [2]}*
+> **Core Diagnostic Question**: *When milk looks abnormal or its cell count rises, which tests show inflammation, which find a possible cause, and which actually help a cow recover?*
 
 ## Inflammation and infection are related but different
 
@@ -450,7 +450,7 @@ Fever, loss of appetite, dehydration or shock make suspected mastitis urgent. Th
 - **Source Verification Date**: 2026-11-08
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'A healthy-looking cow can carry Johne’s infection for years. Testing makes the hidden risk more visible, but a negative result never supplies a universal guarantee.', 'sources': [1, 7]}*
+> **Core Diagnostic Question**: *A healthy-looking cow can carry Johne’s infection for years. Testing makes the hidden risk more visible, but a negative result never supplies a universal guarantee.*
 
 ## An infection that can remain hidden for years
 
@@ -582,7 +582,7 @@ The United States Department of Agriculture’s Animal and Plant Health Inspecti
 - **Source Verification Date**: 2026-11-08
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'A worm egg count measures shedding, while a pale or collapsing sheep or goat may need care before eggs tell the full story.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A worm egg count measures shedding, while a pale or collapsing sheep or goat may need care before eggs tell the full story.*
 
 ## What an egg count can tell a sheep or goat keeper
 

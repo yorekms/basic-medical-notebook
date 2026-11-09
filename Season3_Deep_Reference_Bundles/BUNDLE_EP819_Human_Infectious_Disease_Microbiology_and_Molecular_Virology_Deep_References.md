@@ -401,7 +401,7 @@ Keep the original test name, date, skin measurement or blood interpretation, exp
 - **Reference Level**: Deep Clinical Reference (Batch 6)
 - **Source Verification Date**: 2026-11-07
 
-> **Core Diagnostic Question**: *{'text': 'How can HIV testing detect infection early and resolve results that initially seem contradictory?', 'sources': [1]}*
+> **Core Diagnostic Question**: *How can HIV testing detect infection early and resolve results that initially seem contradictory?*
 
 ## What the testing pathway is for
 
@@ -521,7 +521,7 @@ Successful treatment can reduce HIV RNA below a laboratory's detection limit. Th
 - **Reference Level**: Deep Clinical Reference (Batch 6)
 - **Source Verification Date**: 2026-11-07
 
-> **Core Diagnostic Question**: *{'text': 'Does a positive hepatitis test show current infection, past exposure, immunity, or a misleading reaction?', 'sources': [1]}*
+> **Core Diagnostic Question**: *Does a positive hepatitis test show current infection, past exposure, immunity, or a misleading reaction?*
 
 ## The word hepatitis does not identify the cause
 
@@ -654,7 +654,7 @@ Severe acute liver illness is assessed while the cause is still being investigat
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'What does a positive respiratory PCR establish when the same signal might represent a new infection, lingering genetic material or an unexpected laboratory finding?', 'sources': [6]}*
+> **Core Diagnostic Question**: *What does a positive respiratory PCR establish when the same signal might represent a new infection, lingering genetic material or an unexpected laboratory finding?*
 
 ## The clinical question defines the test
 

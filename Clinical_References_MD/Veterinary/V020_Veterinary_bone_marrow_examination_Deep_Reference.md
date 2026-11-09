@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'Marrow examination looks at blood-cell production, but its meaning depends on the paired blood count, a representative specimen and the dog or cat’s clinical course.', 'sources': [1]}*
+> **Core Diagnostic Question**: *Marrow examination looks at blood-cell production, but its meaning depends on the paired blood count, a representative specimen and the dog or cat’s clinical course.*
 
 ## Marrow examination asks why the blood is abnormal
 

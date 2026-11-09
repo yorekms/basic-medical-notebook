@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 6)
 - **Source Verification Date**: 2026-11-07
 
-> **Core Diagnostic Question**: *{'text': 'How can HIV testing detect infection early and resolve results that initially seem contradictory?', 'sources': [1]}*
+> **Core Diagnostic Question**: *How can HIV testing detect infection early and resolve results that initially seem contradictory?*
 
 ## What the testing pathway is for
 

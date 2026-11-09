@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'When does a positive allergy test identify a dangerous trigger, and when does it identify an immune response that causes no illness?', 'sources': [1]}*
+> **Core Diagnostic Question**: *When does a positive allergy test identify a dangerous trigger, and when does it identify an immune response that causes no illness?*
 
 ## Start with the reaction and the exposure
 

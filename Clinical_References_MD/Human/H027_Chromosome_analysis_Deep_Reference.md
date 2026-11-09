@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'When chromosomes are counted, photographed or sampled with probes, which kinds of change does each method actually reveal?', 'sources': [1]}*
+> **Core Diagnostic Question**: *When chromosomes are counted, photographed or sampled with probes, which kinds of change does each method actually reveal?*
 
 ## One name covers several different measurements
 

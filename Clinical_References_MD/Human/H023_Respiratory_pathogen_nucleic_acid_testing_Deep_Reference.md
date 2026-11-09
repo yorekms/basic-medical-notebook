@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'What does a positive respiratory PCR establish when the same signal might represent a new infection, lingering genetic material or an unexpected laboratory finding?', 'sources': [6]}*
+> **Core Diagnostic Question**: *What does a positive respiratory PCR establish when the same signal might represent a new infection, lingering genetic material or an unexpected laboratory finding?*
 
 ## The clinical question defines the test
 

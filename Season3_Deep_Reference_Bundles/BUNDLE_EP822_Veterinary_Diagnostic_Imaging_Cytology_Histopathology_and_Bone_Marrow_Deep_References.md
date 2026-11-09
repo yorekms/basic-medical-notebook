@@ -339,7 +339,7 @@ A forensic investigation asks questions about injury, disease and care in a lega
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'A tissue diagnosis depends on what was sampled, what survived processing and how the microscopic findings fit the dog or cat in front of the veterinarian.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A tissue diagnosis depends on what was sampled, what survived processing and how the microscopic findings fit the dog or cat in front of the veterinarian.*
 
 ## The diagnostic question begins before the tissue reaches the laboratory
 
@@ -459,7 +459,7 @@ The final report should be read with the question that prompted sampling. Does i
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'Marrow examination looks at blood-cell production, but its meaning depends on the paired blood count, a representative specimen and the dog or cat’s clinical course.', 'sources': [1]}*
+> **Core Diagnostic Question**: *Marrow examination looks at blood-cell production, but its meaning depends on the paired blood count, a representative specimen and the dog or cat’s clinical course.*
 
 ## Marrow examination asks why the blood is abnormal
 
@@ -569,7 +569,7 @@ The most useful final interpretation separates sample adequacy, observed abnorma
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'A few cells or mites can redirect an itchy animal’s care. The sample’s site and depth determine what the microscope can reveal—and what it can miss.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A few cells or mites can redirect an itchy animal’s care. The sample’s site and depth determine what the microscope can reveal—and what it can miss.*
 
 ## Start with the animal, then examine the slide
 

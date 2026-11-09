@@ -7,7 +7,7 @@
 - **Source Verification Date**: 2026-11-07
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'A blood pressure reading helps answer whether pressure is too high or too low. The cuff, setting and repeated record determine how confidently that question can be answered.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A blood pressure reading helps answer whether pressure is too high or too low. The cuff, setting and repeated record determine how confidently that question can be answered.*
 
 ### Clinical Urgency & Triage Boundary: Context dependent
 

@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'An HPV test looks for a viral warning signal; cervical cytology looks for altered cells. Prevention depends on understanding both results and completing the right follow-up.', 'sources': [1]}*
+> **Core Diagnostic Question**: *An HPV test looks for a viral warning signal; cervical cytology looks for altered cells. Prevention depends on understanding both results and completing the right follow-up.*
 
 ## Two tests with different jobs
 

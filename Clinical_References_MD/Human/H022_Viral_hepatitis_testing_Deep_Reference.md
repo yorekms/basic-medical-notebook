@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 6)
 - **Source Verification Date**: 2026-11-07
 
-> **Core Diagnostic Question**: *{'text': 'Does a positive hepatitis test show current infection, past exposure, immunity, or a misleading reaction?', 'sources': [1]}*
+> **Core Diagnostic Question**: *Does a positive hepatitis test show current infection, past exposure, immunity, or a misleading reaction?*
 
 ## The word hepatitis does not identify the cause
 

@@ -7,7 +7,7 @@
 - **Source Verification Date**: 2026-11-08
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'A worm egg count measures shedding, while a pale or collapsing sheep or goat may need care before eggs tell the full story.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A worm egg count measures shedding, while a pale or collapsing sheep or goat may need care before eggs tell the full story.*
 
 ## What an egg count can tell a sheep or goat keeper
 

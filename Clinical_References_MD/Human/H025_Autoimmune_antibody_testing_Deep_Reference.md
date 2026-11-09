@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'How can antibodies aimed at the body help diagnose illness without turning a positive laboratory result into a diagnosis by itself?', 'sources': [1]}*
+> **Core Diagnostic Question**: *How can antibodies aimed at the body help diagnose illness without turning a positive laboratory result into a diagnosis by itself?*
 
 ## An autoantibody is a clue whose meaning depends on the illness
 

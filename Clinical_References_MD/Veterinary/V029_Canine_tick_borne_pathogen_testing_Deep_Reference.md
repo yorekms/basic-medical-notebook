@@ -7,7 +7,7 @@
 - **Source Verification Date**: 2026-11-07
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'An antibody screen for tick-borne pathogens can be positive in a healthy dog and negative early in a sick one. What connects the result to illness?', 'sources': [1]}*
+> **Core Diagnostic Question**: *An antibody screen for tick-borne pathogens can be positive in a healthy dog and negative early in a sick one. What connects the result to illness?*
 
 ## Start with the dog, then identify the test target
 

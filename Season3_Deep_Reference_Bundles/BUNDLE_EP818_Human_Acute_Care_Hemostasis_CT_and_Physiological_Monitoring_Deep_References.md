@@ -554,7 +554,7 @@ Which assay was used? How long after symptom onset was blood collected? What cha
 - **Source Verification Date**: 2026-11-06
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'CT can reveal an otherwise hidden problem and can also make different materials look alike. Understanding the question, acquisition, and confirmatory evidence is essential to understanding the result.', 'sources': [7]}*
+> **Core Diagnostic Question**: *CT can reveal an otherwise hidden problem and can also make different materials look alike. Understanding the question, acquisition, and confirmatory evidence is essential to understanding the result.*
 
 ## The clinical question comes before the scan
 
@@ -651,7 +651,7 @@ Sudden face or limb weakness, difficulty speaking or understanding speech, new v
 - **Source Verification Date**: 2026-11-07
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'A blood pressure reading helps answer whether pressure is too high or too low. The cuff, setting and repeated record determine how confidently that question can be answered.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A blood pressure reading helps answer whether pressure is too high or too low. The cuff, setting and repeated record determine how confidently that question can be answered.*
 
 ### Clinical Urgency & Triage Boundary: Context dependent
 

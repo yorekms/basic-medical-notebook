@@ -13,7 +13,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'When does a positive allergy test identify a dangerous trigger, and when does it identify an immune response that causes no illness?', 'sources': [1]}*
+> **Core Diagnostic Question**: *When does a positive allergy test identify a dangerous trigger, and when does it identify an immune response that causes no illness?*
 
 ## Start with the reaction and the exposure
 
@@ -125,7 +125,7 @@ Postmortem blood needs its own evidential framework. In Tse and colleagues' retr
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'How can antibodies aimed at the body help diagnose illness without turning a positive laboratory result into a diagnosis by itself?', 'sources': [1]}*
+> **Core Diagnostic Question**: *How can antibodies aimed at the body help diagnose illness without turning a positive laboratory result into a diagnosis by itself?*
 
 ## An autoantibody is a clue whose meaning depends on the illness
 
@@ -243,7 +243,7 @@ The Canadian Agency for Drugs and Technologies in Health advises against repeati
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'What can a genetic sequence explain, and why is finding a DNA change only the beginning of interpreting it?', 'sources': [1]}*
+> **Core Diagnostic Question**: *What can a genetic sequence explain, and why is finding a DNA change only the beginning of interpreting it?*
 
 ## Start with the question, rather than the size of the test
 
@@ -363,7 +363,7 @@ The Asia Pacific Heart Rhythm Society and Heart Rhythm Society consensus places 
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'When chromosomes are counted, photographed or sampled with probes, which kinds of change does each method actually reveal?', 'sources': [1]}*
+> **Core Diagnostic Question**: *When chromosomes are counted, photographed or sampled with probes, which kinds of change does each method actually reveal?*
 
 ## One name covers several different measurements
 
@@ -479,7 +479,7 @@ A useful report identifies the specimen, method, result, limitations and appropr
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'An HPV test looks for a viral warning signal; cervical cytology looks for altered cells. Prevention depends on understanding both results and completing the right follow-up.', 'sources': [1]}*
+> **Core Diagnostic Question**: *An HPV test looks for a viral warning signal; cervical cytology looks for altered cells. Prevention depends on understanding both results and completing the right follow-up.*
 
 ## Two tests with different jobs
 

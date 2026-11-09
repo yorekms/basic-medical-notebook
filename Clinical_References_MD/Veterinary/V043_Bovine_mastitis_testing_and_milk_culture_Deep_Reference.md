@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 7)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'When milk looks abnormal or its cell count rises, which tests show inflammation, which find a possible cause, and which actually help a cow recover?', 'sources': [2]}*
+> **Core Diagnostic Question**: *When milk looks abnormal or its cell count rises, which tests show inflammation, which find a possible cause, and which actually help a cow recover?*
 
 ## Inflammation and infection are related but different
 

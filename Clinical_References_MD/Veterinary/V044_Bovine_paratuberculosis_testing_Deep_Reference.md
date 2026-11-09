@@ -7,7 +7,7 @@
 - **Source Verification Date**: 2026-11-08
 - **Editorial Status**: Source checked educational draft — independent clinical review pending
 
-> **Core Diagnostic Question**: *{'text': 'A healthy-looking cow can carry Johne’s infection for years. Testing makes the hidden risk more visible, but a negative result never supplies a universal guarantee.', 'sources': [1, 7]}*
+> **Core Diagnostic Question**: *A healthy-looking cow can carry Johne’s infection for years. Testing makes the hidden risk more visible, but a negative result never supplies a universal guarantee.*
 
 ## An infection that can remain hidden for years
 

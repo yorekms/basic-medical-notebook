@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'A few cells or mites can redirect an itchy animal’s care. The sample’s site and depth determine what the microscope can reveal—and what it can miss.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A few cells or mites can redirect an itchy animal’s care. The sample’s site and depth determine what the microscope can reveal—and what it can miss.*
 
 ## Start with the animal, then examine the slide
 

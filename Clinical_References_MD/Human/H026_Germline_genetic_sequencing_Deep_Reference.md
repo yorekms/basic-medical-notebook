@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'What can a genetic sequence explain, and why is finding a DNA change only the beginning of interpreting it?', 'sources': [1]}*
+> **Core Diagnostic Question**: *What can a genetic sequence explain, and why is finding a DNA change only the beginning of interpreting it?*
 
 ## Start with the question, rather than the size of the test
 

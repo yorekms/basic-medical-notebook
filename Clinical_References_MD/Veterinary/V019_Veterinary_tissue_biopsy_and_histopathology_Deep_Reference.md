@@ -6,7 +6,7 @@
 - **Reference Level**: Deep Clinical Reference (Batch 8)
 - **Source Verification Date**: 2026-11-08
 
-> **Core Diagnostic Question**: *{'text': 'A tissue diagnosis depends on what was sampled, what survived processing and how the microscopic findings fit the dog or cat in front of the veterinarian.', 'sources': [1]}*
+> **Core Diagnostic Question**: *A tissue diagnosis depends on what was sampled, what survived processing and how the microscopic findings fit the dog or cat in front of the veterinarian.*
 
 ## The diagnostic question begins before the tissue reaches the laboratory
 
