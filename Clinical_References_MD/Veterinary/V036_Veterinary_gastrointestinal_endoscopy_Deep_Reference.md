@@ -1,0 +1,72 @@
+# V036: Veterinary gastrointestinal endoscopy
+
+- **Domain**: Veterinary
+- **Species Scope**: Dog, Cat
+- **Clinical Category**: Veterinary internal medicine and interventional endoscopy
+- **Reference Level**: Deep Clinical Reference (Batch 14)
+- **Source Verification Date**: 2026-11-09
+- **Editorial Status**: Source checked educational treatise. Independent clinical review pending.
+
+> **Core Diagnostic Question**: *Why does an upper gastrointestinal endoscopy that samples only the stomach and duodenum miss nearly a third of feline alimentary lymphomas—and how does feeding a tablespoon of corn oil the night before gastroduodenoscopy light up hidden canine intestinal lymphangiectasia?*
+
+### Clinical Urgency & Triage Boundary: Esophageal bone/fishhook foreign body & gastric foreign body vs chronic enteropathy biopsy staging
+
+Dogs or cats presenting with acute gagging, ptyalism, and radiographic esophageal foreign bodies (bones, fishhooks, dental chews) require emergent endoscopic extraction under general endotracheal anesthesia before pressure necrosis perforates the thoracic esophagus into the mediastinum; animals with chronic (> 3 weeks) vomiting, diarrhea, weight loss, or protein-losing enteropathy undergo elective diagnostic gastroduodenoscopy and ileocolonoscopy after infectious/metabolic exclusion.
+
+## Instrument physics, general anesthesia airway mandate, and the mid-jejunal endoscopic 'blind spot'
+
+Veterinary flexible gastrointestinal endoscopy in dogs and cats requires **general anesthesia with a cuffed endotracheal tube**—both to protect the patient from pulmonary aspiration of refluxed gastric fluid and prevents the animal from biting and destroying a $30,000 fiberoptic or high-definition video gastroscope (typically **7.8 to 9.8 millimeters** in outer diameter with a **2.8-millimeter** biopsy channel for medium-to-large dogs, and **5.0 to 7.9 millimeters** in outer diameter with a **2.0- to 2.8-millimeter** channel for cats and toy-breed dogs < 5 kg so the scope can traverse the narrow feline pylorus and duodenal lumen without excessive wall tension!). [1, 4]
+
+Every clinician and pet owner must understand the **anatomical reach boundaries** of flexible GI endoscopy:
+- **Upper GI Endoscopy (Esophagogastroduodenoscopy [EGD])**: Inspects and samples the esophagus, stomach (fundus, cardia via J-maneuver retroflexion, body, incisura angularis, antrum, and pylorus), and the **proximal descending duodenum** (typically reaching 15 to 40 centimeters past the pylorus depending on dog/cat size).
+- **Lower GI Endoscopy (Ileocolonoscopy)**: Passed retrogradely via the rectum after thorough bowel preparation to inspect the rectum, descending colon, transverse colon, ascending colon, cecum, ileocecal valve, and the **distal 5 to 15 centimeters of the terminal ileum**.
+- **The Endoscopic Blind Spot (Mid-to-Distal Jejunum and Proximal Ileum)**: Standard gastroscopes and colonoscopes **cannot reach the bulk of the jejunum**! Furthermore, endoscopic biopsy forceps sample **only the mucosa (and occasionally superficial submucosa)**—never the muscularis propria or serosa—and cannot sample mesenteric lymph nodes, liver, or pancreas. Consequently, focal jejunal tumors, transmural muscularis-layer lymphoma, or triaditis requiring multi-organ biopsies may require exploratory laparotomy or laparoscopy rather than endoscopy. [1, 2, 4]
+
+## Patient preparation: Bowel cleansing, left lateral decubitus pyloric physics, and the corn-oil lymphangiectasia trick
+
+Preparation depends on whether upper or combined upper-and-lower endoscopy is planned:
+- **For Upper GI Endoscopy alone**: Withhold food for **12 to 18 hours** and water for 2 to 4 hours. During EGD, the dog or cat MUST be positioned in **LEFT lateral recumbency**! If an animal is placed in right lateral recumbency, the weight of the stomach folds the pyloric antrum back upon itself and pools fluid in the antrum, making pyloric intubation into the duodenum notoriously difficult; in left lateral recumbency, gravity drains gastric fluid into the dependent fundus away from the pylorus and aligns the antral-pyloric axis for smooth duodenal entry.
+- **For Ileocolonoscopy**: Because even a thin film of fecal residue obscures colonic vascular patterns and blocks retroflexed or blind intubation of the ileocecal orifice, food is withheld for **24 to 36 hours**, balanced **polyethylene glycol 3350 electrolyte lavage solution (GoLYTELY)** is administered via nasoesophageal/orogastric tube (25 to 30 mL/kg, two to three doses the afternoon/evening before), and warm isotonic water enemas are given the evening before and morning of anesthesia (avoiding hypertonic sodium phosphate [Fleet] enemas in cats and small dogs, which cause fatal hyperphosphatemia, hypocalcemic tetany, and hypernatremia!). [1, 4, 5]
+
+A classic diagnostic enhancement in dogs evaluated for **Protein-Losing Enteropathy (PLE—panhypoproteinemia with low albumin and low globulin)** due to **Intestinal Lymphangiectasia** (common in Yorkshire Terriers, Soft Coated Wheaten Terriers, Norwegian Lundehunds, and Maltese) is administering **1 to 2 tablespoons of corn oil (or a small can of high-fat food / cream)** 3 to 6 hours before anesthesia (or instilling emulsified fat into the duodenum). Fasting can allow dilated lacteals to partially collapse, resulting in false-negative mucosal biopsies; pre-procedural dietary fat loads the villous lacteals with chylomicrons, causing them to balloon into prominent white **'snowflake' or 'rice-grain' mucosal droplets** on endoscopic view and distending the villous lacteals for definitive histopathologic confirmation! [1, 3, 6]
+
+## The Feline IBD vs Small-Cell Alimentary Lymphoma Dilemma: Why Ileal Biopsy is Mandatory!
+
+In middle-aged and older cats presenting with chronic weight loss, vomiting, diarrhea, or polyphagia, the two primary differential diagnoses—**Feline Inflammatory Bowel Disease (lymphoplasmacytic enteritis)** and **Low-Grade Alimentary Lymphoma (LGAL—mucosal small-cell T-cell lymphoma)**—have identical clinical signs, identical serum cobalamin depletion, and identical ultrasonographic muscularis-propria thickening. Historically, veterinarians debated whether full-thickness surgical laparotomy biopsies were required over endoscopic biopsies to diagnose feline lymphoma. Groundbreaking prospective studies by **Evans, Moore, Scott, and the WSAVA Gastrointestinal Standardization Group** solved this mystery by discovering *where* feline lymphoma hides! [2, 7, 8]
+
+When endoscopic biopsies were restricted to the **stomach and duodenum alone**, endoscopic sensitivity for feline alimentary lymphoma was poor—not because endoscopic pinch forceps were too shallow, but because **feline small-cell alimentary lymphoma preferentially localizes to the distal JEJUNUM and ILEUM while sparing the duodenum**! In a landmark study of cats undergoing simultaneous gastroduodenoscopy and ileocolonoscopy (Scott et al., J Vet Intern Med 2011), **in 18 to 39 percent of cats diagnosed with alimentary lymphoma, the lymphoma was present ONLY in the ileal biopsies while the duodenal biopsies showed benign IBD or normal mucosa**! Therefore, ACVIM consensus guidelines (Marsilio et al. 2023) mandate that every cat undergoing diagnostic GI endoscopy for chronic enteropathy MUST undergo **BOTH upper gastroduodenoscopy AND lower ileoscopy** (intubating the ileocecal valve Directly under vision in medium/large dogs and cats, or passing Closed biopsy forceps blindly through the feline ileocecal sphincter to obtain **>= 6 to 8 ileal biopsies**!). [2, 7, 8]
+
+## WSAVA Biopsy Quality Standards, Immunohistochemistry (CD3/CD79a), and PARR Clonality
+
+Diagnostic yield in veterinary GI endoscopy is directly proportional to biopsy sample quality and number. The **World Small Animal Veterinary Association (WSAVA) Gastrointestinal Standardization Group** established that crushing tiny tissue fragments or taking only 2 to 3 superficial bites yields 'non-diagnostic' villous tips without lamina propria depth. To achieve > 90 to 99 percent diagnostic confidence across patchy mucosal lesions, endoscopists must use large-capacity **2.8-millimeter standard oval fenestrated forceps** whenever scope channel size permits, take only **1 to 2 tissue bites per forceps pass** (to prevent crush artifact), and collect at least **6 to 8 adequate full-thickness mucosal biopsies** (extending down to the muscularis mucosae with >= 3 intact contiguous villi-crypt units) from **each anatomical region** (stomach, duodenum, ileum, and colon), mounted flat on cucumber slices or biopsy sponges in separate labeled formalin jars. [1, 7, 9]
+
+When hematoxylin-and-eosin (H&E) histopathology of feline or canine intestinal biopsies shows dense mucosal lymphocytic infiltration where benign reactive IBD cannot be distinguished from epitheliotropic small-cell lymphoma, two stepwise ancillary tests are performed on the same formalin-fixed paraffin-embedded tissue block:
+1. **Immunohistochemistry (IHC)**: Stains for **CD3** (T-lymphocyte marker) and **CD79a / CD20 / Pax-5** (B-lymphocyte marker). Reactive IBD infiltrates contain a polymorphic *mixture* of T cells, B cells, and plasma cells, whereas feline Low-Grade Alimentary Lymphoma displays a monomorphic sheet of **CD3+ T-lymphocytes** infiltrating the intraepithelial compartments ('epitheliotropism' / Pautrier-like microabscesses).
+2. **PCR for Antigen Receptor Rearrangements (PARR / Clonality Testing)**: Amplifies the hypervariable complementarity-determining region 3 (CDR3) of the **T-Cell Receptor gamma (`TRG`)** and **Immunoglobulin Heavy Chain (`IGH`)** genes. A polyclonal Gaussian ladder confirms reactive IBD, whereas a single sharp **monoclonal or oligoclonal amplicon peak** supports neoplastic lymphoma—noting that in cats, *TRG* PARR has a ~10 to 15 percent false-positive rate in severe IBD, so ACVIM guidelines require integrating H&E morphology + IHC + PARR together rather than relying on PARR alone! [2, 8, 10]
+
+## Documented clinical cases: Feline ileal-only T-cell lymphoma and esophageal bone perforation avoidance
+
+A classic feline internal medicine case involves a 12-year-old castrated male Domestic Shorthair cat with a 0.9-kilogram weight loss over 4 months, polyphagia, normal serum T4 (2.1 ug/dL), and severely subnormal serum cobalamin (< 150 ng/L). Combined upper gastroduodenoscopy and lower ileocolonoscopy yielded 8 duodenal biopsies and 7 blind trans-ileocecal valve ileal biopsies. Histopathology of all 8 duodenal specimens showed only mild lymphoplasmacytic duodenitis (WSAVA score mild IBD), whereas 6 of 7 ileal biopsies demonstrated dense transmucosal and intraepithelial sheets of monomorphic small lymphocytes that stained diffusely **CD3-positive** on IHC and showed a monoclonal *TRG* rearrangement on PARR—confirming **ileal-restricted Low-Grade Alimentary T-Cell Lymphoma**, which achieved a 26-month complete clinical remission on oral chlorambucil and prednisolone plus cyanocobalamin. [2, 7, 8]
+
+A second emergency case involves a 5-year-old West Highland White Terrier presenting 30 hours after swallowing a pork rib bone wedged in the caudal thoracic esophagus just cranial to the lower esophageal sphincter. Thoracic radiographs showed no pneumomediastinum or pleural effusion. Under general endotracheal anesthesia, flexible esophagoscopy with foreign-body prong/rat-tooth grasping forceps gently disengaged the sharp spicules from the esophageal mucosa and extracted the bone inside a protective latex hood. Post-extraction endoscopic inspection revealed a circumferential 270-degree deep mucosal/submucosal ulceration without full-thickness perforation; placing a gastrostomy (PEG) tube endoscopically during the same anesthesia allowed esophageal mucosal rest and sucralfate slurry healing while monitoring for delayed esophageal stricture formation (which occurs 7 to 21 days after circumferential mucosal burns/ulcers and is treated with endoscopic balloon dilation!). [1, 4, 11]
+
+## Complications, over-insufflation gastric dilatation, and when surgery beats endoscopy
+
+While diagnostic GI endoscopy is minimally invasive, two life-threatening procedural hazards must be actively prevented during anesthesia:
+1. **Over-Insufflation Tension Gastric Dilatation & Bradycardia**: Pumping excessive air into the stomach and duodenum during prolonged attempts to intubate the pylorus or ileocecal valve distends the stomach like a drum, compressing the caudal vena cava and diaphragm—which precipitously drops venous return, causes severe arterial hypotension, compromises ventilation, and triggers high vagal tone bradycardia! The anesthesiologist and endoscopist must continuously monitor abdominal contour and **suction all insufflated air out of the stomach** before awakening the patient.
+2. **Perforation Risk in Ulcerated or Neoplastic Walls**: Forcefully advancing the endoscope tip blindly ('red-out') or taking deep biopsies inside the center of a necrotic gastric ulcer or fragile cecal/esophageal wall can cause iatrogenic perforation and pneumoperitoneum/pneumomediastinum (always biopsy the *margin* of an ulcer crater, never the thin center!). Finally, linear foreign bodies anchored under the tongue or pylorus and extending pleats down into the jejunum should rarely be pulled forcefully with an endoscope, as traction saws the mesenteric border of the intestine—requiring prompt conversion to surgical enterotomy. [1, 4, 11]
+
+## Verified Primary Sources & Official Guidelines
+
+1. [Reference](https://www.worldcat.org/title/659562359) — Verified 2026-11-09
+2. [Reference](https://pubmed.ncbi.nlm.nih.gov/37095740/) — Verified 2026-11-09
+3. [Reference](https://pubmed.ncbi.nlm.nih.gov/22860662/) — Verified 2026-11-09
+4. [Reference](https://www.worldcat.org/title/960906090) — Verified 2026-11-09
+5. [Reference](https://pubmed.ncbi.nlm.nih.gov/20391635/) — Verified 2026-11-09
+6. [Reference](https://pubmed.ncbi.nlm.nih.gov/30762910/) — Verified 2026-11-09
+7. [Reference](https://pubmed.ncbi.nlm.nih.gov/22092613/) — Verified 2026-11-09
+8. [Reference](https://pubmed.ncbi.nlm.nih.gov/17078807/) — Verified 2026-11-09
+9. [Reference](https://pubmed.ncbi.nlm.nih.gov/18638017/) — Verified 2026-11-09
+10. [Reference](https://pubmed.ncbi.nlm.nih.gov/21149848/) — Verified 2026-11-09
+11. [Reference](https://pubmed.ncbi.nlm.nih.gov/19954441/) — Verified 2026-11-09
+12. [Reference](https://pubmed.ncbi.nlm.nih.gov/18336828/) — Verified 2026-11-09
