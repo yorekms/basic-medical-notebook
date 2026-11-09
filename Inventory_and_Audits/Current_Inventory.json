@@ -1,0 +1,3224 @@
+{
+  "audit_date": "2026-11-09",
+  "topic_rows": [
+    {
+      "id": "H001",
+      "name": "Complete blood count",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H001_Complete_blood_count.docx",
+      "drive_url": "https://docs.google.com/document/d/1-lj3aV-NyTRcKigCkf1B2Jye7GC5M-mmGEYjHe20A-k",
+      "drive_id": "1-lj3aV-NyTRcKigCkf1B2Jye7GC5M-mmGEYjHe20A-k",
+      "source_check_date": "2026-11-05",
+      "source_count": 4,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRkO1XcgazsAoQtNl2bTlUl2YKpNETuK0g-Rz5SJMdi6wwFNfb17zL--xYck652u7sW5inFZLC6fR8IOID4pyPiD_0GkNzfE7amJiE",
+      "word_sha256": "b749a122cece5cd17f5956a8e8410a015c7a8bbbf19b206bb0ff01f472f51f5a"
+    },
+    {
+      "id": "H002",
+      "name": "Comprehensive metabolic panel",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H002_Comprehensive_metabolic_panel.docx",
+      "drive_url": "https://docs.google.com/document/d/1DMxm_sTRrXNDwyM2Kn1UkiaXzl5ALUGA_r1x7c4jOKM",
+      "drive_id": "1DMxm_sTRrXNDwyM2Kn1UkiaXzl5ALUGA_r1x7c4jOKM",
+      "source_check_date": "2026-11-05",
+      "source_count": 4,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTW5EPpZXB4XfQRxx1tIUzLsmW4zXN7cidvRD-Ac9zyfrc3LGDqWUE63oikL7CuSHIVAva2q_-wPYQD5CTQuMsgufGm7euTNxs6RaY",
+      "word_sha256": "d5f050f6bab0c75f48e49baf945526ffbd06bcbe12ecf1b45c752e65a7d42e9b"
+    },
+    {
+      "id": "H003",
+      "name": "Urinalysis",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H003_Urinalysis.docx",
+      "drive_url": "https://docs.google.com/document/d/1Ahf_uDXkZdqkjuMdN3rnhyYWo3GSf0ZmjNslxdmPBWg",
+      "drive_id": "1Ahf_uDXkZdqkjuMdN3rnhyYWo3GSf0ZmjNslxdmPBWg",
+      "source_check_date": "2026-11-05",
+      "source_count": 5,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTGT0Ct43yUUpRsyM9WUNXy2jkCSCSPeTG8t-oEytcsX0IhBE5a4dwfripMcdOYQSLgBwexSXD4ejShlhQojrMCePpCmZl-zYw-Ggc",
+      "word_sha256": "2e1f398e4cb9d20835534f7269cd829c57ba41402454321478531a6bba898dec"
+    },
+    {
+      "id": "H004",
+      "name": "Resting electrocardiogram",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H004_Resting_electrocardiogram.docx",
+      "drive_url": "https://docs.google.com/document/d/1iME3sfcDpqxw_N1JvXmQTub8CtDZk-30q1vp8duHvcs",
+      "drive_id": "1iME3sfcDpqxw_N1JvXmQTub8CtDZk-30q1vp8duHvcs",
+      "source_check_date": "2026-11-05",
+      "source_count": 5,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTfrq5qOhGFnkxY5DgVlpH5u0k6RcPaMBJhAXxZysxPR7BZtVxdcW32W5ngbkBR5EMciIz0PjwsO64swO0CRBDu8go2yTPyaXzIJdo",
+      "word_sha256": "b67064f47615c9fc3ffd67ea39d0fd3f804b5e8845dff4b463355125359b8279"
+    },
+    {
+      "id": "H005",
+      "name": "Chest radiograph",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H005_Chest_radiograph.docx",
+      "drive_url": "https://docs.google.com/document/d/1xQuwYC70u3s8yPHqpeGiw-TpHicN9Azr0rKm8M6KgVM",
+      "drive_id": "1xQuwYC70u3s8yPHqpeGiw-TpHicN9Azr0rKm8M6KgVM",
+      "source_check_date": "2026-11-05",
+      "source_count": 4,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTD11JFbmpeUtzuW61h-dRJFxYTbleCXbaYj7A67Seoyq-ZaZ6KcxmE9yrZK3ykoezkrpQiUzV9N0y9SXwsrApmKUxh8m61f24pVBA",
+      "word_sha256": "43e875963930ef74847f741a7db6bed95a12de864e9211b9a52d5cc4230cdb82"
+    },
+    {
+      "id": "H006",
+      "name": "Spirometry",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H006_Spirometry.docx",
+      "drive_url": "https://docs.google.com/document/d/1gfK618WTyYN64xuKetLHA3gipaZz1cCNijJ55hi2XR4",
+      "drive_id": "1gfK618WTyYN64xuKetLHA3gipaZz1cCNijJ55hi2XR4",
+      "source_check_date": "2026-11-05",
+      "source_count": 4,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQ5t544JzjsO5mlF0PuxDzQ8Voyj-gTwap_uloUXSbOYME11zwoWhiTumuFdR4Cu43x7Incqp8cZnPutH106IjmoEHX9WD4spjsRuU",
+      "word_sha256": "f4594565e1e43e4b6f623fc164ad946bfcbfa200510f6578641e9a0dbf67440b"
+    },
+    {
+      "id": "H007",
+      "name": "Glycated hemoglobin testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "What does HbA1c reveal about longer term glucose exposure, and when can it disagree with measured glucose?",
+      "research_scope": [
+        "Compare standardized HbA1c methods, assay-specific interference, hemoglobin variants, and altered red-cell survival.",
+        "Separate diagnostic uses from monitoring and investigate pregnancy, pediatric, kidney disease, and transfusion contexts."
+      ],
+      "status": "Deep reference",
+      "batch": 2,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H007_Glycated_hemoglobin_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1hg1NywHl-UGACoSslgtzFWZ3DFh9q0slvoAy-6ckTEw/edit?usp=drivesdk",
+      "drive_id": "1hg1NywHl-UGACoSslgtzFWZ3DFh9q0slvoAy-6ckTEw",
+      "source_check_date": "2026-11-06",
+      "source_count": 16,
+      "body_word_count": 2291,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSAaV4nqb_ANrdHU2YEe79VoQY0hyaT6y4nz54gzZ19WhxE9cehosjGQRgHqyTUvBZPug1iMuWLApipaIEoBlu9hkgD0Nit0CcZSHY",
+      "word_sha256": "e52001292251a647a414d22f1249430c8ad662d00577fc7ee9a956295471df10"
+    },
+    {
+      "id": "H008",
+      "name": "Lipid profile",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "What do the components of a lipid profile measure, and how do fasting and calculation methods change the answer?",
+      "research_scope": [
+        "Compare directly measured and calculated lipids, triglyceride effects, fasting policies, and sample quality.",
+        "Separate screening intervals, treatment targets, and analytical reference limits for the stated population."
+      ],
+      "status": "Deep reference",
+      "batch": 4,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H008_Lipid_profile_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/18IEuBvnZ8j6F5KdlTH7xgBoagrp2hagzAuZeRON2H6k/edit?usp=drivesdk",
+      "drive_id": "18IEuBvnZ8j6F5KdlTH7xgBoagrp2hagzAuZeRON2H6k",
+      "source_check_date": "2026-11-07",
+      "source_count": 18,
+      "body_word_count": 2375,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRHnTmqtv1co2EwTMwj_UgOa_l4puxT99nqqlrqaQTFdCPs1vR2SVfHmFMAPYZDG4xQ00-MMK9pjXuerP45gauR7iHOCW05dv8wLRU",
+      "word_sha256": "4ac3a8f66683c35e09f63adbdd31d8c2b246e5c1f57a93ae132ad7b8fec29a58"
+    },
+    {
+      "id": "H009",
+      "name": "Thyroid function testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do thyroid feedback and assay design explain apparently conflicting thyroid results?",
+      "research_scope": [
+        "Map TSH, free and total thyroid hormones, assay interferences, and confirmatory approaches.",
+        "Research pregnancy, age, non-thyroidal illness, medicine effects, and method-specific reference intervals."
+      ],
+      "status": "Deep reference",
+      "batch": 2,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H009_Thyroid_function_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1aAODacprd4CEX9DUB1mt2o6Zvus398xM0UpKZtvEOTc/edit?usp=drivesdk",
+      "drive_id": "1aAODacprd4CEX9DUB1mt2o6Zvus398xM0UpKZtvEOTc",
+      "source_check_date": "2026-11-06",
+      "source_count": 16,
+      "body_word_count": 2327,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRyMKK86kAKECaebIqdUnn3VC3qsvqI0DwLj4-yUlzABy6mTn4OeJuK_61rp3JXcevtoZQYuKQp4jzjJqRSGsOmg_B79o4QebjDzio",
+      "word_sha256": "f45985ddb148bab311939c4cf38b3559f7039fc00e0e4c18701040e79891f8ce"
+    },
+    {
+      "id": "H010",
+      "name": "Iron studies",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do iron stores, transport, and inflammation alter the interpretation of iron studies?",
+      "research_scope": [
+        "Research ferritin, transferrin or total binding capacity, saturation calculations, and inflammatory effects.",
+        "Separate iron deficiency, overload investigation, and monitoring with population-specific evidence."
+      ],
+      "status": "Deep reference",
+      "batch": 4,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H010_Iron_studies_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/14wvMTn1BD-7Wlz7UATM2xj2DQklQ7aPkEusHz7X9DHY/edit?usp=drivesdk",
+      "drive_id": "14wvMTn1BD-7Wlz7UATM2xj2DQklQ7aPkEusHz7X9DHY",
+      "source_check_date": "2026-11-07",
+      "source_count": 18,
+      "body_word_count": 2475,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSXxb3ECpAZkwomZIb6cs1kmrS6Taeow3Qz8nWRZLuP-kIOLBlYKI6LFKFIzrH9AgGQCbpQrL8z2Bo-VFeOCpe82Jpx1ivenxA5VvU",
+      "word_sha256": "de103af41f979e4b8ef6ad50184ba6ebb87ab57473dbc09e7acdd0fe225fea9d"
+    },
+    {
+      "id": "H011",
+      "name": "Coagulation testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "Why can a coagulation result be prolonged without predicting bleeding, or appear normal despite a hemostatic problem?",
+      "research_scope": [
+        "Distinguish PT, INR, aPTT, fibrinogen, mixing studies, and drug-specific monitoring.",
+        "Verify citrate fill, high hematocrit adjustment, sample handling, reagent sensitivity, and anticoagulant interference."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H011_Coagulation_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1dNGXVq05JV2aDA5kymK80am4Iu2fDDDWT4JFYolHjBI",
+      "drive_id": "1dNGXVq05JV2aDA5kymK80am4Iu2fDDDWT4JFYolHjBI",
+      "source_check_date": "2026-11-06",
+      "source_count": 9,
+      "body_word_count": 1000,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRK7j347aPvPxLR-_3rxgvy8_ZFtO1N2z6C3dVSawCSEEwRrQ9p0XGk7SQa4R760c5ZoQuOaDYSTuEqLAOpOzNgTifttkZYGomATrM",
+      "word_sha256": "94a6981b9831cfda6594908f1d0633db5c1c7b218e5b9a18ad4a26d37ae58a19"
+    },
+    {
+      "id": "H012",
+      "name": "Urine albumin to creatinine ratio",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "What does the urine albumin to creatinine ratio add to kidney assessment, and what makes it variable?",
+      "research_scope": [
+        "Compare spot and timed samples, collection context, albumin methods, and repeat-testing evidence.",
+        "Research transient influences, population-specific categories, and distinctions from total protein testing."
+      ],
+      "status": "Deep reference",
+      "batch": 4,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H012_Urine_albumin_to_creatinine_ratio_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1-tLBDMM-jzmFL9dlygY4Ku63p3HbL8f8A6ckBdUdW74/edit?usp=drivesdk",
+      "drive_id": "1-tLBDMM-jzmFL9dlygY4Ku63p3HbL8f8A6ckBdUdW74",
+      "source_check_date": "2026-11-07",
+      "source_count": 20,
+      "body_word_count": 2681,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSca-6G07MwyuG0w2Kq5o8xI_ENZYdNBD1wPxHBJ74WHST1NwFjXh8o1HX2HeLGcpZACWZdoj73u87OZ8Wu-gbxLVIDvgLOsZVUEjI",
+      "word_sha256": "e625f4c1e1d6502fa63f0adea54bfd522567ca31ffb8bf8cdfbb390bd32fe7d9"
+    },
+    {
+      "id": "H013",
+      "name": "Inflammatory marker testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "What can inflammatory markers support, and why can they neither locate nor exclude disease on their own?",
+      "research_scope": [
+        "Compare CRP and ESR biology, response kinetics, analytical methods, and preanalytical factors.",
+        "Research age, pregnancy, anemia, immunosuppression, and relevant serial-use evidence."
+      ],
+      "status": "Deep reference",
+      "batch": 5,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H013_Inflammatory_marker_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/18MGuDBaaN6_hZasdIk-dOwIde13CpeTcyFz6yTJ-doY/edit?usp=drivesdk",
+      "drive_id": "18MGuDBaaN6_hZasdIk-dOwIde13CpeTcyFz6yTJ-doY",
+      "source_check_date": "2026-11-07",
+      "source_count": 19,
+      "body_word_count": 2549,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSVNmcwMYb70AwZj4Bm3uqfCGY4GbVguwt22xE38CyWWPY5efx_eXMcjtB25k2D4DXovJUPZGhGbFYc4shsO2uxmvCbV3Te0Q9_fi8",
+      "word_sha256": "5479bf518d0d15f1575efc36c368f326aa62a6be14103e2f1740966f03bee1ab"
+    },
+    {
+      "id": "H014",
+      "name": "Arterial blood gas analysis",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "How do blood gas measurements distinguish ventilation, oxygenation, and acid-base processes?",
+      "research_scope": [
+        "Compare arterial, venous, and capillary sampling and directly measured versus calculated outputs.",
+        "Verify delay, air exposure, temperature, anticoagulant, oxygen-delivery documentation, and analyzer-specific co-oximetry."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H014_Arterial_blood_gas_analysis_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1Uhlm87iWwAWPnHooEqewSqG-lDvBx3NyuutzlDBMGFA",
+      "drive_id": "1Uhlm87iWwAWPnHooEqewSqG-lDvBx3NyuutzlDBMGFA",
+      "source_check_date": "2026-11-06",
+      "source_count": 9,
+      "body_word_count": 1042,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMT_zYxkH87mluOPlB8V5vwaQ0Qk8ONVJm6hX2jpU_iHMDxKsBoLRfQFwhiu1ZGyjunlpOXP_WCiuvpGxcFTmDLnKJgI8esgEHDLKX8",
+      "word_sha256": "5ef32e1c9f31d65060263c4a7639cabf5102ac053d7ca2946676332ecfd08307"
+    },
+    {
+      "id": "H015",
+      "name": "Cardiac troponin testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "What does a changing troponin result establish about myocardial injury, and what remains to diagnose?",
+      "research_scope": [
+        "Distinguish troponin I and T assays, high-sensitivity definitions, units, reference limits, and assay-specific serial algorithms.",
+        "Research symptom timing, kidney disease, nonischemic injury, interference, and the distinction between injury and infarction."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H015_Cardiac_troponin_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1jM3uvMWC-hXDxV27pBNFbJotslB458j8Cid93GAqIuo",
+      "drive_id": "1jM3uvMWC-hXDxV27pBNFbJotslB458j8Cid93GAqIuo",
+      "source_check_date": "2026-11-06",
+      "source_count": 9,
+      "body_word_count": 1093,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTfADjQKkDJh_9TGMrSF4ZrLARfpuPx-lqHG9h7lNDpamMRuILCZFnpxB7ojSSmhLuag3LR8Z1dAv7qDPA_dyULGLq5MPhE0O6ypFw",
+      "word_sha256": "612306d50a590c23f683ad1f7288c402a752baf62960a0011c49b7a6373354b8"
+    },
+    {
+      "id": "H016",
+      "name": "Pregnancy testing with human chorionic gonadotropin",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do pregnancy assays detect hCG, and why can timing or interference produce misleading results?",
+      "research_scope": [
+        "Compare urine and serum, qualitative and quantitative methods, detection limits, and serial measurement.",
+        "Research early sampling, hCG variants, assay interference, exogenous hCG, and the limits of inferring pregnancy location."
+      ],
+      "status": "Deep reference",
+      "batch": 3,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H016_Pregnancy_testing_with_human_chorionic_gonadotropin_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1vgnN9l8bG7sTKVRjLQHmQXY6bW1IqSFUFldXJ8319P4/edit?usp=drivesdk",
+      "drive_id": "1vgnN9l8bG7sTKVRjLQHmQXY6bW1IqSFUFldXJ8319P4",
+      "source_check_date": "2026-11-07",
+      "source_count": 17,
+      "body_word_count": 2443,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTv6esUnPt7utmKLXtXQp_eK3uExwdU5vL9o-JMFjunzp8jRuHjY6TlRYNkYYSXfJoqNSY5mklraz89UqU0rPXr0t5buoQvsnJX1Dg",
+      "word_sha256": "e3e41ca463b51f48494d9a132dfb3f119d9aa32920c1742857c21016905fa018"
+    },
+    {
+      "id": "H017",
+      "name": "Urine bacterial culture",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "When does bacterial growth in urine reflect infection, contamination, or colonization?",
+      "research_scope": [
+        "Research collection methods, transport, quantitative culture, organism identification, and susceptibility reporting.",
+        "Separate symptomatic infection from asymptomatic bacteriuria and special populations using current guidance."
+      ],
+      "status": "Deep reference",
+      "batch": 5,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H017_Urine_bacterial_culture_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1XnxGkmstR-rd8BNmqbtEy_gHA-z8JzFZUwj4Sjx109M/edit?usp=drivesdk",
+      "drive_id": "1XnxGkmstR-rd8BNmqbtEy_gHA-z8JzFZUwj4Sjx109M",
+      "source_check_date": "2026-11-07",
+      "source_count": 19,
+      "body_word_count": 2514,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQsegNOg2i3JZUlM6QS5sv_0ogCjFBTGXQKN9dl746DXWslt9-UBbcSD0_gBCmQGj_HiDNNAQqp-onhILJab8EMlXa6VLx4miqq6P8",
+      "word_sha256": "380ba0307f24abfb6546363144288f58bc215233dbb9099c19658973cd02d1ae"
+    },
+    {
+      "id": "H018",
+      "name": "Blood cultures",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "How do blood cultures turn a sampled bloodstream into evidence, and how can collection errors mislead?",
+      "research_scope": [
+        "Verify collection volume, sets, timing, contamination prevention, bottle types, incubation, identification, and susceptibility workflow.",
+        "Research prior antimicrobial exposure, contamination versus true infection, and adult versus pediatric evidence."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H018_Blood_cultures_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1a8WGbuFDcrCBdRCoi8kv_ZK4LHv2gW2cbn194iX1bmI",
+      "drive_id": "1a8WGbuFDcrCBdRCoi8kv_ZK4LHv2gW2cbn194iX1bmI",
+      "source_check_date": "2026-11-06",
+      "source_count": 8,
+      "body_word_count": 1030,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTKatseTnRjYtqSG35YLaC2_rBCgJDQKozX-wXakk-oFNw5J9oT1IXzHEAVr2FWF05KXB33T7RfaZhsILuSwrcMfV-G5h2JkGsgfXA",
+      "word_sha256": "0482a6cada155e898d63b72bbd8775fd2ca9a4c2e166b139d25033bade2ae86b"
+    },
+    {
+      "id": "H019",
+      "name": "Stool pathogen testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "What does a stool pathogen result mean when culture, antigen testing, and molecular panels answer different questions?",
+      "research_scope": [
+        "Compare pathogen targets, specimen handling, culture, toxin or antigen assays, and nucleic-acid panels.",
+        "Research colonization, residual detection, multiple positives, susceptibility gaps, and public-health reporting."
+      ],
+      "status": "Deep reference",
+      "batch": 6,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H019_Stool_pathogen_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1GgF5O1AXLlXNI8cg6g8aCD51tgM4bGQwZxF9I3-rUlc/edit?usp=drivesdk",
+      "drive_id": "1GgF5O1AXLlXNI8cg6g8aCD51tgM4bGQwZxF9I3-rUlc",
+      "source_check_date": "2026-11-07",
+      "source_count": 24,
+      "body_word_count": 2682,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTGsUgr4sKACwpP3vFtn5OLial81sYco_A5W3YFG0RhYbzZs35KCJ4g2JCjQF432qNCbsaE-XZKwoinhpHBX4nMwCnfxliEAHtN5eo",
+      "word_sha256": "8cb0e3ce7879ee428c0478ace43f1b060b4b1c2269583662c111d72b9b6204d6"
+    },
+    {
+      "id": "H020",
+      "name": "Tuberculosis immunologic testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "What do tuberculosis immune tests detect, and why are they different from testing for active disease?",
+      "research_scope": [
+        "Compare interferon-gamma release assays and tuberculin skin testing, specimens, reading windows, and indeterminate results.",
+        "Research vaccination, immune suppression, exposure timing, and population-specific follow-up pathways."
+      ],
+      "status": "Deep reference",
+      "batch": 5,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H020_Tuberculosis_immunologic_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/19Y6CerxWtGNnrZQ7p3sqtSEQH30YNPuP-sWUpzRrzqY/edit?usp=drivesdk",
+      "drive_id": "19Y6CerxWtGNnrZQ7p3sqtSEQH30YNPuP-sWUpzRrzqY",
+      "source_check_date": "2026-11-07",
+      "source_count": 20,
+      "body_word_count": 2573,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTGcFGfhN3qJ8u_SsdM2sLJtGjPHcVyRjkxFSdGOcGG6m2IVpIseCLaJ2tCSc9m29QGK9FHJSf_DSch1Y47RQYaKuGRQRJ9eSJiuoo",
+      "word_sha256": "38db3292b30c81a453e7836cb93f002fa37dc271f87038a09305b2bf05554ad5"
+    },
+    {
+      "id": "H021",
+      "name": "Human immunodeficiency virus testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do staged HIV testing algorithms distinguish early infection, established infection, and discordant results?",
+      "research_scope": [
+        "Map assay generations, antigen and antibody targets, nucleic-acid confirmation, windows, and specimen restrictions.",
+        "Research age, perinatal testing, prevention medication effects, and current jurisdictional algorithms."
+      ],
+      "status": "Deep reference",
+      "batch": 6,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H021_Human_immunodeficiency_virus_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1Cidkt0nJwB3X_AG9HpG4Srhc8szd9uNCTCyy3RTWj7Q/edit?usp=drivesdk",
+      "drive_id": "1Cidkt0nJwB3X_AG9HpG4Srhc8szd9uNCTCyy3RTWj7Q",
+      "source_check_date": "2026-11-07",
+      "source_count": 24,
+      "body_word_count": 2765,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRGcSU6ERiUQB2USePn_Ng5HJrsamL-prZSknJMmQ0TnhiFgSgR0x0XYptV7TfvovuF6ekvk1_9-PartSJQSDV0KukC1d41b1DDMTw",
+      "word_sha256": "e603ebe760b093d610e607e7d2079632a8701190185700929fdf1c3779a4dc34"
+    },
+    {
+      "id": "H022",
+      "name": "Viral hepatitis testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do hepatitis antigen, antibody, and nucleic-acid results separate exposure, immunity, and infection?",
+      "research_scope": [
+        "Develop virus-specific subrecords for hepatitis B and C and define each target and assay role.",
+        "Research vaccination, immune suppression, window periods, reflex algorithms, and monitoring versus screening."
+      ],
+      "status": "Deep reference",
+      "batch": 6,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H022_Viral_hepatitis_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1JJc4zNmGze67KPrTSbCRj5x6yr5A2msmqc09qqxI0tI/edit?usp=drivesdk",
+      "drive_id": "1JJc4zNmGze67KPrTSbCRj5x6yr5A2msmqc09qqxI0tI",
+      "source_check_date": "2026-11-07",
+      "source_count": 25,
+      "body_word_count": 2852,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQjMw8MAAVDfJI5DjDeEQnJSU0KcZD3fKyIGBINSPOwwSw1CPlGGY20xFTHpspHaHtL-V1gFLUnnRP5sPud4jw0Y1bfELIrsuCQoJQ",
+      "word_sha256": "53bd445a946e973602e921b3ac1d9ebb1b5f6c472811ad6abe5740f77a2e6713"
+    },
+    {
+      "id": "H023",
+      "name": "Respiratory pathogen nucleic acid testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "What does a respiratory pathogen nucleic-acid result say about the sampled site and time?",
+      "research_scope": [
+        "Compare targeted and multiplex assays, collection sites, specimen quality, controls, and method performance.",
+        "Research timing, persistent detection, coinfection, false negatives, and limits of cycle-threshold interpretation."
+      ],
+      "status": "Deep reference",
+      "batch": 7,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H023_Respiratory_pathogen_nucleic_acid_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1UmeA2tp6-ICvLMRR-fApsC9twknweRHn4llLdq2UD7M/edit?usp=drivesdk",
+      "drive_id": "1UmeA2tp6-ICvLMRR-fApsC9twknweRHn4llLdq2UD7M",
+      "source_check_date": "2026-11-08",
+      "source_count": 25,
+      "body_word_count": 2864,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQWEfRi4nrL18bhb8qSwnl8GBjczJR-Uh4WTiX72cgv5r_i4r-epAyzcl4IAmqunqXi_npLDwXWSy-iHiRt_fChCDDDaSjsmSHfI1o",
+      "word_sha256": "ea067c96ed03bee0ba4b622cb6e60935d287180dfb9b1a47cebb44a4673a86a4"
+    },
+    {
+      "id": "H024",
+      "name": "Allergy testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How do allergy tests distinguish sensitization from clinically relevant allergy?",
+      "research_scope": [
+        "Compare skin testing, allergen-specific IgE, components, and medically supervised challenge as separate methods.",
+        "Research medicines, cross-reactivity, pretest history, test safety, and age-appropriate evidence."
+      ],
+      "status": "Deep reference",
+      "batch": 7,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H024_Allergy_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1XyLLg0qDjsW-XZAPGqoCQtV2vEsp3tGvGu1dvIzWPQU/edit?usp=drivesdk",
+      "drive_id": "1XyLLg0qDjsW-XZAPGqoCQtV2vEsp3tGvGu1dvIzWPQU",
+      "source_check_date": "2026-11-08",
+      "source_count": 24,
+      "body_word_count": 2772,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMS0lh-LMoA4sRp_jxk-IHYxJZj8R89SYR7ymLdFrTGUDyGymjgCzqNKeWJRmK3mNlEjPHLvOuMyNdp76GYg-5Cn8sEfKCO7zt-teQ4",
+      "word_sha256": "667478d0703c18c0f4c7d57b5397e795320adae51f644096a7232c4f1591d192"
+    },
+    {
+      "id": "H025",
+      "name": "Autoimmune antibody testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How do autoimmune antibody patterns change a diagnostic hypothesis without becoming diagnoses themselves?",
+      "research_scope": [
+        "Separate ANA, disease-specific antibodies, assay platforms, titers, patterns, and reflex testing.",
+        "Research background positivity, pretest probability, disease activity limits, and method-specific interpretation."
+      ],
+      "status": "Deep reference",
+      "batch": 7,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H025_Autoimmune_antibody_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/19GI0JPtAGDmBJS6IFjTZW_34YVUn6_kq_s8yRrqaUpk/edit?usp=drivesdk",
+      "drive_id": "19GI0JPtAGDmBJS6IFjTZW_34YVUn6_kq_s8yRrqaUpk",
+      "source_check_date": "2026-11-08",
+      "source_count": 26,
+      "body_word_count": 2989,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRzQeBW3slpT1hpoix98HjtssFCNn1jXi2gRxrbQ4EoO8pCEcP6TCpu6mH9uDH5rQopf3CmOFV57XcRuQAcrl6_I4M_9Y5J5QIkdVY",
+      "word_sha256": "e46a5f17272e4b7776c4b596e6703b49db69fa344aa605efb5c6e6b91c76501f"
+    },
+    {
+      "id": "H026",
+      "name": "Germline genetic sequencing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "What can germline sequencing identify, and how are uncertain findings distinguished from actionable ones?",
+      "research_scope": [
+        "Research sequencing scope, coverage, variant classes, confirmation, classification, and reanalysis.",
+        "Address consent, inheritance, ancestry evidence, incidental findings, and laboratory accreditation for the intended use."
+      ],
+      "status": "Deep reference",
+      "batch": 8,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H026_Germline_genetic_sequencing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1wBjRklSEAocUvswuD6YI5Ouwy3gFjOp4KWKDMhtO1P4/edit?usp=drivesdk",
+      "drive_id": "1wBjRklSEAocUvswuD6YI5Ouwy3gFjOp4KWKDMhtO1P4",
+      "source_check_date": "2026-11-08",
+      "source_count": 28,
+      "body_word_count": 2684,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQAR0z1nqC2sM4BVov5YRkpfB2T_Cdq-WqbPPCTElUuKYTSB39H9l5Exlyr6R0DXpdoxWdq9vcd-Cy0h5DKCwYfJdbFrA1F-xBxElg",
+      "word_sha256": "75706060f141d6c8e223175ee64b06a6805db9941a2f9f73a1e3e79500a91ec9"
+    },
+    {
+      "id": "H027",
+      "name": "Chromosome analysis",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "Which chromosome changes can each cytogenetic method detect, and which changes remain invisible?",
+      "research_scope": [
+        "Distinguish karyotyping, targeted FISH, and chromosomal microarray as linked method subrecords.",
+        "Research resolution, mosaicism, balanced rearrangements, specimen culture, and prenatal versus postnatal contexts."
+      ],
+      "status": "Deep reference",
+      "batch": 8,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H027_Chromosome_analysis_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1HFJ4zYFlaZpjgT9l-vqIuHxEwsNk0YcJQdct-8E-ITA/edit?usp=drivesdk",
+      "drive_id": "1HFJ4zYFlaZpjgT9l-vqIuHxEwsNk0YcJQdct-8E-ITA",
+      "source_check_date": "2026-11-08",
+      "source_count": 24,
+      "body_word_count": 2431,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMS7mhG7pJ0xe4KJ4WdfoFCUSfKxS5lVdrAyf1NuDIC2PZvLpgD9ARDd6KW4SyMDFA6DZMVvo7Dz7SvOFX0MHhYlG-6BNyJXJ_VWQJU",
+      "word_sha256": "04931e43f461f0c839277b5ef85171ce5a8d100d551826d5b3aa474e7f2b286a"
+    },
+    {
+      "id": "H028",
+      "name": "Cervical cytology and human papillomavirus screening",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How do cervical cytology and HPV testing combine into a screening pathway?",
+      "research_scope": [
+        "Separate cytology, HPV nucleic-acid assays, sampling, adequacy, reporting systems, and triage methods.",
+        "Research current age-, history-, and jurisdiction-specific screening and follow-up guidance."
+      ],
+      "status": "Deep reference",
+      "batch": 8,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H028_Cervical_cytology_and_human_papillomavirus_screening_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1p0SZ1euz6DednhRrCcJbptWNSNC85e3rd5n9NJ7DPio/edit?usp=drivesdk",
+      "drive_id": "1p0SZ1euz6DednhRrCcJbptWNSNC85e3rd5n9NJ7DPio",
+      "source_check_date": "2026-11-08",
+      "source_count": 26,
+      "body_word_count": 2810,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRZ163JKnxMUMAjbRdv3yCBa7ZrHPNAWRzOoeqyitQxE9YVge8-yr8oKbBLBqGfNuctVbFXPtmv09yVIC8yII_tKP4RFKyuLoUkz5c",
+      "word_sha256": "9a88536462d88f1cb5224e56b9ad337950baca3b2ecc08420c1d7e0c61557a5b"
+    },
+    {
+      "id": "H029",
+      "name": "Tissue biopsy and histopathology",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How does tissue become a diagnostic slide, and how can collection or fixation change what survives?",
+      "research_scope": [
+        "Map sampling, fixation, gross examination, processing, staining, ancillary studies, and reporting.",
+        "Research indication-specific specimen allocation, adequacy, artifacts, and multidisciplinary correlation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H030",
+      "name": "Flow cytometry immunophenotyping",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How does flow cytometry identify cell populations, and what does an abnormal population establish?",
+      "research_scope": [
+        "Research specimen viability, panel design, gating, compensation, controls, and immunophenotypic interpretation.",
+        "Separate leukemia, lymphoma, immune evaluation, and residual-disease uses with their own validation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H031",
+      "name": "Musculoskeletal radiography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "What do musculoskeletal radiographs show about bone, alignment, and soft tissue, and what can they miss?",
+      "research_scope": [
+        "Research projection geometry, views, exposure, image quality, and relevant normal variants.",
+        "Compare injury, degeneration, infection, and pediatric indications with appropriate alternative imaging."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H032",
+      "name": "Computed tomography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How does CT create cross-sectional evidence, and how do protocol and contrast alter the question answered?",
+      "research_scope": [
+        "Research acquisition, reconstruction, dose optimization, contrast phases, artifacts, and quantitative limits.",
+        "Separate body-region indications, contrast screening, pregnancy, and alternative imaging using current guidance."
+      ],
+      "status": "Deep reference",
+      "batch": 2,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H032_Computed_tomography_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1OKMv59Z3HbEGZyAu0GZ_P1a-hDggXtA33EOVt0ocgDc/edit?usp=drivesdk",
+      "drive_id": "1OKMv59Z3HbEGZyAu0GZ_P1a-hDggXtA33EOVt0ocgDc",
+      "source_check_date": "2026-11-06",
+      "source_count": 16,
+      "body_word_count": 1998,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSAbYeJCuvk4LWWFcpQ3Wr59zHJ5NkPeNRMLGoaI_WlGEvwyon50yZXgV4OSFzIiSvcRuz1nBus6gJpc5zV6a7S2xbGZ6me77QEdkg",
+      "word_sha256": "72b5137399d2a510eedf85219ccce2f9ecf13db9ce0de3a25ddc6ec1ba2d4eea"
+    },
+    {
+      "id": "H033",
+      "name": "Magnetic resonance imaging",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How do MRI sequences turn tissue properties into contrasting images?",
+      "research_scope": [
+        "Research field strength, sequences, signal and artifact formation, acquisition limits, and contrast agents.",
+        "Verify implant and device screening, patient preparation, sedation context, and indication-specific interpretation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H034",
+      "name": "Diagnostic ultrasonography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How do ultrasound echoes and Doppler signals reveal anatomy and motion?",
+      "research_scope": [
+        "Research probe choice, scanning windows, settings, Doppler angle, operator dependence, and artifacts.",
+        "Separate diagnostic studies from focused point-of-care questions with distinct performance evidence."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H035",
+      "name": "Echocardiography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "What can an echocardiogram measure about cardiac structure, motion, and flow?",
+      "research_scope": [
+        "Compare transthoracic, transesophageal, and stress methods and their quality limitations.",
+        "Research quantitative assumptions, body-size adjustment, loading conditions, and guideline-based interpretation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H036",
+      "name": "Mammography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How does mammography balance detection, false alarms, and overdiagnosis in a screening pathway?",
+      "research_scope": [
+        "Compare screening and diagnostic mammography, tomosynthesis, density, image quality, and reporting categories.",
+        "Research current population-specific screening, follow-up, and benefit-harm evidence."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H037",
+      "name": "Bone mineral density testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "What does bone density measure, and how does it differ from estimating fracture risk?",
+      "research_scope": [
+        "Research DXA calibration, positioning, artifacts, sites, reference databases, and measurement change.",
+        "Separate T and Z scores, population eligibility, fracture-risk models, and treatment monitoring."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H038",
+      "name": "Nuclear medicine imaging",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How do radiotracers reveal physiology, and why do uptake patterns need clinical interpretation?",
+      "research_scope": [
+        "Develop tracer-specific subrecords for PET and SPECT, preparation, kinetics, detection, reconstruction, and artifacts.",
+        "Research radiation, pregnancy or lactation, medicine interactions, and tracer-specific indications."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H039",
+      "name": "Blood pressure measurement",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do technique and setting change a blood pressure reading?",
+      "research_scope": [
+        "Compare office, home, and ambulatory devices; cuff sizing; positioning; calibration; and repeated measurement.",
+        "Research age, pregnancy, arrhythmia, and guideline-specific definitions."
+      ],
+      "status": "Deep reference",
+      "batch": 3,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H039_Blood_pressure_measurement_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1wQ7oc-Bn3ueXaJqjyJwpY_BWYdT7MREwG4PVDTXIJwM/edit?usp=drivesdk",
+      "drive_id": "1wQ7oc-Bn3ueXaJqjyJwpY_BWYdT7MREwG4PVDTXIJwM",
+      "source_check_date": "2026-11-07",
+      "source_count": 16,
+      "body_word_count": 2282,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRzABRO64HiP0cMPU0DGwIG-p5usXOx8XU1P4IBsIr83Xi3xDBc_OqJYxf8jtB_CvBJqy1gs6vdfbESpk7_6lwaRvI08MZu9I9b8S8",
+      "word_sha256": "b44cd93389be3f3aebb7666a4f889f72f170a7205aa0b7b09f58f2c186173dc3"
+    },
+    {
+      "id": "H040",
+      "name": "Pulse oximetry",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "What does pulse oximetry estimate, and when can the displayed saturation mislead?",
+      "research_scope": [
+        "Research wavelength principles, calibration, motion, perfusion, skin pigmentation evidence, and dyshemoglobins.",
+        "Separate saturation from ventilation and evaluate confirmatory blood gas or co-oximetry in context."
+      ],
+      "status": "Deep reference",
+      "batch": 3,
+      "delivered_species": [
+        "Human"
+      ],
+      "word_file": "Clinical_References/Human/H040_Pulse_oximetry_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1_jZYAnj6dqRlDwRF7kaGgPkJEMc0PrtlZVwGggTc0VE/edit?usp=drivesdk",
+      "drive_id": "1_jZYAnj6dqRlDwRF7kaGgPkJEMc0PrtlZVwGggTc0VE",
+      "source_check_date": "2026-11-07",
+      "source_count": 16,
+      "body_word_count": 2395,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQe7WwwVMEgaTJC0WvUR8xckLNSxV28UqjOhKZpEF25gVmnDdsqovzh_7CtQ_EiGUi-kae1vXfdJvaPgiFB31Op_dBXPofSJDtvW-8",
+      "word_sha256": "aa97615ccb38dd21dcaf38c9d5272944df5d763bef2ed1edeb71136ce75c4c24"
+    },
+    {
+      "id": "H041",
+      "name": "Ambulatory electrocardiographic monitoring",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How does longer ECG monitoring link rhythm to intermittent symptoms?",
+      "research_scope": [
+        "Compare Holter, patch, event, mobile telemetry, and implantable monitoring with their detection windows.",
+        "Research signal quality, artifact, symptom correlation, automated detection, and diagnostic yield."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H042",
+      "name": "Cardiac exercise stress testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "What does exercise stress testing reveal that a resting assessment cannot?",
+      "research_scope": [
+        "Compare ECG-only and imaging stress protocols, workload, endpoints, and test limitations.",
+        "Research eligibility, contraindications, medicine effects, safety supervision, and pretest probability."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H043",
+      "name": "Lung volume and diffusing capacity testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do lung volumes and gas transfer measurements complement spirometry?",
+      "research_scope": [
+        "Research body plethysmography, dilution methods, DLCO technique, quality criteria, and reference equations.",
+        "Address hemoglobin, inspired volume, gas conditions, obstruction, restriction, and interpretation uncertainty."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H044",
+      "name": "Polysomnography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How does a sleep study distinguish respiratory events, sleep stages, and other overnight signals?",
+      "research_scope": [
+        "Compare laboratory polysomnography and home sleep apnea testing, channels, scoring, and quality criteria.",
+        "Research age, comorbidities, medicine effects, event indices, and limitations of unattended testing."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H045",
+      "name": "Electroencephalography",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "What does EEG record about brain electrical activity, and what can a normal recording fail to exclude?",
+      "research_scope": [
+        "Compare routine, sleep-deprived, ambulatory, and continuous video EEG.",
+        "Research electrode systems, artifacts, activation procedures, interpretation, and clinical correlation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H046",
+      "name": "Electromyography and nerve conduction studies",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do nerve conduction studies and needle EMG localize peripheral nerve or muscle dysfunction?",
+      "research_scope": [
+        "Research stimulation, recording, electrode methods, temperature, timing after injury, and reference data.",
+        "Separate neuropathic, junctional, and myopathic questions and document discomfort and contraindication context."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H047",
+      "name": "Diagnostic upper gastrointestinal endoscopy",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How does upper gastrointestinal endoscopy combine direct inspection, sampling, and selected intervention?",
+      "research_scope": [
+        "Research indication-specific preparation, sedation, visualization, biopsy handling, and quality measures.",
+        "Distinguish diagnostic observation from therapeutic procedures and verify complication and aftercare evidence."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H048",
+      "name": "Colonoscopy",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "What makes colonoscopy an adequate examination, and how do findings alter the next step?",
+      "research_scope": [
+        "Research bowel preparation, completeness, lesion detection, biopsy or polypectomy, and reporting quality.",
+        "Separate screening, surveillance, and symptomatic evaluation with current benefit-harm and interval evidence."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H049",
+      "name": "Bronchoscopy",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "What can bronchoscopy sample or visualize, and how does the procedure change with the clinical question?",
+      "research_scope": [
+        "Compare flexible and rigid approaches, lavage, brushing, biopsy, and guided sampling.",
+        "Research preparation, sedation, specimen allocation, yield, and complication evidence."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H050",
+      "name": "Audiometry",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do hearing tests separate sound detection from middle-ear and neural function?",
+      "research_scope": [
+        "Research pure-tone and speech audiometry, masking, calibration, tympanometry, and evoked responses as linked methods.",
+        "Address age, language, cooperation, noise exposure, and hearing-loss classification."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H051",
+      "name": "Visual acuity and refraction testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "What do visual acuity and refraction measure, and what eye disease can remain despite good acuity?",
+      "research_scope": [
+        "Research charts, distance, correction, pinhole methods, subjective and objective refraction, and test conditions.",
+        "Separate refractive assessment from retinal, optic nerve, field, and ocular-health examination."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H052",
+      "name": "Tonometry",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do tonometers estimate eye pressure, and why does pressure not diagnose glaucoma by itself?",
+      "research_scope": [
+        "Compare applanation, rebound, and noncontact methods, calibration, corneal effects, and repeatability.",
+        "Research age, corneal status, time variation, optic nerve context, and method-specific limitations."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H053",
+      "name": "Standardized neurologic examination",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How does a standardized neurologic examination convert observations into an anatomical hypothesis?",
+      "research_scope": [
+        "Research mental status, cranial nerves, motor, reflex, sensory, coordination, and gait components.",
+        "Address reproducibility, confounders, developmental context, and limits of localization."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H054",
+      "name": "Cognitive and neuropsychological testing",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do cognitive and neuropsychological tests distinguish measured performance from a clinical diagnosis?",
+      "research_scope": [
+        "Research domain coverage, administration, norms, validity, reliability, and practice effects.",
+        "Address language, education, culture, sensory access, fatigue, medicines, and functional context."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H055",
+      "name": "Cerebrospinal fluid analysis",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "What can cerebrospinal fluid reveal, and how do collection and handling affect the answer?",
+      "research_scope": [
+        "Research collection context, tube allocation, opening pressure, cell count, chemistry, microbiology, and targeted assays.",
+        "Verify contraindication assessment, traumatic sampling, transport, and population-specific interpretation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "H056",
+      "name": "Therapeutic drug monitoring",
+      "domain": "Human",
+      "planned_species": [
+        "Human"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How does therapeutic drug monitoring connect a measured concentration with exposure and effect?",
+      "research_scope": [
+        "Research drug-specific sampling times, matrix, analytical method, metabolites, and pharmacokinetic models.",
+        "Separate population reference targets from individual decisions and account for binding, organ function, and interactions."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V001",
+      "name": "Veterinary complete blood count",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V001_Veterinary_complete_blood_count.docx",
+      "drive_url": "https://docs.google.com/document/d/1jxVzK5lhVKyAF89O6C_9AIyJsu2m6rl6Js2-50BjCyM",
+      "drive_id": "1jxVzK5lhVKyAF89O6C_9AIyJsu2m6rl6Js2-50BjCyM",
+      "source_check_date": "2026-11-05",
+      "source_count": 5,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMR3I11rmhUmVV9UyeWLrYhazaRpOgKIjZV6H7iWtfE0jEbL8GGCIVfbIr9sWWN1Bv1WHvcAoQSE_NAkeVn-gSwJCetsNYcQ1ZiG-U8",
+      "word_sha256": "45cf309d7ad0bafa86e9621e540c0aa076383abc2813d386c7395dc5d5ba3555"
+    },
+    {
+      "id": "V002",
+      "name": "Veterinary urinalysis",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V002_Veterinary_urinalysis.docx",
+      "drive_url": "https://docs.google.com/document/d/1RY2kYJHbDGZX3wWR_rGcvxmHXpEpalMgwofFi7u3iZQ",
+      "drive_id": "1RY2kYJHbDGZX3wWR_rGcvxmHXpEpalMgwofFi7u3iZQ",
+      "source_check_date": "2026-11-05",
+      "source_count": 5,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMS7URTKEAQ1M6s6F6W1FBhLbdtIuzrHv2Xo3QVwi_O7itpSbf48tTqCz367IYilfaA3RmmMBpnx0RAYjwqGQNDbiXVC8oRd4gpnnQ4",
+      "word_sha256": "95b94477c24113210e0b3e92e03bf1857610e7d6dd2e8deef7ce006c3ec74973"
+    },
+    {
+      "id": "V003",
+      "name": "Fecal flotation in dogs and cats",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V003_Fecal_flotation_in_dogs_and_cats.docx",
+      "drive_url": "https://docs.google.com/document/d/1_vh7M79iv3pchJ0EMqt0EUlYg8ZOihRhmPryYaT1Uwk",
+      "drive_id": "1_vh7M79iv3pchJ0EMqt0EUlYg8ZOihRhmPryYaT1Uwk",
+      "source_check_date": "2026-11-05",
+      "source_count": 5,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTycGtr2PXL4KNBBQYnck-b8RRwcv7Z3r8bDLCdRqNEiW2-ETm9hkKpC6ba1SK61FkPfNy9-mi73_NT-7XB-mBNMWdnNMoeHn65rZ8",
+      "word_sha256": "587ff6fcc4aea00af238b0741bb421b802287e3e925aae84fafcbf151fda15ff"
+    },
+    {
+      "id": "V004",
+      "name": "Canine heartworm antigen and microfilaria testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Dog"
+      ],
+      "word_file": "Clinical_References/Veterinary/V004_Canine_heartworm_antigen_and_microfilaria_testing.docx",
+      "drive_url": "https://docs.google.com/document/d/1oomCe4UCs26GFTwNQR8vOU1dYddfrFxC4quTnTCzjgU",
+      "drive_id": "1oomCe4UCs26GFTwNQR8vOU1dYddfrFxC4quTnTCzjgU",
+      "source_check_date": "2026-11-05",
+      "source_count": 5,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQ0dSYOhdyylOzk-uocMusGTrz9YSQ3KJHQ7TtXf1hfkXdQh7ZCaGJ4DaUWFoIRJ0hvRcjq6NEM72-yNMnpSeG6sX1ReIkTq8wbycw",
+      "word_sha256": "fdcf800f8f2e874ac6b9b1217e298f813d66e6b0a1b20eb1aa43bdbc0a5bce42"
+    },
+    {
+      "id": "V005",
+      "name": "Equine infectious anemia antibody testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Horse"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Horse"
+      ],
+      "word_file": "Clinical_References/Veterinary/V005_Equine_infectious_anemia_antibody_testing.docx",
+      "drive_url": "https://docs.google.com/document/d/1_cES6hx0XuSTYfVMV_LZYxwVE_zXBOQ7jix3s31RHl4",
+      "drive_id": "1_cES6hx0XuSTYfVMV_LZYxwVE_zXBOQ7jix3s31RHl4",
+      "source_check_date": "2026-11-05",
+      "source_count": 6,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRmxD2lYD2BjgGVkDpXKdic6Atz2KSyj_z2K4vAe8_6pM516D_qp_t_q_nFHASQKEMvaZW2PD_m0lIhM97xXDkiC-9czLqxVG-4vmQ",
+      "word_sha256": "bfb5e4777ebe2c8f863633220d96e990a8d2c5a8306fdaf66066dabba6341bdc"
+    },
+    {
+      "id": "V006",
+      "name": "Bovine tuberculosis skin testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Cattle"
+      ],
+      "roadmap_wave": 0,
+      "research_question": "",
+      "research_scope": [],
+      "status": "Starter brief",
+      "batch": 0,
+      "delivered_species": [
+        "Cattle"
+      ],
+      "word_file": "Clinical_References/Veterinary/V006_Bovine_tuberculosis_skin_testing.docx",
+      "drive_url": "https://docs.google.com/document/d/17h8t1A0jj3K-3P8jQrDDmfRnsw0a0MFlvqHSBJ7gKx8",
+      "drive_id": "17h8t1A0jj3K-3P8jQrDDmfRnsw0a0MFlvqHSBJ7gKx8",
+      "source_check_date": "2026-11-05",
+      "source_count": 4,
+      "body_word_count": null,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRV6yYEo2oAZIDpzCSdsK8tOdh4Im21a6Q-6YkAM8fG13y5JHk_ZABvqPj3JuLFshUhXrTsIX_3I4zTLOdMFFVgghWq5xtNwacAEsM",
+      "word_sha256": "8afa6ecd545e47bf59a2b58282f397b2f38f52986d8b1b09b7a20196d1481b24"
+    },
+    {
+      "id": "V007",
+      "name": "Veterinary serum biochemistry panel",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "How does a veterinary chemistry panel connect organ physiology with species, sample quality, and assay method?",
+      "research_scope": [
+        "Document actual analytes, serum or plasma matrix, analyzer method, sample artifacts, and laboratory intervals.",
+        "Independently research dog and cat patterns, age, feeding, medicines, and species-specific enzyme interpretation."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V007_Veterinary_serum_biochemistry_panel_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1-jIlsBSCKeOoNcVPn6JCcozZCNkKjkHOEsEhLfFIEu4",
+      "drive_id": "1-jIlsBSCKeOoNcVPn6JCcozZCNkKjkHOEsEhLfFIEu4",
+      "source_check_date": "2026-11-06",
+      "source_count": 8,
+      "body_word_count": 1149,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRGIoWwjN5yqs1kcPDGc0jcsz5PyVCMoQMOcqBYNwC5OQRj1y7S4F_cxBWAaFuHcU0Ql9RIVs2p6CuV3nppW60tCMbA-6tmNpwYuOw",
+      "word_sha256": "c7715b036c43be95d94944d7e7c0378ee14fc0a58bab778b10be91accfbd351e"
+    },
+    {
+      "id": "V008",
+      "name": "Veterinary blood gas and electrolyte analysis",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "How do veterinary blood gases and electrolytes change with species, sample site, and handling?",
+      "research_scope": [
+        "Compare arterial and venous collection, measured and calculated outputs, temperature and delay, and analyzer validation.",
+        "Research dog, cat, and horse evidence separately, including restraint, oxygen delivery, and transport."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V008_Veterinary_blood_gas_and_electrolyte_analysis_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1xCZllcHxEkEGSK989BTtlrLsOYWNck1Og1OD2ZH4BOw",
+      "drive_id": "1xCZllcHxEkEGSK989BTtlrLsOYWNck1Og1OD2ZH4BOw",
+      "source_check_date": "2026-11-06",
+      "source_count": 8,
+      "body_word_count": 1148,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTuMF9rjtNKJtqYvbgX8tKPVtzo_OfkhzU3YgyAqSkn-i6ZPv-LJg_4ZbqzafiJL1gfSML8qsP13tDojlOy7meuPku8pm8HlSEqsaI",
+      "word_sha256": "89e6e177a37f94929331f8d6e688cf22a47446a2b02d63bdbc9c4dbb81ccee13"
+    },
+    {
+      "id": "V009",
+      "name": "Veterinary coagulation testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "What do coagulation assays reveal about canine and feline hemostasis, and where are their blind spots?",
+      "research_scope": [
+        "Research PT, aPTT, fibrinogen, related methods, citrate fill, sample handling, reagent sensitivity, and anticoagulants.",
+        "Verify canine and feline validation and distinguish coagulation screening from platelet function and clinical bleeding."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V009_Veterinary_coagulation_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1T0_G8ceY6IZmKGRqUOFBbHAxPF7YyV3OTW-_nJTCssM",
+      "drive_id": "1T0_G8ceY6IZmKGRqUOFBbHAxPF7YyV3OTW-_nJTCssM",
+      "source_check_date": "2026-11-06",
+      "source_count": 9,
+      "body_word_count": 1134,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMR-DC3Gq09RR-Oc7VmLgWCTdfjNaKcu2Rln4AEh5M_eNBR4xCOotF47mZp2k0FKzcbpCsb9eG4FZsOW3JqQvkNqGhT9aL_IUz42v_8",
+      "word_sha256": "b492292e9d73ced8d377377882404eac2716b3d3b9bea77c43752f03093d8f3d"
+    },
+    {
+      "id": "V010",
+      "name": "Veterinary urine bacterial culture",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 1,
+      "research_question": "How do collection method and bacterial growth distinguish infection from contamination in dog and cat urine?",
+      "research_scope": [
+        "Research cystocentesis, catheter, and voided specimens; transport; quantitative culture; and susceptibility methods.",
+        "Separate canine and feline evidence, symptomatic disease, subclinical bacteriuria, and prior antimicrobial effects."
+      ],
+      "status": "Deep reference",
+      "batch": 1,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V010_Veterinary_urine_bacterial_culture_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1obsDrQRlw3KloMUmAorbGmRTqHRL9tOD4xlM3oCMFjE",
+      "drive_id": "1obsDrQRlw3KloMUmAorbGmRTqHRL9tOD4xlM3oCMFjE",
+      "source_check_date": "2026-11-06",
+      "source_count": 9,
+      "body_word_count": 1182,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRDWeVjlhE6Q-55aLebRh9BPCnKOKr1rD6wC9gvkOHWVww3yvYPVDhbeRLKOJIcQdodYKRnDCD9hShRpLGOp1zDjk6Mr5JBTkV9PiM",
+      "word_sha256": "10ccbcfa76e83d464c2c91a455eef2a655f0605fd64cbe2a538864314eae20ba"
+    },
+    {
+      "id": "V011",
+      "name": "Veterinary blood pressure measurement",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How can blood pressure be measured reliably in a dog or cat despite stress and movement?",
+      "research_scope": [
+        "Compare Doppler and oscillometric methods, cuff selection, position, habituation, and repeated readings.",
+        "Research dog and cat device validation, reference context, and target-organ assessment separately."
+      ],
+      "status": "Deep reference",
+      "batch": 3,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V011_Veterinary_blood_pressure_measurement_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1hcrC7ec6z6udwpXEAZcqQr4_O2c-JebgDssD29zlBsA/edit?usp=drivesdk",
+      "drive_id": "1hcrC7ec6z6udwpXEAZcqQr4_O2c-JebgDssD29zlBsA",
+      "source_check_date": "2026-11-07",
+      "source_count": 16,
+      "body_word_count": 2377,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMS5gF2fLsp3_yMkiwLdISASsqWLVnYBO_vtdmg38mFksf5KDIXUYrD-121FuZy4L8Kv60dGJbNVVyRwLISZIB4vaNybNdgy6OJEq1k",
+      "word_sha256": "88c4e62c448af328b976b731eabf3f10494a2e13429c9f3e15b19b97bcd90f95"
+    },
+    {
+      "id": "V012",
+      "name": "Veterinary electrocardiography",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do species and electrode placement shape a veterinary ECG?",
+      "research_scope": [
+        "Research canine, feline, and equine lead systems, recording quality, rhythm interpretation, and intervals separately.",
+        "Distinguish electrical rhythm assessment from structural disease and assess ambulatory methods as linked records."
+      ],
+      "status": "Deep reference",
+      "batch": 3,
+      "delivered_species": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "word_file": "Clinical_References/Veterinary/V012_Veterinary_electrocardiography_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1QlIuW2cEW9OL_AO9NWuMHiXHIT-8Q3KpJ9iqhcNDkA0/edit?usp=drivesdk",
+      "drive_id": "1QlIuW2cEW9OL_AO9NWuMHiXHIT-8Q3KpJ9iqhcNDkA0",
+      "source_check_date": "2026-11-07",
+      "source_count": 18,
+      "body_word_count": 2187,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSrwpqUN7G2ginmBOgbFPan4V46JbQxs2RT7v0IygWZgzi_Gs45ailLgTUICrXGL0PU0BpKJVyq571Kq1YRpGiGUrmZEJDONCT4sb0",
+      "word_sha256": "a8de31ae4f149b106fb06a96ecf27e1472db1383e6b46b964533fc630a9bc8fc"
+    },
+    {
+      "id": "V013",
+      "name": "Veterinary diagnostic radiography",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "What makes a veterinary radiographic study diagnostically adequate for the animal and question?",
+      "research_scope": [
+        "Research positioning, projections, exposure, restraint or sedation, and image-quality assessment.",
+        "Separate dog and cat anatomical interpretation, developmental variants, and indication-specific limitations."
+      ],
+      "status": "Deep reference",
+      "batch": 4,
+      "delivered_species": [
+        "Dog",
+        "Cat",
+        "Horse",
+        "Hermann tortoise"
+      ],
+      "word_file": "Clinical_References/Veterinary/V013_Veterinary_diagnostic_radiography_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1w3yTdO-C4WNe6SGR1wGEWAtPUxQW817YEKrhXlfAHgg/edit?usp=drivesdk",
+      "drive_id": "1w3yTdO-C4WNe6SGR1wGEWAtPUxQW817YEKrhXlfAHgg",
+      "source_check_date": "2026-11-07",
+      "source_count": 17,
+      "body_word_count": 2492,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMR414tOObtHUsaipSsEYCPhZ54ap4DiZEAS7JW7vefMgd8P0qoOOUD4tm00-irbDrthW-erVNP8o_cZkK7oOu-iSNzuQc7WdIgoaCg",
+      "word_sha256": "37faa63a4f70d736da6b9d0e73265ad919d4bcf28a56b7b492a0361e9e53ba98"
+    },
+    {
+      "id": "V014",
+      "name": "Veterinary diagnostic ultrasonography",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How does veterinary ultrasound combine organ anatomy, motion, and operator-dependent sampling?",
+      "research_scope": [
+        "Research canine and feline preparation, probe settings, windows, artifacts, and targeted sampling context.",
+        "Separate comprehensive examinations from focused bedside questions and verify method-specific performance."
+      ],
+      "status": "Deep reference",
+      "batch": 4,
+      "delivered_species": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "word_file": "Clinical_References/Veterinary/V014_Veterinary_diagnostic_ultrasonography_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1PaUOjmDpDLs_JDcbOIlQibNsKDIEJqdNaEK4XoVXP_Q/edit?usp=drivesdk",
+      "drive_id": "1PaUOjmDpDLs_JDcbOIlQibNsKDIEJqdNaEK4XoVXP_Q",
+      "source_check_date": "2026-11-07",
+      "source_count": 18,
+      "body_word_count": 2675,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTIJgPwfHeEKCfe1314rxDobc-deoXxjxvW_9R2wkoUxpcXLJJoeUdVTsRtW66tSxB8tA1Pcw9Nxh36NpHdfdQJg2J62c14khSW_Tg",
+      "word_sha256": "1d725df510adb1603aad81e8e66c87aa8653e7e1e254a219433364667a1e661c"
+    },
+    {
+      "id": "V015",
+      "name": "Veterinary echocardiography",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How do canine and feline echocardiograms account for body size, loading, and breed?",
+      "research_scope": [
+        "Research acquisition views, Doppler, measurements, indexing, and operator variability.",
+        "Verify dog and cat reference studies, breed effects, disease classifications, and dynamic loading."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V016",
+      "name": "Veterinary computed tomography",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "How do veterinary CT protocol, contrast, and anesthesia change the diagnostic information obtained?",
+      "research_scope": [
+        "Research acquisition, reconstruction, dose, contrast phases, artifacts, and patient monitoring.",
+        "Verify dog and cat indications, preparation, contrast safety, and anesthesia context independently."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V017",
+      "name": "Veterinary magnetic resonance imaging",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 5,
+      "research_question": "What does each veterinary MRI sequence contribute, and what limits interpretation?",
+      "research_scope": [
+        "Research sequences, field strength, coils, motion, artifacts, contrast, and anesthesia requirements.",
+        "Verify canine and feline safety screening and indication-specific interpretation evidence."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V018",
+      "name": "Veterinary fine needle aspiration cytology",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How does fine needle sampling turn a veterinary mass into cytologic evidence?",
+      "research_scope": [
+        "Research aspiration and nonaspiration techniques, slide preparation, stain choice, adequacy, and artifacts.",
+        "Compare canine and feline tissue contexts and explain cytology-histology agreement and limits."
+      ],
+      "status": "Deep reference",
+      "batch": 4,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V018_Veterinary_fine_needle_aspiration_cytology_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1AU6TbfCuB5g6zG5qhM2mqnMScNtWWQe6n6u4figc1UM/edit?usp=drivesdk",
+      "drive_id": "1AU6TbfCuB5g6zG5qhM2mqnMScNtWWQe6n6u4figc1UM",
+      "source_check_date": "2026-11-07",
+      "source_count": 18,
+      "body_word_count": 2379,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQagnMNRcZ0PIiG4bUqC7hc9wWS8bNoRWaYKLu8J0FYc-0g6EjBBJPDWiwQtXHY_22PNQjJYMf4ZNtIzQmvPbB6Mxp2HjCh_cQnwG8",
+      "word_sha256": "8a38b5fb8d059bb272e4206a99dc436b6ddb8a9bf4660d7ed0e0bcd969cbfcff"
+    },
+    {
+      "id": "V019",
+      "name": "Veterinary tissue biopsy and histopathology",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "How do veterinary biopsy selection and tissue handling affect the diagnosis?",
+      "research_scope": [
+        "Research sampling depth and site, fixation, orientation, ancillary specimen allocation, and artifacts.",
+        "Verify canine and feline disease contexts and laboratory-specific submission requirements."
+      ],
+      "status": "Deep reference",
+      "batch": 8,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V019_Veterinary_tissue_biopsy_and_histopathology_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1lBTLFdw2FggkzixWqoa7ssi_g3BK8lAgXkAfDP4Z9h0/edit?usp=drivesdk",
+      "drive_id": "1lBTLFdw2FggkzixWqoa7ssi_g3BK8lAgXkAfDP4Z9h0",
+      "source_check_date": "2026-11-08",
+      "source_count": 26,
+      "body_word_count": 2750,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQ7eghV7nuq7otmqUnfq9PJbE8TMIuAA_8E6CdGFGtSEriVZgDM_pT4jFgMbiCtYDQlKgATE6dl6x52__5sIv4hoVn5gV19JMkexXc",
+      "word_sha256": "03f6216cb7aa9c7dae0ca814545f5bf985194ea4991f35e3ffdb7e70f3fd6f0a"
+    },
+    {
+      "id": "V020",
+      "name": "Veterinary bone marrow examination",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "When does veterinary marrow examination explain blood abnormalities, and how do aspirate and core biopsy differ?",
+      "research_scope": [
+        "Research aspiration, core biopsy, smears, cellularity, differential counts, and ancillary assays.",
+        "Verify dog and cat reference context, sampling artifacts, paired CBC interpretation, and procedural considerations."
+      ],
+      "status": "Deep reference",
+      "batch": 8,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V020_Veterinary_bone_marrow_examination_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1OiJbnMJYPak1h0k0S_kkXHkhArzrP0jHGmXTIx-dTGY/edit?usp=drivesdk",
+      "drive_id": "1OiJbnMJYPak1h0k0S_kkXHkhArzrP0jHGmXTIx-dTGY",
+      "source_check_date": "2026-11-08",
+      "source_count": 24,
+      "body_word_count": 2613,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSndKS2hnNNXhLllB6Z_7W8aSGK1_kioYve1rOpTdKvzC3kpHZP2DI6VJ0l_mxBC3G410ZQktkaAEEUPd6fe6UngB1iE4iHeNCu4io",
+      "word_sha256": "d41b89761e5bcdfaa8aa030a562eeef85b16f177b9c3982bf1fc0a674ad98d41"
+    },
+    {
+      "id": "V021",
+      "name": "Canine thyroid function testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "Why can low thyroid hormone in a dog be a clue without proving hypothyroidism?",
+      "research_scope": [
+        "Research total and free T4 methods, canine TSH, antibodies, medicine effects, and non-thyroidal illness.",
+        "Verify breed, age, assay performance, and diagnostic versus monitoring use."
+      ],
+      "status": "Deep reference",
+      "batch": 2,
+      "delivered_species": [
+        "Dog"
+      ],
+      "word_file": "Clinical_References/Veterinary/V021_Canine_thyroid_function_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/15evqx__wg8jZp6O2CJqryf_nr7Lz-QRxk2gMmsavozI/edit?usp=drivesdk",
+      "drive_id": "15evqx__wg8jZp6O2CJqryf_nr7Lz-QRxk2gMmsavozI",
+      "source_check_date": "2026-11-06",
+      "source_count": 16,
+      "body_word_count": 2369,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQTaHrKVKPNQH8JY8Nbk4G9lH96wMV1fxVGnRh4nsoIugESBTWaHqowkEXsHFGMF-t7rdg2NZtH6GN_LndxnxcNW0-_GXsOuIZIjos",
+      "word_sha256": "3191def238dc63de21eeab227d654a99f37e28f1b44058e567d9e8e12e02419d"
+    },
+    {
+      "id": "V022",
+      "name": "Feline thyroid function testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Cat"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do feline thyroid tests detect disease while accounting for borderline and discordant results?",
+      "research_scope": [
+        "Research total and free T4, feline TSH availability, assay methods, repeat testing, and complementary assessment.",
+        "Verify age, concurrent illness, medicines, and treatment-monitoring context."
+      ],
+      "status": "Deep reference",
+      "batch": 2,
+      "delivered_species": [
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V022_Feline_thyroid_function_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1sTpoc2aBs2ZTbIhX9QJ_Wg40KsQ5LPUBvjVJnKRB3sU/edit?usp=drivesdk",
+      "drive_id": "1sTpoc2aBs2ZTbIhX9QJ_Wg40KsQ5LPUBvjVJnKRB3sU",
+      "source_check_date": "2026-11-06",
+      "source_count": 16,
+      "body_word_count": 2428,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQ7F-n7WQy0lvrY9Ky70pGAaUoi3-45KNAsgT8FhP-ReusV3-CZC1x-a5OOPxbUxywEfC11ZqnrLlpNo7_NRUdPmvxL-9tR53I_86c",
+      "word_sha256": "3dfc894e1e90299feb88081a3b8b2048c24cc00745e46b1cb62bd43fca9e08cd"
+    },
+    {
+      "id": "V023",
+      "name": "Canine adrenal function testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How do dynamic adrenal tests in dogs answer different endocrine questions?",
+      "research_scope": [
+        "Separate ACTH stimulation and suppression protocols, analytes, assay methods, timing, and medicine interference.",
+        "Research diagnostic accuracy, concurrent illness, and endogenous versus treatment-monitoring indications."
+      ],
+      "status": "Deep reference",
+      "batch": 2,
+      "delivered_species": [
+        "Dog"
+      ],
+      "word_file": "Clinical_References/Veterinary/V023_Canine_adrenal_function_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1JuNkKOpbgKBs_V2YV6R_SXLRAth20FXg5UYPFzOJaLU/edit?usp=drivesdk",
+      "drive_id": "1JuNkKOpbgKBs_V2YV6R_SXLRAth20FXg5UYPFzOJaLU",
+      "source_check_date": "2026-11-06",
+      "source_count": 16,
+      "body_word_count": 2348,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSLgDuUG4t3rzdXpnY3JOCCE7Fxmi_NcX84iQku4KqKrUvtNfX4BwGHpiW7VkQ7ANtnh9gY2fGKxMlD07zKBqJ3-CyCqdv_Le2bRdI",
+      "word_sha256": "f468466c38db97c298f3a73680ae18d8123c9db5730d1e5eec30cdebe989ef88"
+    },
+    {
+      "id": "V024",
+      "name": "Veterinary diabetes monitoring with fructosamine and glucose",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 2,
+      "research_question": "How do glucose profiles and fructosamine reflect different windows of glycemic exposure in dogs and cats?",
+      "research_scope": [
+        "Research blood and interstitial glucose methods, fructosamine assays, time windows, and sample effects.",
+        "Verify dog and cat stress responses, protein effects, device validation, and monitoring context separately."
+      ],
+      "status": "Deep reference",
+      "batch": 3,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V024_Veterinary_diabetes_monitoring_with_fructosamine_and_glucose_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1uh9YQXD7C49qDf3EJ8p_P8KYJgNpw7uibK7LFglQkKg/edit?usp=drivesdk",
+      "drive_id": "1uh9YQXD7C49qDf3EJ8p_P8KYJgNpw7uibK7LFglQkKg",
+      "source_check_date": "2026-11-07",
+      "source_count": 17,
+      "body_word_count": 2503,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQJMSOzvL2Mlz_vyyAtst0h0wuK6Ex1ntuQ2sCOAHbq30LxdceSCUE5LzrHB71Cd7IAkb16yJ4HGMCyv5UGBCax2_rTKqMBtC5SYG8",
+      "word_sha256": "636ec7fe65d2cf090ed6093a08b243d663b5cc07fca3e7b18a5f416bae9d286d"
+    },
+    {
+      "id": "V025",
+      "name": "Veterinary pancreatic lipase testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "What does pancreatic lipase testing add to the investigation of gastrointestinal signs?",
+      "research_scope": [
+        "Research assay-specific pancreatic lipase immunoreactivity, catalytic methods, validation, and comparison standards.",
+        "Separate canine and feline evidence and assess clinical, imaging, and pathology correlation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V026",
+      "name": "Veterinary bile acid testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How do bile acid measurements reflect hepatic function and circulation, and what can confound them?",
+      "research_scope": [
+        "Research fasting and stimulated sampling, analytical methods, feeding, cholestasis, and sample quality.",
+        "Verify canine and feline indications and links with imaging and other liver testing."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V027",
+      "name": "Feline leukemia virus and immunodeficiency virus testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Cat"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do feline retrovirus assays distinguish viral antigen, antibody, and nucleic-acid evidence?",
+      "research_scope": [
+        "Compare FeLV and FIV targets, screening platforms, confirmation, discordance, and timing.",
+        "Research age, maternal antibodies, vaccination history, infection stage, and current feline guidelines."
+      ],
+      "status": "Deep reference",
+      "batch": 5,
+      "delivered_species": [
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V027_Feline_leukemia_virus_and_immunodeficiency_virus_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1VuJ8qbE-BB8pLbAdhBX5mDKSDCG1Qj_3fazHIgI8Yvs/edit?usp=drivesdk",
+      "drive_id": "1VuJ8qbE-BB8pLbAdhBX5mDKSDCG1Qj_3fazHIgI8Yvs",
+      "source_check_date": "2026-11-07",
+      "source_count": 19,
+      "body_word_count": 2587,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSobvVFNdgUfruEqqLyk9SiCny_rMF-sC2L-rs4vlwJ9Kyq_16bxTDzrZd6odUT4LizShmNco8cSIO01DdP1c9u-cU25Fzb7BTdk7A",
+      "word_sha256": "720d2c3aaad67d47e2be0964f96d64a8cefce77c8e7c3584f101be9e9481b20c"
+    },
+    {
+      "id": "V028",
+      "name": "Canine parvovirus testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do canine parvovirus tests depend on infection stage, sample quality, and assay method?",
+      "research_scope": [
+        "Compare fecal antigen and nucleic-acid methods, sample requirements, interference, and performance.",
+        "Research timing, vaccination, clinical signs, and infection-control guidance."
+      ],
+      "status": "Deep reference",
+      "batch": 5,
+      "delivered_species": [
+        "Dog"
+      ],
+      "word_file": "Clinical_References/Veterinary/V028_Canine_parvovirus_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1vJrglGTq3NwSKxDeCik0y56OGaHuWBRW7jqH9plrS2c/edit?usp=drivesdk",
+      "drive_id": "1vJrglGTq3NwSKxDeCik0y56OGaHuWBRW7jqH9plrS2c",
+      "source_check_date": "2026-11-07",
+      "source_count": 20,
+      "body_word_count": 2609,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTTsfKFw9gy7Ki0rmeH6YTq4ciV0g_XiY5RnA4N5W0ASrmsoycTOXo_7FKnmXsWDjNxmCELcxuvJhsHSJZkhNI9c3qS87-jJ-Ghwqw",
+      "word_sha256": "2a848d71a3427491ddd98c185bf657e1762263378b3c0247363102e5e6b44e0e"
+    },
+    {
+      "id": "V029",
+      "name": "Canine tick borne pathogen testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do canine tick borne tests distinguish exposure from active infection across different organisms?",
+      "research_scope": [
+        "Develop pathogen-specific serology, antigen, microscopy, and PCR subrecords.",
+        "Research vector region, travel, cross-reactivity, timing, vaccination where relevant, and confirmatory pathways."
+      ],
+      "status": "Deep reference",
+      "batch": 6,
+      "delivered_species": [
+        "Dog"
+      ],
+      "word_file": "Clinical_References/Veterinary/V029_Canine_tick_borne_pathogen_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1QKgwbyKgf6Sjzx7MEST_OSWjJT5Ua4rgPJq2vuijmtQ/edit?usp=drivesdk",
+      "drive_id": "1QKgwbyKgf6Sjzx7MEST_OSWjJT5Ua4rgPJq2vuijmtQ",
+      "source_check_date": "2026-11-07",
+      "source_count": 23,
+      "body_word_count": 2852,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMQzqh1H2CmVv1k6mpFxN3EasnqW1-_wjYQlRMpeNlM7lfB4zhxrYL9DFl5OApucGhZOhCB1dfzaZY-SD3-dSB2wIRKmVC_4nHBfRHs",
+      "word_sha256": "854e07b710cc9e95ec3e61b80983fb7f090f3e0f8e71f00f8904f5b4adbc89da"
+    },
+    {
+      "id": "V030",
+      "name": "Leptospira testing in dogs",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do canine Leptospira tests change with disease stage, vaccination, and treatment?",
+      "research_scope": [
+        "Compare PCR specimen sites, serology, paired samples, culture roles, and handling.",
+        "Research strain coverage, cross-reactivity, vaccine history, antimicrobial exposure, and occupational precautions."
+      ],
+      "status": "Deep reference",
+      "batch": 5,
+      "delivered_species": [
+        "Dog"
+      ],
+      "word_file": "Clinical_References/Veterinary/V030_Leptospira_testing_in_dogs_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1unuY7brgaxAVUaTFDs2LEKnIaep92_m6C6JB4DiAVlE/edit?usp=drivesdk",
+      "drive_id": "1unuY7brgaxAVUaTFDs2LEKnIaep92_m6C6JB4DiAVlE",
+      "source_check_date": "2026-11-07",
+      "source_count": 20,
+      "body_word_count": 2577,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRQF2p1VZhztbaPIG_45CokU1a1FQD2bJuVYFPYLOPsJzFHAY67hbY77sjfDeWxe0WZmmrjtBadgLrZm_RwmWl9ou6NlRtx8BJ8UcA",
+      "word_sha256": "71828ef64d668dbab545579a7749ea25afe0cc54f88deba85f6913cd71de45fb"
+    },
+    {
+      "id": "V031",
+      "name": "Veterinary dermatophyte testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do dermatophyte tests distinguish fungal presence from clinically relevant infection?",
+      "research_scope": [
+        "Compare culture, microscopy, fluorescence examination, and PCR with sample collection and organism identification.",
+        "Research dog and cat carrier status, prior treatment, contamination, and zoonotic context."
+      ],
+      "status": "Deep reference",
+      "batch": 6,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V031_Veterinary_dermatophyte_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1wtEGwZ_N5rzwdO3yA2HQnrnwbccG7UogpLXgJH0hlkc/edit?usp=drivesdk",
+      "drive_id": "1wtEGwZ_N5rzwdO3yA2HQnrnwbccG7UogpLXgJH0hlkc",
+      "source_check_date": "2026-11-07",
+      "source_count": 22,
+      "body_word_count": 2685,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSlqrnYl3252Zw32mTfozamPUSJkQyJX-zqf-CaG8LE2BCFsXXgmn2iU4S3UAnfn8swoW2M7rTduR8oSQilTadPKFDARNt7BeHoDyI",
+      "word_sha256": "52a518b2a70e5175013f1a8d9532c894805b13ca2e7a25a011a76bfb7bd6798c"
+    },
+    {
+      "id": "V032",
+      "name": "Veterinary skin scraping and surface cytology",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 4,
+      "research_question": "What can skin scrapings and surface cytology reveal, and what can poor sampling hide?",
+      "research_scope": [
+        "Research lesion selection, superficial and deep scraping, tape or impression methods, staining, and microscopy.",
+        "Verify dog and cat parasite and microbial interpretations and distinguish colonization from disease."
+      ],
+      "status": "Deep reference",
+      "batch": 8,
+      "delivered_species": [
+        "Dog",
+        "Cat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V032_Veterinary_skin_scraping_and_surface_cytology_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1QHBTbR85V6EPLmN4PBfwDhB5Wrk4cd7dzP0lU7E6kJ8/edit?usp=drivesdk",
+      "drive_id": "1QHBTbR85V6EPLmN4PBfwDhB5Wrk4cd7dzP0lU7E6kJ8",
+      "source_check_date": "2026-11-08",
+      "source_count": 24,
+      "body_word_count": 2670,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTRmKPhvaUYUJQW_BRRFg-NKPtFTxLOqiVToZGRpu2MFwCixPQ1lMcBdlD6dtGp28PPNj0ixmCoqMcpF70njIijBHgHYmy79L80YDI",
+      "word_sha256": "e8213a18ad0abd743bde3ca55d89c660d03d3524c32c7625e062682f7641b695"
+    },
+    {
+      "id": "V033",
+      "name": "Veterinary ophthalmic examination and tonometry",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How does a veterinary eye examination combine structure, tears, staining, and pressure?",
+      "research_scope": [
+        "Separate ocular examination, tear testing, fluorescein testing, and tonometry into linked methods.",
+        "Research dog and cat device validation, restraint effects, corneal factors, and breed context."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V034",
+      "name": "Veterinary brainstem auditory evoked response testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do auditory evoked responses assess hearing pathways in dogs and cats?",
+      "research_scope": [
+        "Research stimulus, electrodes, averaging, waveform interpretation, anesthesia or sedation effects, and artifacts.",
+        "Verify dog and cat protocols and distinctions between screening and threshold estimation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V035",
+      "name": "Veterinary neurologic examination",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How does the veterinary neurologic examination localize dysfunction before further testing?",
+      "research_scope": [
+        "Research mentation, cranial nerves, posture, gait, reactions, reflexes, pain assessment, and confounders.",
+        "Verify canine and feline anatomy, behavioral cooperation, and limits of localization."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V036",
+      "name": "Veterinary gastrointestinal endoscopy",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "What can veterinary gastrointestinal endoscopy visualize or sample, and what disease can remain beyond reach?",
+      "research_scope": [
+        "Research preparation, anesthesia, instrument reach, lesion sampling, adequacy, and biopsy handling.",
+        "Separate dog and cat evidence and diagnostic from therapeutic interventions."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V037",
+      "name": "Veterinary cerebrospinal fluid analysis",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 6,
+      "research_question": "How do veterinary cerebrospinal fluid findings depend on sampling site, handling, and species?",
+      "research_scope": [
+        "Research collection contexts, sample allocation, cell count, protein, cytology, infectious assays, and storage.",
+        "Verify canine and feline interpretation and procedural contraindication assessment."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V038",
+      "name": "Veterinary therapeutic drug monitoring",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Dog",
+        "Cat"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How does drug concentration monitoring differ between dogs and cats and across medicines?",
+      "research_scope": [
+        "Develop drug-specific assay, matrix, sampling-time, metabolite, and target-context records.",
+        "Research species pharmacokinetics, organ function, binding, interactions, and validated interpretation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V039",
+      "name": "Equine fecal egg count",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Horse"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "What does an equine fecal egg count measure, and what does it miss about parasitic disease?",
+      "research_scope": [
+        "Research quantitative methods, detection limits, sampling variation, and species identification limitations.",
+        "Separate egg-count reduction testing, resistance surveillance, and clinical parasite investigation."
+      ],
+      "status": "Deep reference",
+      "batch": 6,
+      "delivered_species": [
+        "Horse"
+      ],
+      "word_file": "Clinical_References/Veterinary/V039_Equine_fecal_egg_count_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/14rlxHlLTaxmpqg-P7n4Ae4lgNDEwhqvTzXaPlAAITs0/edit?usp=drivesdk",
+      "drive_id": "14rlxHlLTaxmpqg-P7n4Ae4lgNDEwhqvTzXaPlAAITs0",
+      "source_check_date": "2026-11-07",
+      "source_count": 24,
+      "body_word_count": 2675,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSEi25m6C912q56d__H65OTIxlGezz3fkTr61b3c_X_bF9FAuERCha9pFTTzm5lyFt6-BrGBZGMUkN2FSv6QYsT0kad0jqLLjpL7So",
+      "word_sha256": "811cadc7041a2b65debb03bc8196bd4d4c2c58461dd91477528531eb72824af4"
+    },
+    {
+      "id": "V040",
+      "name": "Equine insulin dysregulation testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Horse"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How do equine insulin tests characterize dysregulation under different feeding and dynamic protocols?",
+      "research_scope": [
+        "Research basal and dynamic testing, preparation, assay calibration, season, stress, and reference context.",
+        "Verify diagnostic performance and breed or management factors without transferring human insulin thresholds."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V041",
+      "name": "Equine pituitary pars intermedia dysfunction testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Horse"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How do season and assay method alter equine pituitary testing?",
+      "research_scope": [
+        "Research basal ACTH, dynamic tests, collection and transport, analytical method, and seasonal reference evidence.",
+        "Address age, breed, latitude, concurrent illness, and diagnostic versus monitoring purposes."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V042",
+      "name": "Equine lameness examination and diagnostic analgesia",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Horse"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How do examination and diagnostic analgesia localize equine lameness without proving every lesion's significance?",
+      "research_scope": [
+        "Research gait assessment, surface and exercise context, sequential regional analgesia, and imaging correlation.",
+        "Verify repeatability, block diffusion, masking of multiple pain sites, and procedure-specific safety."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V043",
+      "name": "Bovine mastitis testing and milk culture",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Cattle"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do milk tests separate inflammation, bacterial growth, and herd-level mastitis questions?",
+      "research_scope": [
+        "Compare somatic cell count, cow-side screening, culture, molecular methods, and susceptibility workflow.",
+        "Research quarter-level aseptic collection, contamination, treatment history, and herd interpretation."
+      ],
+      "status": "Deep reference",
+      "batch": 7,
+      "delivered_species": [
+        "Cattle"
+      ],
+      "word_file": "Clinical_References/Veterinary/V043_Bovine_mastitis_testing_and_milk_culture_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1Qs79QUWiRHUYp4P_PH0cp_MLAm1yvtipwarfcrA0alY/edit?usp=drivesdk",
+      "drive_id": "1Qs79QUWiRHUYp4P_PH0cp_MLAm1yvtipwarfcrA0alY",
+      "source_check_date": "2026-11-08",
+      "source_count": 24,
+      "body_word_count": 2791,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMRcEwJHYvp8Fs_IU8zwvOh6itRamWXjSVSMhvndKLM0Kb50-_IvHUeQgS1hpZfZRq5p5EGoFIweVN-UFk5NFnpUqbwPHPix_kmmDk4",
+      "word_sha256": "9e98c4a610904677f0684e5a2de11f13595d7c1164ed2fcab265e40dc31de4d6"
+    },
+    {
+      "id": "V044",
+      "name": "Bovine paratuberculosis testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Cattle"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "Why do bovine paratuberculosis tests perform differently across infection stages and herd contexts?",
+      "research_scope": [
+        "Compare antibody assays, fecal PCR, and culture with sampling and test-performance evidence.",
+        "Research shedding, age, vaccination or cross-reactivity context, and individual versus herd strategies."
+      ],
+      "status": "Deep reference",
+      "batch": 7,
+      "delivered_species": [
+        "Cattle"
+      ],
+      "word_file": "Clinical_References/Veterinary/V044_Bovine_paratuberculosis_testing_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1IQ6cfJ998hP__vySQWhvxbJ1MXWirk5J8P5bfRIdvD0/edit?usp=drivesdk",
+      "drive_id": "1IQ6cfJ998hP__vySQWhvxbJ1MXWirk5J8P5bfRIdvD0",
+      "source_check_date": "2026-11-08",
+      "source_count": 23,
+      "body_word_count": 2733,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMTk_kOhQ68VA_p206juntqwev6cuMh-24RCKzr8znE4hdc3ARJmXmWRPQ38GPveAmV2xiW-6s9UbSczSnHQnEIsuyqyQq8Tt2RGj2s",
+      "word_sha256": "abc4871e5c189711d82d4a4127edfd5ff90b5e9376e4b4fbf6168f125de24ce0"
+    },
+    {
+      "id": "V045",
+      "name": "Livestock pregnancy ultrasonography",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Cattle",
+        "Sheep",
+        "Goat",
+        "Pig"
+      ],
+      "roadmap_wave": 7,
+      "research_question": "How does pregnancy ultrasound differ across livestock species and stages?",
+      "research_scope": [
+        "Develop separate cattle, sheep, goat, and pig protocols for route, timing, operator skill, and interpretation.",
+        "Research viability, fetal number, gestational estimation, limitations, and handling welfare."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V046",
+      "name": "Small ruminant fecal egg count",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Sheep",
+        "Goat"
+      ],
+      "roadmap_wave": 3,
+      "research_question": "How do small ruminant fecal egg counts inform flock parasite assessment while leaving important gaps?",
+      "research_scope": [
+        "Research sheep and goat quantitative methods, detection limits, sampling, larval culture, and reduction testing.",
+        "Verify mixed parasite populations, aggregation, periparturient context, resistance evidence, and clinical correlation."
+      ],
+      "status": "Deep reference",
+      "batch": 7,
+      "delivered_species": [
+        "Sheep",
+        "Goat"
+      ],
+      "word_file": "Clinical_References/Veterinary/V046_Small_ruminant_fecal_egg_count_Deep_Reference.docx",
+      "drive_url": "https://docs.google.com/document/d/1OsWwvin3hHx7BtajdvaTdnUpQWsEE6nYSEV8fktwndA/edit?usp=drivesdk",
+      "drive_id": "1OsWwvin3hHx7BtajdvaTdnUpQWsEE6nYSEV8fktwndA",
+      "source_check_date": "2026-11-08",
+      "source_count": 26,
+      "body_word_count": 3011,
+      "clinical_review": "Pending",
+      "live_text_match": true,
+      "live_revision": "AHj4eMSwavZFyUzpvw5W9_psgwBQP_AdpAn8zbzBaib-vfTNmO71pUs1mEg6ryPjw_NiYuSXXNkYHyqzHhcKnZgx9F11vOU22Lci7_2yf6Y",
+      "word_sha256": "1ee2ee21659e527992892d466fa7c8944a8aa1090332ad7d342e325ff5754613"
+    },
+    {
+      "id": "V047",
+      "name": "Porcine reproductive and respiratory syndrome testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Pig"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do porcine PRRS tests distinguish infection evidence from herd status?",
+      "research_scope": [
+        "Compare PCR, serology, specimen types, pooled sampling, and genetic characterization.",
+        "Research infection timing, vaccine strains, age groups, and herd surveillance design."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V048",
+      "name": "Avian influenza testing in poultry",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Chicken",
+        "Turkey",
+        "Duck"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do avian influenza tests connect sampling strategy with subtype and regulatory confirmation?",
+      "research_scope": [
+        "Research molecular screening, subtyping, virus isolation roles, specimens, pooling, and laboratory authorization.",
+        "Separate chicken, turkey, and duck evidence and verify current reporting and biosecurity requirements."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V049",
+      "name": "Companion bird hematology and blood film examination",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Parrot",
+        "Budgerigar",
+        "Cockatiel"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "Why does avian blood cell biology require different counting and smear methods?",
+      "research_scope": [
+        "Research nucleated erythrocytes, thrombocyte identification, manual versus automated methods, and sample artifacts.",
+        "Build actual-species records for parrots, budgerigars, and cockatiels with validated reference populations."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V050",
+      "name": "Avian chlamydiosis testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Parrot",
+        "Budgerigar",
+        "Cockatiel"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do avian chlamydiosis tests distinguish organism detection, immune response, and intermittent shedding?",
+      "research_scope": [
+        "Compare nucleic-acid assays, serology, specimen sites, repeat sampling, and handling.",
+        "Research parrot, budgerigar, and cockatiel validation and current occupational and public-health guidance."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V051",
+      "name": "Reptile hematology and plasma biochemistry",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Snake",
+        "Lizard",
+        "Turtle"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do reptile physiology and sample handling alter hematology and chemistry interpretation?",
+      "research_scope": [
+        "Research nucleated cells, anticoagulants, sample volume, analytical methods, temperature, season, and reproductive state.",
+        "Replace broad snake, lizard, and turtle group labels with exact studied species and validated reference populations."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V052",
+      "name": "Reptile fecal parasite examination",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Snake",
+        "Lizard",
+        "Turtle"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do reptile fecal methods distinguish parasite stages, commensals, and diet-related findings?",
+      "research_scope": [
+        "Compare flotation, direct examination, sedimentation, stains, and molecular methods.",
+        "Research exact snake, lizard, and turtle species, captive or wild context, life cycles, and validation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V053",
+      "name": "Fish skin and gill wet mount examination",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Teleost fish"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "What does a fresh fish skin or gill wet mount reveal, and how quickly can sample artifacts change it?",
+      "research_scope": [
+        "Research sampling sites, handling welfare, microscopy, parasite identification, and specimen deterioration.",
+        "Specify fish species, water temperature, environment, and pathogen ecology rather than assuming all teleosts are equivalent."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V054",
+      "name": "Fish bacterial culture and susceptibility testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Teleost fish"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do fish bacterial culture and susceptibility testing depend on organism, temperature, and assay standards?",
+      "research_scope": [
+        "Research aseptic sample site, transport, incubation, identification, susceptibility methods, and available interpretive criteria.",
+        "Specify fish and pathogen species and research limits where validated breakpoints are absent."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V055",
+      "name": "Laboratory rodent colony health surveillance",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Mouse",
+        "Rat"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How does a rodent colony surveillance design shape what a negative screen can establish?",
+      "research_scope": [
+        "Compare sentinel, direct sampling, environmental monitoring, serology, and molecular methods.",
+        "Research mouse and rat pathogen targets, housing, prevalence, sample design, and assay validation."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    },
+    {
+      "id": "V056",
+      "name": "Wildlife rabies laboratory testing",
+      "domain": "Veterinary",
+      "planned_species": [
+        "Bat",
+        "Raccoon",
+        "Skunk",
+        "Fox"
+      ],
+      "roadmap_wave": 8,
+      "research_question": "How do wildlife rabies laboratory methods establish a diagnosis within public-health systems?",
+      "research_scope": [
+        "Research authorized specimen collection, tissue targets, approved antigen or nucleic-acid methods, controls, and confirmation.",
+        "Verify bat, raccoon, skunk, and fox evidence separately and current jurisdictional reporting and exposure pathways."
+      ],
+      "status": "Planned",
+      "batch": null,
+      "delivered_species": [],
+      "word_file": "",
+      "drive_url": "",
+      "drive_id": "",
+      "source_check_date": "",
+      "source_count": 0,
+      "body_word_count": null,
+      "clinical_review": "Not yet drafted",
+      "live_text_match": null
+    }
+  ],
+  "batches": [
+    {
+      "batch": 0,
+      "ids": [
+        "H001",
+        "H002",
+        "H003",
+        "H004",
+        "H005",
+        "H006",
+        "V001",
+        "V002",
+        "V003",
+        "V004",
+        "V005",
+        "V006"
+      ],
+      "documents": 12,
+      "source_check_date": "2026-11-05"
+    },
+    {
+      "batch": 1,
+      "ids": [
+        "H011",
+        "H014",
+        "H015",
+        "H018",
+        "V007",
+        "V008",
+        "V009",
+        "V010"
+      ],
+      "documents": 8,
+      "source_check_date": "2026-11-06"
+    },
+    {
+      "batch": 2,
+      "ids": [
+        "H007",
+        "H009",
+        "H032",
+        "V021",
+        "V022",
+        "V023"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-06"
+    },
+    {
+      "batch": 3,
+      "ids": [
+        "H016",
+        "H040",
+        "H039",
+        "V012",
+        "V011",
+        "V024"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-07"
+    },
+    {
+      "batch": 4,
+      "ids": [
+        "H008",
+        "H010",
+        "H012",
+        "V013",
+        "V014",
+        "V018"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-07"
+    },
+    {
+      "batch": 5,
+      "ids": [
+        "H013",
+        "H017",
+        "H020",
+        "V027",
+        "V028",
+        "V030"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-07"
+    },
+    {
+      "batch": 6,
+      "ids": [
+        "H021",
+        "H022",
+        "V029",
+        "V031",
+        "H019",
+        "V039"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-07"
+    },
+    {
+      "batch": 7,
+      "ids": [
+        "H024",
+        "H025",
+        "V044",
+        "V046",
+        "H023",
+        "V043"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-08"
+    },
+    {
+      "batch": 8,
+      "ids": [
+        "H026",
+        "H027",
+        "V019",
+        "V020",
+        "H028",
+        "V032"
+      ],
+      "documents": 6,
+      "source_check_date": "2026-11-08"
+    }
+  ],
+  "counts": {
+    "catalog_families": 112,
+    "starter_briefs": 12,
+    "deep_references": 50,
+    "available_documents": 62,
+    "remaining_topics": 50,
+    "human_available": 31,
+    "veterinary_available": 31
+  },
+  "scope": "The original112-family editorial catalog, not every known human or animal test. Companion sources and audio are inventoried separately."
+}
